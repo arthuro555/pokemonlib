@@ -16,23 +16,23 @@ other features of the pokemon games.
 #### WIP features
 ###### I mean what I'm actively working on (Checked if ready for release soon and currently in test)
 
-- Pokemon Class
-- Pokemon attacks
-- Automatically get other pokemon data like sprites from the PokeApi
-- Basic Battle UI (Very slow progress)
-- Automatic game build (Will be fast to do)
+- [ ] Pokemon Class
+- [ ] Pokemon attacks
+- [ ] Automatically get other pokemon data like sprites from the PokeApi
+- [ ] Basic Battle UI (Very slow progress)
+- [ ] Automatic game build (Will be fast to do)
 
 #### Planned Features:
 ###### (Checked means I'm starting to develop it as soon as I complete a WIP feature)
 
-+ Battle Logic (A class that handles the whole battle but without any UI)
-+ Plugin System that permits to create your own pokemons/attacks/items
-- Items (Needs Inventory first)
-- Inventory/Player class
-- Overworld UI
-- Trainers battle
-- Possibility to catch pokemons
-- Interaction system in Overworld
++ [X] Battle Logic (A class that handles the whole battle but without any UI)
++ [X] Plugin System that permits to create your own pokemons/attacks/items
+- [ ] Items (Needs Inventory first)
+- [ ] Inventory/Player class
+- [ ] Overworld UI
+- [ ] Trainers battle
+- [ ] Possibility to catch pokemons
+- [ ] Interaction system in Overworld
 
 And possibly more ;-) you can always make a feature request in the issues tab.
 
