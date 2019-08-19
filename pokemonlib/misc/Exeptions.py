@@ -1,0 +1,2 @@
+class IdNotReferenced(Exception):
+    pass

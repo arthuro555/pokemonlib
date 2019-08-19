@@ -1,0 +1,1 @@
+{"name": "geodude", "types": ["ground", "rock"], "stats": {"speed": 20, "special-defense": 30, "special-attack": 30, "defense": 100, "attack": 80, "hp": 40}}

@@ -1,0 +1,1 @@
+{"name": "golem", "types": ["ground", "rock"], "stats": {"speed": 45, "special-defense": 65, "special-attack": 55, "defense": 130, "attack": 120, "hp": 80}}
