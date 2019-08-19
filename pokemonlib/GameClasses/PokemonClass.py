@@ -8,7 +8,13 @@ class Pokemon:
     def __init__(self, pokemon_id=1):
         self.id = pokemon_id
         pokemon = []
-        for filename in os.listdir('pokemon_data'):
+        localPath = os.listdir(os.getcwd().split("/"))
+        print(localPath)
+        path = ""
+        for x in range(len(localPath)-1):
+            print(x)
+            path += path + str(localPath[x])
+        for filename in os.listdir(path):
             if filename != "pokemon_" + str(self.id) + ".json":
                 continue
             else:
