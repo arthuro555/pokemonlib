@@ -1,12 +1,14 @@
 <component name="ProjectDictionaryState">
   <dictionary name="pc">
     <words>
+      <w>attk</w>
       <w>attkph</w>
       <w>attksp</w>
       <w>damagecalculation</w>
       <w>defph</w>
       <w>defsp</w>
       <w>gethp</w>
+      <w>getstats</w>
       <w>graphictest</w>
       <w>mypokemon</w>
       <w>overworld</w>
@@ -18,6 +20,7 @@
       <w>pokemonlib</w>
       <w>pokemons</w>
       <w>pyarmor</w>
+      <w>zoroarks</w>
     </words>
   </dictionary>
 </component>
