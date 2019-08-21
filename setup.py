@@ -11,7 +11,7 @@ setuptools.setup(
     description="An implementation of pokemon algorithms",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/arthuro555",
+    url="https://github.com/arthuro555/pokemonlib",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
