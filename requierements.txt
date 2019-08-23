@@ -1,0 +1,3 @@
+requests
+cocos2d
+cryptography
