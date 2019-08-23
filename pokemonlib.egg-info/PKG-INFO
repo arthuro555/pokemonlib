@@ -6,7 +6,10 @@ Home-page: https://github.com/arthuro555/pokemonlib
 Author: arthuro555
 Author-email: papinrouge@gmail.com
 License: UNKNOWN
+Project-URL: Say Thanks!, https://saythanks.io/to/arthuro555
+Project-URL: Source, https://github.com/arthuro555/pokemonlib
 Description: # Pokemonlib for python
+        [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/arthuro555)
         
         ## WARNING:
         **I Am not and don't claim to be affiliated with Pokemon or the Pokemon Company or Nintendo.
@@ -25,18 +28,18 @@ Description: # Pokemonlib for python
         ###### I mean what I'm actively working on (Checked if ready for release soon and currently in test)
         
         - [ ] Pokemon Class
+        - [ ] Inventory/Player class
         - [ ] Pokemon attacks
         - [ ] Automatically get other pokemon data like sprites from the PokeApi
         - [ ] Basic Battle UI (Very slow progress)
-        - [ ] Automatic game build (Will be fast to do)
+        - [ ] Automatic game build
         
         #### Planned Features:
         ###### (Checked means I'm starting to develop it as soon as I complete a WIP feature)
         
-        + [X] Battle Logic (A class that handles the whole battle but without any UI)
         + [X] Plugin System that permits to create your own pokemons/attacks/items
-        - [ ] Items (Needs Inventory first)
-        - [ ] Inventory/Player class
+        + [X] Items (Needs Inventory first)
+        - [ ] Battle Logic (A class that handles the whole battle but without any UI)
         - [ ] Overworld UI
         - [ ] Trainers battle
         - [ ] Possibility to catch pokemons
@@ -77,7 +80,11 @@ Description: # Pokemonlib for python
         because if they are not compatible with my goals I will have to reject them.
         
 Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
 Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 2
+Classifier: Topic :: Software Development
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Description-Content-Type: text/markdown

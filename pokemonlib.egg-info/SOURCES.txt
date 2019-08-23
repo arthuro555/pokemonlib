@@ -5,6 +5,7 @@ pokemonlib/main.py
 pokemonlib.egg-info/PKG-INFO
 pokemonlib.egg-info/SOURCES.txt
 pokemonlib.egg-info/dependency_links.txt
+pokemonlib.egg-info/requires.txt
 pokemonlib.egg-info/top_level.txt
 pokemonlib/GameClasses/CombatClass.py
 pokemonlib/GameClasses/PlayerClass.py
@@ -12,6 +13,8 @@ pokemonlib/GameClasses/PokemonClass.py
 pokemonlib/GameClasses/UIClass.py
 pokemonlib/GameClasses/__init__.py
 pokemonlib/misc/Exeptions.py
+pokemonlib/misc/Security.py
+pokemonlib/misc/Settings.py
 pokemonlib/misc/__init__.py
 pokemonlib/pokemonDataDownload/GetPokeAPI.py
 pokemonlib/pokemonDataDownload/__init__.py

@@ -1,13 +1,13 @@
 import os  # for finding the relative path to pokemon_data
 import json  # for parsing pokemon_data json files
 import random  # for generating IV or other random values
-import logging
-from pokemonlib.misc import Exeptions  # for initialisation exceptions
+import logging  # for printing data
+from ..misc import Exeptions  # for initialisation exceptions
 
 logPokemon = logging.getLogger("Main.PokemonClass")
 
 
-class Pokemon:
+class Pokemon(object):
     def __init__(self, pokemon_id=1):
         """
         Pokemon is the base class of all pokemon objects. It stores the data and stats of the pokemons.
@@ -18,7 +18,7 @@ class Pokemon:
 
         # Pokemon ID to recognize what pokemon it is even if self.name is changed (For Example Zoroarks
         # illusions or Dittos transformation)
-        self.id = pokemon_id
+        self._id = pokemon_id
 
         pokemon = []
         path = os.getcwd()  # Gets the relative path from main.py
@@ -50,22 +50,24 @@ class Pokemon:
         try:
             stats = pokemon["stats"]
             self.name = pokemon["name"]
-            self.hp = stats["hp"]
-            self.defph = stats["defense"]
-            self.defsp = stats["special-defense"]
-            self.attkph = stats["attack"]
-            self.attksp = stats["special-defense"]
-            self.lv = 1
-            self.types = pokemon["types"]
-            self.attacks = {1: ["Thunderbolt", 20, True], 2: ["Poop", 40, True], 3: ["Earthquake", 40, True],
+            self._hp = stats["hp"]
+            self._defph = stats["defense"]
+            self._defsp = stats["special-defense"]
+            self._attkph = stats["attack"]
+            self._attksp = stats["special-defense"]
+            self._lv = 1
+            self._types = pokemon["types"]
+            self._attacks = {1: ["Thunderbolt", 20, True], 2: ["Poop", 40, True], 3: ["Earthquake", 40, True],
                             4: ["Scratch", 40, True]}
-            self.iv = random.randint(0, 31)
+            self._iv = random.randint(0, 31)
+
         except KeyError:
             raise Exeptions.InvalidPokemonData("Some needed data is missing in ´" + path + filename + "´. Please ensure"
                                                + " that the name, base stats, attacks and the type are included.")
 
         logPokemon.info("Pokemon detected as ´" + pokemon["name"] + "´ has finished initializing.")
 
+    @property
     def getstats(self):
         """
         Gets all the stats of the pokemon and return them in form of a Dictionary.

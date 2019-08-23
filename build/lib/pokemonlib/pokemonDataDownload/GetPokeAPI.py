@@ -29,13 +29,29 @@ def pokegetapi():
 
         pokedata = {"name": name, "types": types, "stats": stats}
 
+        path = os.getcwd()  # Gets the relative path from main.py
+
+        # Decides if using \ for windows or / for mac and linux in the path
+        if os.name == "nt":
+            otherpath = path + "pokemonlib\\pokemon_data\\"
+            path += "pokemonlib\\pokemon_data\\pokemon_properties\\"
+        else:
+            otherpath = path + "pokemonlib/pokemon_data/"
+            path += "pokemonlib/pokemon_data/pokemon_properties/"
+
         try:
-            with open("pokemon_data/pokemon_" + str(idn) + ".json", "w+") as f:
+
+            with open(path + "/pokemon_" + str(idn) + ".json", "w+") as f:
                 json.dump(pokedata, f)
+
             print("Saved " + str(idn))
+
         except FileNotFoundError:
-            os.mkdir("pokemon_data")
-            with open("pokemon_data/pokemon_" + str(idn) + ".json", "w+") as f:
+            os.mkdir(otherpath)
+            os.mkdir(path)
+
+            with open(path + "/pokemon_" + str(idn) + ".json", "w+") as f:
                 json.dump(pokedata, f)
+
             print("Saved " + str(idn))
 
