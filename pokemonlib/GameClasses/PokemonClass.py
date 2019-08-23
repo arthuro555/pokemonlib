@@ -2,13 +2,12 @@ import os  # for finding the relative path to pokemon_data
 import json  # for parsing pokemon_data json files
 import random  # for generating IV or other random values
 import logging  # for printing data
-from abc import ABC, abstractmethod
 from ..misc import Exeptions  # for initialisation exceptions
 
 logPokemon = logging.getLogger("Main.PokemonClass")
 
 
-class Pokemon(ABC):
+class Pokemon():
     def __init__(self, pokemon_id=1):
         """
         Pokemon is the base class of all pokemon objects. It stores the data and stats of the pokemons.
@@ -67,7 +66,6 @@ class Pokemon(ABC):
 
         logPokemon.info("Pokemon detected as ´" + pokemon["name"] + "´ has finished initializing.")
 
-    @abstractmethod
     def getstats(self):
         """
         Gets all the stats of the pokemon and return them in form of a Dictionary.
