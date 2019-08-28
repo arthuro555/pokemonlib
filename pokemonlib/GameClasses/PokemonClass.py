@@ -2,9 +2,10 @@ import os  # for finding the relative path to pokemon_data
 import json  # for parsing pokemon_data json files
 import random  # for generating IV or other random values
 import logging  # for printing data
-from ..misc import Exeptions  # for initialisation exceptions
+from pokemonlib.misc import Exeptions  # for initialisation exceptions
 
 logPokemon = logging.getLogger("Main.PokemonClass")
+logPokemon.setLevel(logging.DEBUG)
 
 
 class Pokemon(object):
@@ -67,7 +68,6 @@ class Pokemon(object):
 
         logPokemon.info("Pokemon detected as ´" + pokemon["name"] + "´ has finished initializing.")
 
-    @property
     def getstats(self):
         """
         Gets all the stats of the pokemon and return them in form of a Dictionary.
@@ -76,6 +76,18 @@ class Pokemon(object):
         """
         return {"hp": self.hp, "def": self.defph, "defsp": self.defsp, "attk": self.attkph,
                 "attksp": self.attksp, "attacks": self.attacks}
+
+
+class Team:
+    def __init__(self, pokemon1, pokemon2=None, pokemon3=None, pokemon4=None, pokemon5=None, pokemon6=None):
+        templist = [pokemon1, pokemon2, pokemon3, pokemon4, pokemon5, pokemon6]
+        self.__pokemonlist = []
+        for pokemon in templist:
+            if pokemon is not None:  # Check if this argument was passed
+                if isinstance(pokemon, Pokemon):  # Basic check
+                    self.__pokemonlist.append(pokemon)
+                else:
+                    raise Exeptions.NotAPokemon("Argument was passed that wasn't an instance of pokemon class")
 
 
 def testPokemonClass(loggerInstance=logPokemon):

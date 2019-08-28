@@ -4,3 +4,7 @@ class IdNotReferenced(Exception):
 
 class InvalidPokemonData(Exception):
     pass
+
+
+class NotAPokemon(Exception):
+    pass

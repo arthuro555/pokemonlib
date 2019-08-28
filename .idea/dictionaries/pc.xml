@@ -18,13 +18,17 @@
       <w>pacaud</w>
       <w>pikachu</w>
       <w>pkmn</w>
+      <w>pksv</w>
+      <w>playerlog</w>
       <w>pokedata</w>
       <w>pokedatagetfromapi</w>
       <w>pokegetapi</w>
       <w>pokemonlib</w>
+      <w>pokemonlist</w>
       <w>pokemons</w>
       <w>pyarmor</w>
       <w>pyglet</w>
+      <w>templist</w>
       <w>zoroarks</w>
     </words>
   </dictionary>

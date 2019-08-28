@@ -1,9 +1,9 @@
 import logging
 import configparser
 
-from .pokemonDataDownload import GetPokeAPI as PkApi
-from .GameClasses import PokemonClass as Pkmn
-from .GameClasses import UIClass as UI
+from pokemonlib.pokemonDataDownload import GetPokeAPI as PkApi
+from pokemonlib.GameClasses import PokemonClass as Pkmn
+from pokemonlib.GameClasses import UIClass as UI
 
 
 log = logging.getLogger("Main")

@@ -37,6 +37,12 @@ other features of the pokemon games.
 
 And possibly more ;-) you can always make a feature request in the issues tab.
 
+
+## Python Compatibility
+
+For the time being writing only python 3 is supported but python 2 support is planned.
+Anyways, if you're still using python 2, you should upgrade!
+
 ## Helping or contributing to the project
 
 I have no problem with people helping me. If someone makes many good pull request I will consider to add them
