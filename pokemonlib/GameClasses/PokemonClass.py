@@ -4,11 +4,15 @@ import random  # for generating IV or other random values
 import logging  # for printing data
 from pokemonlib.misc import Exeptions  # for initialisation exceptions
 
+logging.basicConfig()
+logging.root.setLevel(logging.NOTSET)
+logging.basicConfig(level=logging.NOTSET)
 logPokemon = logging.getLogger("Main.PokemonClass")
 logPokemon.setLevel(logging.DEBUG)
 
 
 class Pokemon(object):
+    # noinspection PyTypeChecker
     def __init__(self, pokemon_id=1):
         """
         Pokemon is the base class of all pokemon objects. It stores the data and stats of the pokemons.
@@ -19,20 +23,20 @@ class Pokemon(object):
 
         # Pokemon ID to recognize what pokemon it is even if self.name is changed (For Example Zoroarks
         # illusions or Dittos transformation)
-        self._id = pokemon_id
+        self.__id = pokemon_id
 
         pokemon = []
         path = os.getcwd()  # Gets the relative path from main.py
 
         # Decides if using \ for windows or / for mac and linux in the path
         if os.name == "nt":
-            path += "pokemonlib\\pokemon_data\\pokemon_properties\\"
+            path += "\\pokemonlib\\pokemon_data\\pokemon_properties\\"
         else:
             path += "pokemonlib/pokemon_data/pokemon_properties/"
 
         # Search in pokemon_data for the data of the pokemon depending on the ID
         for filename in os.listdir(path):
-            if filename != "pokemon_" + str(self.id) + ".json":
+            if filename != "pokemon_" + str(self.__id) + ".json":
                 continue
             else:
                 f = open(path + filename, "r")
@@ -42,7 +46,7 @@ class Pokemon(object):
 
         # When There are no properties in the list raise an error
         if pokemon == []:
-            raise Exeptions.IdNotReferenced("The pokemon_data with id " + str(self.id) +
+            raise Exeptions.IdNotReferenced("The pokemon_data with id " + str(self.__id) +
                                             " was not found in the directory ´" + path +
                                             "´. Make sure it is in a file named pokemon_(id of the pokemon_data).json")
 
@@ -63,8 +67,9 @@ class Pokemon(object):
             self._iv = random.randint(0, 31)
 
         except KeyError:
-            raise Exeptions.InvalidPokemonData("Some needed data is missing in ´" + path + filename + "´. Please ensure"
-                                               + " that the name, base stats, attacks and the type are included.")
+            raise Exeptions.InvalidPokemonData("Some needed data is missing in ´" + path + filename + "´. Please "
+                                               + "ensure that the name, base stats, attacks and the type are included."
+                                               + "")
 
         logPokemon.info("Pokemon detected as ´" + pokemon["name"] + "´ has finished initializing.")
 
@@ -74,8 +79,8 @@ class Pokemon(object):
         Usage: getstats()
         Returns: {'hp', 'def', 'defsp', 'attk', 'attksp', 'attacks'=[]}
         """
-        return {"hp": self.hp, "def": self.defph, "defsp": self.defsp, "attk": self.attkph,
-                "attksp": self.attksp, "attacks": self.attacks}
+        return {"hp": self._hp, "def": self._defph, "defsp": self._defsp, "attk": self._attkph,
+                "attksp": self._attksp, "attacks": self._attacks}
 
 
 class Team:
@@ -88,6 +93,77 @@ class Team:
                     self.__pokemonlist.append(pokemon)
                 else:
                     raise Exeptions.NotAPokemon("Argument was passed that wasn't an instance of pokemon class")
+
+    def pop(self):
+        pass
+
+    def add(self):
+        pass
+
+    def transfer(self, BoxInstance):
+        pass
+
+
+class Box(Team):
+    def __init__(self, *args, **kwargs):
+        templist = []
+        self.__pokemonlist = []
+        if "MaxPokemon" in kwargs:
+            self.MaxPokemon = kwargs["MaxPokemon"]
+        else:
+            self.MaxPokemon = 50
+
+        for _ in range(self.MaxPokemon):
+            templist.append(None)
+
+        for pkmn in args:
+            length = 0
+            for p in templist:
+                if p is not None:
+                    length += 1
+            logPokemon.debug(str(length))
+            logPokemon.debug(templist)
+            logPokemon.debug(len(templist))
+            templist[length] = pkmn
+
+        for pos, pkmn in kwargs.items():
+            if pos == "MaxPokemon":
+                continue
+            try:
+                pos = [int(s) for s in pos.split() if s.isdigit()][0]
+                templist[pos] = pkmn
+            except IndexError:
+                logPokemon.info("An Unvalid keyword arg was given. Handling it as a normal arg.")
+                length = 0
+                for p in templist:
+                    if p is not None:
+                        length += 1
+                logPokemon.debug(str(length))
+                logPokemon.debug(templist)
+                logPokemon.debug(len(templist))
+                templist[length] = pkmn
+
+        if len(templist)-1 > self.MaxPokemon:
+            raise ValueError("You entered contradictory values: More pokemons than the max capacity of the box")
+
+        for pokemon in templist:
+            if pokemon is not None:  # Check if this argument was passed
+                if isinstance(pokemon, Pokemon):  # Basic check
+                    self.__pokemonlist.append(pokemon)
+                else:
+                    raise Exeptions.NotAPokemon("Argument was passed that wasn't an instance of pokemon class")
+            else:
+                self.__pokemonlist.append(pokemon)
+
+    def __len__(self):
+        length = 0
+        for p in self.__pokemonlist:
+            if p is not None:
+                length +=1
+        return length
+
+    def transfer(self, TeamInstance):
+        pass
 
 
 def testPokemonClass(loggerInstance=logPokemon):

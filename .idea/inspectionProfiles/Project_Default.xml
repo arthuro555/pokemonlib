@@ -5,6 +5,15 @@
       <option name="ignoredErrors">
         <list>
           <option value="N803" />
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="kivy.graphics.*" />
+          <option value="pokemonlib.GameClasses.PokemonClass.Pokemon.*" />
         </list>
       </option>
     </inspection_tool>

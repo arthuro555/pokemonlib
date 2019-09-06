@@ -8,14 +8,16 @@ class GameWidget(Widget):
         super().__init__(**kwargs)
 
         with self.canvas:
-            Rectangle.
+            Rectangle(pos=(0,0), size=(100,100))
 
 
 class GameUI(App):
-    def bulid(self):
+    def build(self):
         return GameWidget()
 
 
+app = GameUI()
+app.run()
+
 def graphictest():
-    app = GameUI()
-    app.run()
+    a
