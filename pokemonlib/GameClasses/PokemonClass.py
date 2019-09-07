@@ -32,7 +32,7 @@ class Pokemon(object):
         if os.name == "nt":
             path += "\\pokemonlib\\pokemon_data\\pokemon_properties\\"
         else:
-            path += "pokemonlib/pokemon_data/pokemon_properties/"
+            path += "/pokemonlib/pokemon_data/pokemon_properties/"
 
         # Search in pokemon_data for the data of the pokemon depending on the ID
         for filename in os.listdir(path):
