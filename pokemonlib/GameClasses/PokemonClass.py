@@ -174,15 +174,19 @@ class Box(Team):
         pass
 
 
-def testPokemonClass(loggerInstance=logPokemon):
+def testPokemonClass(loggerInstance=logPokemon, pokemonId=None):
     """
     A function that inits an object of the Pokemon Class to see if it works.
+    :param pokemonId:
     :param loggerInstance:
     :return:
     """
     loggerInstance.info("Testing Pokemon Class:")
-    num = int(input("Give the id of a Pokemon to pass to the pokemon class"))  # Get id to pass to the __init__
-    # function from Pokemon Class
+    if pokemonId is None:
+        num = int(input("Give the id of a Pokemon to pass to the pokemon class"))  # Get id to pass to the __init__
+        # function from Pokemon Class
+    else:
+        num = pokemonId
 
     if type(num) is int:
         num_poke = 0
