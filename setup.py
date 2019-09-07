@@ -21,7 +21,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pokemonlib",
-    version="0.0.3",
+    version="0.0.4",
     author="arthuro555",
     author_email="papinrouge@gmail.com",
     description="An implementation of pokemon algorithms",
