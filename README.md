@@ -42,7 +42,7 @@ And possibly more ;-) you can always make a feature request in the issues tab.
 
 ## Python Compatibility
 
-For the time being writing only python 3 is supported but python 2 support is planned.
+For now only python 3 is supported and python 2 support is not planned.
 Anyways, if you're still using python 2, you should upgrade!
 
 ## Helping or contributing to the project
