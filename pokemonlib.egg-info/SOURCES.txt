@@ -1,4 +1,3 @@
-README.md
 setup.py
 pokemonlib/__init__.py
 pokemonlib.egg-info/PKG-INFO
