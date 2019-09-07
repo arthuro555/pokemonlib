@@ -1,6 +1,7 @@
 # Pokemonlib for python
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/arthuro555)
 [![Build Status](https://travis-ci.org/arthuro555/pokemonlib.svg?branch=master)](https://travis-ci.org/arthuro555/pokemonlib)
+[![CircleCI](https://circleci.com/gh/arthuro555/pokemonlib/tree/master.svg?style=svg)](https://circleci.com/gh/arthuro555/pokemonlib/tree/master)
 
 ## WARNING:
 **I Am not and don't claim to be affiliated with Pokemon or the Pokemon Company or Nintendo.
