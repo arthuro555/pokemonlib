@@ -1,4 +1,3 @@
 requests
-kivy
 cryptography
 pyarmor
