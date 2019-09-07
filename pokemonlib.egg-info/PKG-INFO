@@ -1,4 +1,4 @@
-Metadata-Version: 2.1
+Metadata-Version: 1.1
 Name: pokemonlib
 Version: 0.0.1
 Summary: An implementation of pokemon algorithms
@@ -6,10 +6,10 @@ Home-page: https://github.com/arthuro555/pokemonlib
 Author: arthuro555
 Author-email: papinrouge@gmail.com
 License: UNKNOWN
-Project-URL: Say Thanks!, https://saythanks.io/to/arthuro555
-Project-URL: Source, https://github.com/arthuro555/pokemonlib
 Description: # Pokemonlib for python
         [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/arthuro555)
+        [![Build Status](https://travis-ci.org/arthuro555/pokemonlib.svg?branch=master)](https://travis-ci.org/arthuro555/pokemonlib)
+        [![CircleCI](https://circleci.com/gh/arthuro555/pokemonlib/tree/master.svg?style=svg)](https://circleci.com/gh/arthuro555/pokemonlib/tree/master)
         
         ## WARNING:
         **I Am not and don't claim to be affiliated with Pokemon or the Pokemon Company or Nintendo.
@@ -50,7 +50,7 @@ Description: # Pokemonlib for python
         
         ## Python Compatibility
         
-        For the time being writing only python 3 is supported but python 2 support is planned.
+        For now only python 3 is supported and python 2 support is not planned.
         Anyways, if you're still using python 2, you should upgrade!
         
         ## Helping or contributing to the project
@@ -89,8 +89,6 @@ Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers
 Classifier: Programming Language :: Python :: 3
-Classifier: Programming Language :: Python :: 2
 Classifier: Topic :: Software Development
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
-Description-Content-Type: text/markdown
