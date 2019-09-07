@@ -8,3 +8,11 @@ class InvalidPokemonData(Exception):
 
 class NotAPokemon(Exception):
     pass
+
+
+class InvalidInput(Exception):
+    pass
+
+
+class ListFull(Exception):
+    pass

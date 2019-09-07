@@ -32,7 +32,7 @@ class Pokemon(object):
         if os.name == "nt":
             path += "\\pokemonlib\\pokemon_data\\pokemon_properties\\"
         else:
-            path += "pokemonlib/pokemon_data/pokemon_properties/"
+            path += "/pokemonlib/pokemon_data/pokemon_properties/"
 
         # Search in pokemon_data for the data of the pokemon depending on the ID
         for filename in os.listdir(path):
@@ -64,7 +64,7 @@ class Pokemon(object):
             self._lv = 1
             self._types = pokemon["types"]
             self._attacks = {1: ["Thunderbolt", 20, True], 2: ["Poop", 40, True], 3: ["Earthquake", 40, True],
-                            4: ["Scratch", 40, True]}
+                             4: ["Scratch", 40, True]}
             self._iv = random.randint(0, 31)
 
         except KeyError:
@@ -94,15 +94,91 @@ class Team:
                     self.__pokemonlist.append(pokemon)
                 else:
                     raise Exeptions.NotAPokemon("Argument was passed that wasn't an instance of pokemon class")
+            else:
+                self.__pokemonlist.append(None)
 
-    def pop(self):
-        pass
+    def __str__(self):
+        return_message = "The team contains "
+        for pokemon in self.__pokemonlist:
+            return_message += pokemon.name + " and "
+        return return_message[:-5]
 
-    def add(self):
-        pass
+    @property
+    def full(self):
+        for pokemon in self.__pokemonlist:
+            if pokemon is not None:
+                continue
+            return False
+        return True
 
-    def transfer(self, BoxInstance):
-        pass
+    def pop(self, pokemon_index):
+        """
+        Replaces a pokemon object with none and returns the Pokemon object.
+        :param pokemon_index:
+        :return:
+        """
+        return_value = self.__pokemonlist.pop(pokemon_index)
+        if pokemon_index is 0:
+            self.__pokemonlist.append(None)
+        else:
+            self.__pokemonlist.insert(pokemon_index, None)
+        return return_value
+
+    def insert(self, index, pokemon):
+        """
+        Add a pokemon to the team list. Returns True if setted successfully and False if something is already
+        in the index passed.
+        :param index:
+        :param pokemon:
+        :return:
+        """
+        if self.__pokemonlist[index] is not None:
+            return False
+        self.__pokemonlist[index] = pokemon
+        return True
+
+    def add(self, pokemon):
+        """
+        Adds a pokemon in the first Empty slot found. Returns False if None were found.
+        :param pokemon:
+        :return:
+        """
+        index = None
+        try:
+            index = self.__pokemonlist.index(None)
+        except ValueError:
+            return False
+        self.__pokemonlist[index] = pokemon
+        return True
+
+    def transfer(self, BoxInstance, pokemon_index):
+        """
+        Transfers a pokemon object from this Team instance to a box instance.
+        :param BoxInstance:
+        :param pokemon_index:
+        :return:
+        """
+        if not isinstance(BoxInstance, Box):
+            raise Exeptions.InvalidInput("The argument passed to this method should be an instance of the Box Class")
+        if BoxInstance.full is True:
+            raise Exeptions.ListFull("Can't add any more items to the Box: It's full.")
+        BoxInstance.add(self.__pokemonlist[pokemon_index])
+        _ = self.pop(pokemon_index)
+        return True
+
+    def get_pokemon(self, index):
+        """
+        Get a pokemon of this instance using it's index
+        :param index:
+        :return:
+        """
+        return self.__pokemonlist[index]
+
+    def get_all_pokemons(self):
+        pokemon_list = []
+        for pokemon in self.__pokemonlist:
+            if pokemon is not None:
+                pokemon_list.append(pokemon)
 
 
 class Box(Team):
@@ -144,7 +220,7 @@ class Box(Team):
                 logPokemon.debug(len(templist))
                 templist[length] = pkmn
 
-        if len(templist)-1 > self.MaxPokemon:
+        if len(templist) - 1 > self.MaxPokemon:
             raise ValueError("You entered contradictory values: More pokemons than the max capacity of the box")
 
         for pokemon in templist:
@@ -160,29 +236,38 @@ class Box(Team):
         length = 0
         for p in self.__pokemonlist:
             if p is not None:
-                length +=1
+                length += 1
         return length
 
-    def __str__(self):
-        string = ""
-        for pokemon in self.__pokemonlist:
-            if pokemon is not None:
-                string += pokemon.name + " "
-        return string
+    def transfer(self, TeamInstance, pokemon_index):
+        """
+        Transfers a pokemon object from this Box instance to a Team instance.
+        :param TeamInstance:
+        :param pokemon_index:
+        :return:
+        """
+        if not isinstance(TeamInstance, Team):
+            raise Exeptions.InvalidInput("The argument passed to this method should be an instance of the Team Class")
+        if TeamInstance.full is True:
+            raise Exeptions.ListFull("Can't add any more items to the Team: It's full.")
+        TeamInstance.add(self.__pokemonlist[pokemon_index])
+        _ = self.pop(pokemon_index)
+        return True
 
-    def transfer(self, TeamInstance):
-        pass
 
-
-def testPokemonClass(loggerInstance=logPokemon):
+def testPokemonClass(loggerInstance=logPokemon, pokemonId=None):
     """
     A function that inits an object of the Pokemon Class to see if it works.
+    :param pokemonId:
     :param loggerInstance:
     :return:
     """
     loggerInstance.info("Testing Pokemon Class:")
-    num = int(input("Give the id of a Pokemon to pass to the pokemon class"))  # Get id to pass to the __init__
-    # function from Pokemon Class
+    if pokemonId is None:
+        num = int(input("Give the id of a Pokemon to pass to the pokemon class"))  # Get id to pass to the __init__
+        # function from Pokemon Class
+    else:
+        num = pokemonId
 
     if type(num) is int:
         num_poke = 0
