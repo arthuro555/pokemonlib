@@ -13,9 +13,8 @@ install:
 script:
 - python test.py
 before_deploy:
-  - python setup.py bdist
-  - python setup.py sdist
-  - python setup.py install
+  - rm -rfv ./build ./dist
+  - git commit -m "Cleanup by TravisCI"
 deploy:
   - provider: pypi
     user: arthuro555
