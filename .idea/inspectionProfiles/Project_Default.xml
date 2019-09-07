@@ -14,6 +14,8 @@
         <list>
           <option value="kivy.graphics.*" />
           <option value="pokemonlib.GameClasses.PokemonClass.Pokemon.*" />
+          <option value="pokemonlib.GameClasses.PokemonClass.Team._Team__pokemonlist" />
+          <option value="pokemonlib.GameClasses.PokemonClass.Box._Box__pokemonlist" />
         </list>
       </option>
     </inspection_tool>

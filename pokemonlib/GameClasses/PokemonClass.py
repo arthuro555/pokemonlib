@@ -60,6 +60,7 @@ class Pokemon(object):
             self._defsp = stats["special-defense"]
             self._attkph = stats["attack"]
             self._attksp = stats["special-defense"]
+            self._speed = stats["speed"]
             self._lv = 1
             self._types = pokemon["types"]
             self._attacks = {1: ["Thunderbolt", 20, True], 2: ["Poop", 40, True], 3: ["Earthquake", 40, True],
@@ -80,7 +81,7 @@ class Pokemon(object):
         Returns: {'hp', 'def', 'defsp', 'attk', 'attksp', 'attacks'=[]}
         """
         return {"hp": self._hp, "def": self._defph, "defsp": self._defsp, "attk": self._attkph,
-                "attksp": self._attksp, "attacks": self._attacks}
+                "attksp": self._attksp, "speed": self._speed, "attacks": self._attacks}
 
 
 class Team:
@@ -161,6 +162,13 @@ class Box(Team):
             if p is not None:
                 length +=1
         return length
+
+    def __str__(self):
+        string = ""
+        for pokemon in self.__pokemonlist:
+            if pokemon is not None:
+                string += pokemon.name + " "
+        return string
 
     def transfer(self, TeamInstance):
         pass

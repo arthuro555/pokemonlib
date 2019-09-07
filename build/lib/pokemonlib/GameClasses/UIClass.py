@@ -1,22 +1,23 @@
-import pyglet
-from pyglet.window import key
+from kivy.app import App
+from kivy.uix.widget import Widget
+from kivy.graphics import Rectangle
 
+
+class GameWidget(Widget):
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)
+
+        with self.canvas:
+            Rectangle(pos=(0,0), size=(100,100))
+
+
+class GameUI(App):
+    def build(self):
+        return GameWidget()
+
+
+app = GameUI()
+app.run()
 
 def graphictest():
-    keyboard = key.KeyStateHandler()
-    window = pyglet.window.Window()
-    label = pyglet.text.Label('Hello, world', x=window.width // 2, y=window.height // 2,
-                              anchor_x='center', anchor_y='center')
-
-    def update(dt):
-        print(dt)  # time elapsed since last time we were called
-        label.x += 1
-        label.y += 1
-
-    @window.event
-    def on_draw():
-        window.clear()
-        label.draw()
-
-    pyglet.clock.schedule(update)
-    pyglet.app.run()
+    a

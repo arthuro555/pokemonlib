@@ -1,7 +1,6 @@
 README.md
 setup.py
 pokemonlib/__init__.py
-pokemonlib/main.py
 pokemonlib.egg-info/PKG-INFO
 pokemonlib.egg-info/SOURCES.txt
 pokemonlib.egg-info/dependency_links.txt
