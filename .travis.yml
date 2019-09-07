@@ -1,14 +1,23 @@
 language: python
 cache: pip
 python:
-  - "pypy3"
-  - "3.4"
-  - "3.5"
-  - "3.6"      # current default Python on Travis CI
-  - "3.7"
-  - "3.7-dev"  # 3.7 development branch
-  - "3.8-dev"  # 3.8 development branch
+- pypy3
+- '3.4'
+- '3.5'
+- '3.6'
+- '3.7'
+- 3.7-dev
+- 3.8-dev
 install:
-  - pip install -r requirements.txt
+- pip install -r requirements.txt
 script:
-  - python test.py
+- python test.py
+deploy:
+  provider: pypi
+  user: arthuro555
+  password:
+    secure: NFB02DkSh4U8Gy+o+gInJYTBDTBY18D/XF9+BbOa6LqfF7kNbkYwBpFe2Q3gk7gz6H0536/tMOc4fk2xe/Gu8FCkI726UC4UMOcAfOuI5pZGz8rkkQ8lI1/D/PRxhp83KPfQx+7qJ2RzmiMLZSOGJAuYPOVoLBillYanOze6X3rZ/LcrkrhpT5umA9QRO2X+vgPOwsQGBOyIg898OUqfvJ4ddxsgpUm6V9ZPZa1Xl0TFb3SXTUt3+iIv0aVr+GsPrceXvbh1y8EAtbiMlbZysxK0Ci45h44rjO8w8dWs9jwey/MBuZCd1PUlD8OOxgI3cVyD8q7n+TGDVawgPKKXj/sChGH4mchS8mKS8UcSf8MM1dro9DTK8CuPSQ9Un4RIIsmSXeDODkZ1729sMc0h8RRM5bIjlVt3n1KQYzJK9w9tlWEyrLNUUH42yhOdqBqzMdQSO6yDJ7oE7MV3Q2OfG3BHXeyBCrzn8N5IUZDhXuD9Es3b7Jg8wOWY8DfX/fvxYivVnNK0meVGv71Rj9ldgt/HgMyEQXnepS/FJ3/1qRSEBMMr/7npKYMC6n7S5adrIOPRW8Zc7v1J1ZB27xs+y9OdlVuCSOA0Z/EOKwNxcBYkrW6iIDs8Thn9Nl8zdP3HFVlxwaNV24uFmk1vkKI4xreAkJ9Aa1L6/hHB3EI6WrA=
+  distributions: sdist bdist bdist_wheel
+  skip_existing: true
+  on:
+    branch: release
