@@ -32,6 +32,7 @@ deploy:
     api_key:
       secure: c9QGhPbFy0k+BkitBwPGqe79b2HLbyFZpBQjLsggS6BpHUe5qPLM9CRQV9SYd2kOMipuTGoKJRFo+JMmgP9Hf++nspKr7FcEHdn7HwQTwPJIhDoAp+ircZOJLNA8iP28W4wW3PYKPKZuX8nJFWcsh7/e+gSFFkl9Mb5JS/uzxW7JTjXawEBpC9rSKw5MYrcn0mvrN/M/Z/tTbT0NKfKZcmF4in/XCZHNDSD5EBhnnXNRZ3evFuXZFTSSvKwnYjwiwD9Vo53TDkd17B1kHwcoo9/c+okitIJmMDBTwSaWv7x8YkL5BYYhJ1dL+bCOTCZnIUY1RxIDb5T6f8TaWN3Ty2PRjZSKmw5yj/XjGLrtTMGRmuDzxo3Ao3HK5LgjgD0Zqh0QIvIlgWSuUJw56FnfzD5JDmStcA/ypyyPOvBaH5hH2dzcOPy5hHP3cuwrleUtupD9+F8ZbLeWkxqzWTczQjpujqOXyaYYXeiA+zaMtOUVKdJfj+rNEGXRXHN+hpPKbjVXouvjoP3LxnP0Q6EudO/Ck/+vpMjac8Dr4OI+ed2W+CuQSIrCIQIJ64DTDJNVQGT5a+JQxaqxfAVV3U3jjpxRBb32ht0sP9Wptcz2+BednbCoTyxbE/5sw9JvpKiV13fXORE8wRBB1RIHdeQ84aEXSM4+tv9grkiY7UXyBIs=
     file: dist/pokemonlib-*.tar.gz
+    skip_cleanup: true
     on:
       repo: arthuro555/pokemonlib
       branch: release

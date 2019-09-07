@@ -57,5 +57,16 @@ class TestBox(unittest.TestCase):
         self.assertEqual(box._Box__pokemonlist[1]._Pokemon__id, identifier2)
 
 
+class PokemonClassDotPyTests(unittest.TestCase):
+    def test_box_team_transfer(self):
+        pika = Pokemon(randint(0, 800))
+        chu = Pokemon(randint(0, 800))
+        ka = Pokemon(randint(0, 800))
+        team = Team(pika)
+        boxie = Box()
+        Boxar = Box(chu)
+
+
+
 if __name__ == '__main__':
     unittest.main()
