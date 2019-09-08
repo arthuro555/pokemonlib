@@ -19,7 +19,7 @@ class TestPokemon(unittest.TestCase):
         pokemon = Pokemon(identifier)
         attacks = {1: ["Thunderbolt", 20, True], 2: ["Poop", 40, True], 3: ["Earthquake", 40, True],
                    4: ["Scratch", 40, True]}
-        self.assertEqual(pokemon.getstats(), {"speed": 90, "defsp": 50, "attksp": 50, "def": 40, "attk": 55,
+        self.assertEqual(pokemon.get_stats(), {"speed": 90, "defsp": 50, "attksp": 50, "def": 40, "attk": 55,
                                               "hp": 35, "attacks": attacks})
 
 

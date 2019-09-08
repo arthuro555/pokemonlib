@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        pokeproject=pokemonlib.cli.pokeproject:pokeproject
+    

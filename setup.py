@@ -44,5 +44,9 @@ setuptools.setup(
     },
     cmdclass={
         'clean': CleanCommand,
-    }
+    },
+    entry_points='''
+        [console_scripts]
+        pokeproject=pokemonlib.cli.pokeproject:pokeproject
+    ''',
 )
