@@ -168,6 +168,19 @@ class Team:
         _ = self.pop(pokemon_index)
         return True
 
+    def pop(self, pokemon_index):
+        """
+        Replaces a pokemon object with none and returns the Pokemon object.
+        :param pokemon_index:
+        :return:
+        """
+        return_value = self.__pokemonlist.pop(pokemon_index)
+        if pokemon_index is 0:
+            self.__pokemonlist.append(None)
+        else:
+            self.__pokemonlist.insert(pokemon_index, None)
+        return return_value
+
     def get_pokemon(self, index):
         """
         Get a pokemon of this instance using it's index
@@ -183,7 +196,7 @@ class Team:
                 pokemon_list.append(pokemon)
 
 
-class Box(Team):
+class Box():
     def __init__(self, *args, **kwargs):
         templist = []
         self.__pokemonlist = []
@@ -255,6 +268,81 @@ class Box(Team):
         TeamInstance.add(self.__pokemonlist[pokemon_index])
         _ = self.pop(pokemon_index)
         return True
+
+    @property
+    def full(self):
+        for pokemon in self.__pokemonlist:
+            if pokemon is not None:
+                continue
+            return False
+        return True
+
+    def pop(self, pokemon_index):
+        """
+        Replaces a pokemon object with none and returns the Pokemon object.
+        :param pokemon_index:
+        :return:
+        """
+        return_value = self.__pokemonlist.pop(pokemon_index)
+        if pokemon_index is 0:
+            self.__pokemonlist.append(None)
+        else:
+            self.__pokemonlist.insert(pokemon_index, None)
+        return return_value
+
+    def insert(self, index, pokemon):
+        """
+        Add a pokemon to the team list. Returns True if setted successfully and False if something is already
+        in the index passed.
+        :param index:
+        :param pokemon:
+        :return:
+        """
+        if self.__pokemonlist[index] is not None:
+            return False
+        self.__pokemonlist[index] = pokemon
+        return True
+
+    def add(self, pokemon):
+        """
+        Adds a pokemon in the first Empty slot found. Returns False if None were found.
+        :param pokemon:
+        :return:
+        """
+        index = None
+        try:
+            index = self.__pokemonlist.index(None)
+        except ValueError:
+            return False
+        self.__pokemonlist[index] = pokemon
+        return True
+
+    def pop(self, pokemon_index):
+        """
+        Replaces a pokemon object with none and returns the Pokemon object.
+        :param pokemon_index:
+        :return:
+        """
+        return_value = self._Box__pokemonlist.pop(pokemon_index)
+        if pokemon_index is 0:
+            self._Box__pokemonlist.append(None)
+        else:
+            self.__pokemonlist.insert(pokemon_index, None)
+        return return_value
+
+    def get_pokemon(self, index):
+        """
+        Get a pokemon of this instance using it's index
+        :param index:
+        :return:
+        """
+        return self.__pokemonlist[index]
+
+    def get_all_pokemons(self):
+        pokemon_list = []
+        for pokemon in self.__pokemonlist:
+            if pokemon is not None:
+                pokemon_list.append(pokemon)
 
 
 def test_pokemon_class(loggerInstance=logPokemon, pokemonId=None):
