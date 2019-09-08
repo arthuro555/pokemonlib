@@ -19,6 +19,8 @@ class Pokemon(object):
         It also generates the base stats of a pokemon basing on it's id.
         Usage: p = Pokemon(pokemon_id)
         Result: 'Pokemon detected as ´" + self.name + "´ has finished initializing.'
+        Returns Nothing.
+        :param pokemon_id:
         """
 
         # Pokemon ID to recognize what pokemon it is even if self.name is changed (For Example Zoroarks
@@ -74,7 +76,7 @@ class Pokemon(object):
 
         logPokemon.info("Pokemon detected as ´" + pokemon["name"] + "´ has finished initializing.")
 
-    def getstats(self):
+    def get_stats(self):
         """
         Gets all the stats of the pokemon and return them in form of a Dictionary.
         Usage: getstats()
@@ -255,7 +257,7 @@ class Box(Team):
         return True
 
 
-def testPokemonClass(loggerInstance=logPokemon, pokemonId=None):
+def test_pokemon_class(loggerInstance=logPokemon, pokemonId=None):
     """
     A function that inits an object of the Pokemon Class to see if it works.
     :param pokemonId:
