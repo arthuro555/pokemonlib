@@ -14,8 +14,6 @@ script:
 - python test.py
 before_deploy:
   - rm -rfv ./build ./dist
-  - git add .
-  - git commit -m "Cleanup by TravisCI"
 deploy:
   - provider: pypi
     user: arthuro555
