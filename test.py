@@ -1,6 +1,6 @@
 import unittest
 from random import randint
-from pokemonlib.GameClasses.PokemonClass import Pokemon, Box, Team
+from pokemonlib.Core.Pokemon import Pokemon, Box, Team
 
 
 class TestPokemon(unittest.TestCase):

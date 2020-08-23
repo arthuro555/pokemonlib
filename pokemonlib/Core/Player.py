@@ -2,7 +2,7 @@ import logging  # Replacement for print() in cases it's not needed
 import json  # Needed to Dump and Parse save files
 import base64  # Additional layer of security for save files
 
-from .PokemonClass import Pokemon  # Check if objects passed to player are Pokemon and not a chair or something
+from .Pokemon import Pokemon  # Check if objects passed to player are Pokemon and not a chair or something
 
 from pokemonlib.misc import Settings  # Import the project settings
 from pokemonlib.misc import Security  # Encryption functions
