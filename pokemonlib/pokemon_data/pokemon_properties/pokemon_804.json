@@ -1,1 +1,1 @@
-{"name": "naganadel", "types": ["dragon", "poison"], "stats": {"speed": 121, "special-defense": 73, "special-attack": 127, "defense": 73, "attack": 73, "hp": 73}}
+{"name": "naganadel", "types": ["poison", "dragon"], "stats": {"hp": 73, "attack": 73, "defense": 73, "special-attack": 127, "special-defense": 73, "speed": 121}}

@@ -1,1 +1,1 @@
-{"name": "vikavolt", "types": ["electric", "bug"], "stats": {"speed": 43, "special-defense": 75, "special-attack": 145, "defense": 90, "attack": 70, "hp": 77}}
+{"name": "vikavolt", "types": ["bug", "electric"], "stats": {"hp": 77, "attack": 70, "defense": 90, "special-attack": 145, "special-defense": 75, "speed": 43}}

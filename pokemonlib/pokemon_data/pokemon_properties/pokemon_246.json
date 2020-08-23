@@ -1,1 +1,1 @@
-{"name": "larvitar", "types": ["ground", "rock"], "stats": {"speed": 41, "special-defense": 50, "special-attack": 45, "defense": 50, "attack": 64, "hp": 50}}
+{"name": "larvitar", "types": ["rock", "ground"], "stats": {"hp": 50, "attack": 64, "defense": 50, "special-attack": 45, "special-defense": 50, "speed": 41}}

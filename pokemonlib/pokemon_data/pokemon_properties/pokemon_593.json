@@ -1,1 +1,1 @@
-{"name": "jellicent", "types": ["ghost", "water"], "stats": {"speed": 60, "special-defense": 105, "special-attack": 85, "defense": 70, "attack": 60, "hp": 100}}
+{"name": "jellicent", "types": ["water", "ghost"], "stats": {"hp": 100, "attack": 60, "defense": 70, "special-attack": 85, "special-defense": 105, "speed": 60}}

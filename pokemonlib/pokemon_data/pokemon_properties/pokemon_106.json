@@ -1,1 +1,1 @@
-{"name": "hitmonlee", "types": ["fighting"], "stats": {"speed": 87, "special-defense": 110, "special-attack": 35, "defense": 53, "attack": 120, "hp": 50}}
+{"name": "hitmonlee", "types": ["fighting"], "stats": {"hp": 50, "attack": 120, "defense": 53, "special-attack": 35, "special-defense": 110, "speed": 87}}

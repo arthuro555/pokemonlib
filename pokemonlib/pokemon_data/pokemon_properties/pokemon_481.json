@@ -1,1 +1,1 @@
-{"name": "mesprit", "types": ["psychic"], "stats": {"speed": 80, "special-defense": 105, "special-attack": 105, "defense": 105, "attack": 105, "hp": 80}}
+{"name": "mesprit", "types": ["psychic"], "stats": {"hp": 80, "attack": 105, "defense": 105, "special-attack": 105, "special-defense": 105, "speed": 80}}

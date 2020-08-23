@@ -1,1 +1,1 @@
-{"name": "rhydon", "types": ["rock", "ground"], "stats": {"speed": 40, "special-defense": 45, "special-attack": 45, "defense": 120, "attack": 130, "hp": 105}}
+{"name": "rhydon", "types": ["ground", "rock"], "stats": {"hp": 105, "attack": 130, "defense": 120, "special-attack": 45, "special-defense": 45, "speed": 40}}

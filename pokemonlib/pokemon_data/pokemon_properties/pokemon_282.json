@@ -1,1 +1,1 @@
-{"name": "gardevoir", "types": ["fairy", "psychic"], "stats": {"speed": 80, "special-defense": 115, "special-attack": 125, "defense": 65, "attack": 65, "hp": 68}}
+{"name": "gardevoir", "types": ["psychic", "fairy"], "stats": {"hp": 68, "attack": 65, "defense": 65, "special-attack": 125, "special-defense": 115, "speed": 80}}

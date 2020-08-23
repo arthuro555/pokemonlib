@@ -1,1 +1,1 @@
-{"name": "lickitung", "types": ["normal"], "stats": {"speed": 30, "special-defense": 75, "special-attack": 60, "defense": 75, "attack": 55, "hp": 90}}
+{"name": "lickitung", "types": ["normal"], "stats": {"hp": 90, "attack": 55, "defense": 75, "special-attack": 60, "special-defense": 75, "speed": 30}}

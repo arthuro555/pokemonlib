@@ -1,1 +1,1 @@
-{"name": "hoothoot", "types": ["flying", "normal"], "stats": {"speed": 50, "special-defense": 56, "special-attack": 36, "defense": 30, "attack": 30, "hp": 60}}
+{"name": "hoothoot", "types": ["normal", "flying"], "stats": {"hp": 60, "attack": 30, "defense": 30, "special-attack": 36, "special-defense": 56, "speed": 50}}

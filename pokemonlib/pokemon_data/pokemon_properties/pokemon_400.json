@@ -1,1 +1,1 @@
-{"name": "bibarel", "types": ["water", "normal"], "stats": {"speed": 71, "special-defense": 60, "special-attack": 55, "defense": 60, "attack": 85, "hp": 79}}
+{"name": "bibarel", "types": ["normal", "water"], "stats": {"hp": 79, "attack": 85, "defense": 60, "special-attack": 55, "special-defense": 60, "speed": 71}}

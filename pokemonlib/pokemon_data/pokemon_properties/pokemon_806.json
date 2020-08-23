@@ -1,1 +1,1 @@
-{"name": "blacephalon", "types": ["ghost", "fire"], "stats": {"speed": 107, "special-defense": 79, "special-attack": 151, "defense": 53, "attack": 127, "hp": 53}}
+{"name": "blacephalon", "types": ["fire", "ghost"], "stats": {"hp": 53, "attack": 127, "defense": 53, "special-attack": 151, "special-defense": 79, "speed": 107}}

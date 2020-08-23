@@ -1,1 +1,1 @@
-{"name": "azurill", "types": ["fairy", "normal"], "stats": {"speed": 20, "special-defense": 40, "special-attack": 20, "defense": 40, "attack": 20, "hp": 50}}
+{"name": "azurill", "types": ["normal", "fairy"], "stats": {"hp": 50, "attack": 20, "defense": 40, "special-attack": 20, "special-defense": 40, "speed": 20}}

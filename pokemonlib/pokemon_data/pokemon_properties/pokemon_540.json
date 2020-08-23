@@ -1,1 +1,1 @@
-{"name": "sewaddle", "types": ["grass", "bug"], "stats": {"speed": 42, "special-defense": 60, "special-attack": 40, "defense": 70, "attack": 53, "hp": 45}}
+{"name": "sewaddle", "types": ["bug", "grass"], "stats": {"hp": 45, "attack": 53, "defense": 70, "special-attack": 40, "special-defense": 60, "speed": 42}}

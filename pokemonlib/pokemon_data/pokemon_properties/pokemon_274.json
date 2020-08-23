@@ -1,1 +1,1 @@
-{"name": "nuzleaf", "types": ["dark", "grass"], "stats": {"speed": 60, "special-defense": 40, "special-attack": 60, "defense": 40, "attack": 70, "hp": 70}}
+{"name": "nuzleaf", "types": ["grass", "dark"], "stats": {"hp": 70, "attack": 70, "defense": 40, "special-attack": 60, "special-defense": 40, "speed": 60}}

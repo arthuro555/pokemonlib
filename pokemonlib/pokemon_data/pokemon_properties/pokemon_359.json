@@ -1,1 +1,1 @@
-{"name": "absol", "types": ["dark"], "stats": {"speed": 75, "special-defense": 60, "special-attack": 75, "defense": 60, "attack": 130, "hp": 65}}
+{"name": "absol", "types": ["dark"], "stats": {"hp": 65, "attack": 130, "defense": 60, "special-attack": 75, "special-defense": 60, "speed": 75}}

@@ -1,1 +1,1 @@
-{"name": "exploud", "types": ["normal"], "stats": {"speed": 68, "special-defense": 73, "special-attack": 91, "defense": 63, "attack": 91, "hp": 104}}
+{"name": "exploud", "types": ["normal"], "stats": {"hp": 104, "attack": 91, "defense": 63, "special-attack": 91, "special-defense": 73, "speed": 68}}

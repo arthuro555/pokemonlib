@@ -1,1 +1,1 @@
-{"name": "bellsprout", "types": ["poison", "grass"], "stats": {"speed": 40, "special-defense": 30, "special-attack": 70, "defense": 35, "attack": 75, "hp": 50}}
+{"name": "bellsprout", "types": ["grass", "poison"], "stats": {"hp": 50, "attack": 75, "defense": 35, "special-attack": 70, "special-defense": 30, "speed": 40}}

@@ -1,1 +1,1 @@
-{"name": "heatran", "types": ["steel", "fire"], "stats": {"speed": 77, "special-defense": 106, "special-attack": 130, "defense": 106, "attack": 90, "hp": 91}}
+{"name": "heatran", "types": ["fire", "steel"], "stats": {"hp": 91, "attack": 90, "defense": 106, "special-attack": 130, "special-defense": 106, "speed": 77}}

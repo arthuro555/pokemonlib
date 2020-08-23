@@ -1,1 +1,1 @@
-{"name": "pancham", "types": ["fighting"], "stats": {"speed": 43, "special-defense": 48, "special-attack": 46, "defense": 62, "attack": 82, "hp": 67}}
+{"name": "pancham", "types": ["fighting"], "stats": {"hp": 67, "attack": 82, "defense": 62, "special-attack": 46, "special-defense": 48, "speed": 43}}

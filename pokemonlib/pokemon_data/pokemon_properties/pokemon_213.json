@@ -1,1 +1,1 @@
-{"name": "shuckle", "types": ["rock", "bug"], "stats": {"speed": 5, "special-defense": 230, "special-attack": 10, "defense": 230, "attack": 10, "hp": 20}}
+{"name": "shuckle", "types": ["bug", "rock"], "stats": {"hp": 20, "attack": 10, "defense": 230, "special-attack": 10, "special-defense": 230, "speed": 5}}

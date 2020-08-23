@@ -1,1 +1,1 @@
-{"name": "grubbin", "types": ["bug"], "stats": {"speed": 46, "special-defense": 45, "special-attack": 55, "defense": 45, "attack": 62, "hp": 47}}
+{"name": "grubbin", "types": ["bug"], "stats": {"hp": 47, "attack": 62, "defense": 45, "special-attack": 55, "special-defense": 45, "speed": 46}}

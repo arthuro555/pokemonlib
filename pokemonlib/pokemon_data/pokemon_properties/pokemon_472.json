@@ -1,1 +1,1 @@
-{"name": "gliscor", "types": ["flying", "ground"], "stats": {"speed": 95, "special-defense": 75, "special-attack": 45, "defense": 125, "attack": 95, "hp": 75}}
+{"name": "gliscor", "types": ["ground", "flying"], "stats": {"hp": 75, "attack": 95, "defense": 125, "special-attack": 45, "special-defense": 75, "speed": 95}}

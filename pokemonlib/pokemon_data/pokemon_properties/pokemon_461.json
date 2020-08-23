@@ -1,1 +1,1 @@
-{"name": "weavile", "types": ["ice", "dark"], "stats": {"speed": 125, "special-defense": 85, "special-attack": 45, "defense": 65, "attack": 120, "hp": 70}}
+{"name": "weavile", "types": ["dark", "ice"], "stats": {"hp": 70, "attack": 120, "defense": 65, "special-attack": 45, "special-defense": 85, "speed": 125}}

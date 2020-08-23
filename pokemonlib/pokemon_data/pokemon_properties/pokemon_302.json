@@ -1,1 +1,1 @@
-{"name": "sableye", "types": ["ghost", "dark"], "stats": {"speed": 50, "special-defense": 65, "special-attack": 65, "defense": 75, "attack": 75, "hp": 50}}
+{"name": "sableye", "types": ["dark", "ghost"], "stats": {"hp": 50, "attack": 75, "defense": 75, "special-attack": 65, "special-defense": 65, "speed": 50}}

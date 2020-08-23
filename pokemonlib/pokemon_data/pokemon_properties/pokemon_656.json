@@ -1,1 +1,1 @@
-{"name": "froakie", "types": ["water"], "stats": {"speed": 71, "special-defense": 44, "special-attack": 62, "defense": 40, "attack": 56, "hp": 41}}
+{"name": "froakie", "types": ["water"], "stats": {"hp": 41, "attack": 56, "defense": 40, "special-attack": 62, "special-defense": 44, "speed": 71}}

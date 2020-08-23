@@ -1,1 +1,1 @@
-{"name": "turtonator", "types": ["dragon", "fire"], "stats": {"speed": 36, "special-defense": 85, "special-attack": 91, "defense": 135, "attack": 78, "hp": 60}}
+{"name": "turtonator", "types": ["fire", "dragon"], "stats": {"hp": 60, "attack": 78, "defense": 135, "special-attack": 91, "special-defense": 85, "speed": 36}}

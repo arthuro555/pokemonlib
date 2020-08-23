@@ -1,1 +1,1 @@
-{"name": "lumineon", "types": ["water"], "stats": {"speed": 91, "special-defense": 86, "special-attack": 69, "defense": 76, "attack": 69, "hp": 69}}
+{"name": "lumineon", "types": ["water"], "stats": {"hp": 69, "attack": 69, "defense": 76, "special-attack": 69, "special-defense": 86, "speed": 91}}

@@ -1,1 +1,1 @@
-{"name": "spinarak", "types": ["poison", "bug"], "stats": {"speed": 30, "special-defense": 40, "special-attack": 40, "defense": 40, "attack": 60, "hp": 40}}
+{"name": "spinarak", "types": ["bug", "poison"], "stats": {"hp": 40, "attack": 60, "defense": 40, "special-attack": 40, "special-defense": 40, "speed": 30}}

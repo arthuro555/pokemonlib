@@ -1,1 +1,1 @@
-{"name": "magcargo", "types": ["rock", "fire"], "stats": {"speed": 30, "special-defense": 80, "special-attack": 90, "defense": 120, "attack": 50, "hp": 60}}
+{"name": "magcargo", "types": ["fire", "rock"], "stats": {"hp": 60, "attack": 50, "defense": 120, "special-attack": 90, "special-defense": 80, "speed": 30}}

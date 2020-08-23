@@ -1,1 +1,1 @@
-{"name": "diggersby", "types": ["ground", "normal"], "stats": {"speed": 78, "special-defense": 77, "special-attack": 50, "defense": 77, "attack": 56, "hp": 85}}
+{"name": "diggersby", "types": ["normal", "ground"], "stats": {"hp": 85, "attack": 56, "defense": 77, "special-attack": 50, "special-defense": 77, "speed": 78}}

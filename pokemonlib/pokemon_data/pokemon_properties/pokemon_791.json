@@ -1,1 +1,1 @@
-{"name": "solgaleo", "types": ["steel", "psychic"], "stats": {"speed": 97, "special-defense": 89, "special-attack": 113, "defense": 107, "attack": 137, "hp": 137}}
+{"name": "solgaleo", "types": ["psychic", "steel"], "stats": {"hp": 137, "attack": 137, "defense": 107, "special-attack": 113, "special-defense": 89, "speed": 97}}

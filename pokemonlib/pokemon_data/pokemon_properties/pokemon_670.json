@@ -1,1 +1,1 @@
-{"name": "floette", "types": ["fairy"], "stats": {"speed": 52, "special-defense": 98, "special-attack": 75, "defense": 47, "attack": 45, "hp": 54}}
+{"name": "floette", "types": ["fairy"], "stats": {"hp": 54, "attack": 45, "defense": 47, "special-attack": 75, "special-defense": 98, "speed": 52}}

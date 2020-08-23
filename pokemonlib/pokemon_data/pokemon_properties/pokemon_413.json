@@ -1,1 +1,1 @@
-{"name": "wormadam-plant", "types": ["grass", "bug"], "stats": {"speed": 36, "special-defense": 105, "special-attack": 79, "defense": 85, "attack": 59, "hp": 60}}
+{"name": "wormadam-plant", "types": ["bug", "grass"], "stats": {"hp": 60, "attack": 59, "defense": 85, "special-attack": 79, "special-defense": 105, "speed": 36}}

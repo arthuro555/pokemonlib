@@ -1,1 +1,1 @@
-{"name": "luxray", "types": ["electric"], "stats": {"speed": 70, "special-defense": 79, "special-attack": 95, "defense": 79, "attack": 120, "hp": 80}}
+{"name": "luxray", "types": ["electric"], "stats": {"hp": 80, "attack": 120, "defense": 79, "special-attack": 95, "special-defense": 79, "speed": 70}}

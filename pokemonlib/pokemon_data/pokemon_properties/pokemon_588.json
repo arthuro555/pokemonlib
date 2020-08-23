@@ -1,1 +1,1 @@
-{"name": "karrablast", "types": ["bug"], "stats": {"speed": 60, "special-defense": 45, "special-attack": 40, "defense": 45, "attack": 75, "hp": 50}}
+{"name": "karrablast", "types": ["bug"], "stats": {"hp": 50, "attack": 75, "defense": 45, "special-attack": 40, "special-defense": 45, "speed": 60}}

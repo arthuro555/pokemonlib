@@ -1,1 +1,1 @@
-{"name": "pikachu", "types": ["electric"], "stats": {"speed": 90, "special-defense": 50, "special-attack": 50, "defense": 40, "attack": 55, "hp": 35}}
+{"name": "pikachu", "types": ["electric"], "stats": {"hp": 35, "attack": 55, "defense": 40, "special-attack": 50, "special-defense": 50, "speed": 90}}

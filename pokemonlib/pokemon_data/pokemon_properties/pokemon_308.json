@@ -1,1 +1,1 @@
-{"name": "medicham", "types": ["psychic", "fighting"], "stats": {"speed": 80, "special-defense": 75, "special-attack": 60, "defense": 75, "attack": 60, "hp": 60}}
+{"name": "medicham", "types": ["fighting", "psychic"], "stats": {"hp": 60, "attack": 60, "defense": 75, "special-attack": 60, "special-defense": 75, "speed": 80}}

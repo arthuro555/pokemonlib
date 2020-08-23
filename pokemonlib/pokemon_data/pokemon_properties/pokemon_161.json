@@ -1,1 +1,1 @@
-{"name": "sentret", "types": ["normal"], "stats": {"speed": 20, "special-defense": 45, "special-attack": 35, "defense": 34, "attack": 46, "hp": 35}}
+{"name": "sentret", "types": ["normal"], "stats": {"hp": 35, "attack": 46, "defense": 34, "special-attack": 35, "special-defense": 45, "speed": 20}}

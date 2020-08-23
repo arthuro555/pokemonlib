@@ -1,1 +1,1 @@
-{"name": "scizor", "types": ["steel", "bug"], "stats": {"speed": 65, "special-defense": 80, "special-attack": 55, "defense": 100, "attack": 130, "hp": 70}}
+{"name": "scizor", "types": ["bug", "steel"], "stats": {"hp": 70, "attack": 130, "defense": 100, "special-attack": 55, "special-defense": 80, "speed": 65}}

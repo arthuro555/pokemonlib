@@ -1,1 +1,1 @@
-{"name": "grotle", "types": ["grass"], "stats": {"speed": 36, "special-defense": 65, "special-attack": 55, "defense": 85, "attack": 89, "hp": 75}}
+{"name": "grotle", "types": ["grass"], "stats": {"hp": 75, "attack": 89, "defense": 85, "special-attack": 55, "special-defense": 65, "speed": 36}}

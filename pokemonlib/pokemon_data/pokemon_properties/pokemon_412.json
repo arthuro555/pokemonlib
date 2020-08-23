@@ -1,1 +1,1 @@
-{"name": "burmy", "types": ["bug"], "stats": {"speed": 36, "special-defense": 45, "special-attack": 29, "defense": 45, "attack": 29, "hp": 40}}
+{"name": "burmy", "types": ["bug"], "stats": {"hp": 40, "attack": 29, "defense": 45, "special-attack": 29, "special-defense": 45, "speed": 36}}

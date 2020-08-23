@@ -1,1 +1,1 @@
-{"name": "cyndaquil", "types": ["fire"], "stats": {"speed": 65, "special-defense": 50, "special-attack": 60, "defense": 43, "attack": 52, "hp": 39}}
+{"name": "cyndaquil", "types": ["fire"], "stats": {"hp": 39, "attack": 52, "defense": 43, "special-attack": 60, "special-defense": 50, "speed": 65}}

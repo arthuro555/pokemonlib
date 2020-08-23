@@ -1,1 +1,1 @@
-{"name": "phantump", "types": ["grass", "ghost"], "stats": {"speed": 38, "special-defense": 60, "special-attack": 50, "defense": 48, "attack": 70, "hp": 43}}
+{"name": "phantump", "types": ["ghost", "grass"], "stats": {"hp": 43, "attack": 70, "defense": 48, "special-attack": 50, "special-defense": 60, "speed": 38}}

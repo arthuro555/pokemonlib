@@ -1,1 +1,1 @@
-{"name": "torchic", "types": ["fire"], "stats": {"speed": 45, "special-defense": 50, "special-attack": 70, "defense": 40, "attack": 60, "hp": 45}}
+{"name": "torchic", "types": ["fire"], "stats": {"hp": 45, "attack": 60, "defense": 40, "special-attack": 70, "special-defense": 50, "speed": 45}}

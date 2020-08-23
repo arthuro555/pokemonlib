@@ -1,1 +1,1 @@
-{"name": "bewear", "types": ["fighting", "normal"], "stats": {"speed": 60, "special-defense": 60, "special-attack": 55, "defense": 80, "attack": 125, "hp": 120}}
+{"name": "bewear", "types": ["normal", "fighting"], "stats": {"hp": 120, "attack": 125, "defense": 80, "special-attack": 55, "special-defense": 60, "speed": 60}}

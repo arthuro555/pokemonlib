@@ -1,1 +1,1 @@
-{"name": "vigoroth", "types": ["normal"], "stats": {"speed": 90, "special-defense": 55, "special-attack": 55, "defense": 80, "attack": 80, "hp": 80}}
+{"name": "vigoroth", "types": ["normal"], "stats": {"hp": 80, "attack": 80, "defense": 80, "special-attack": 55, "special-defense": 55, "speed": 90}}

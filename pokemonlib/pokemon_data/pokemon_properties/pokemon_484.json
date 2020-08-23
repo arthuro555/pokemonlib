@@ -1,1 +1,1 @@
-{"name": "palkia", "types": ["dragon", "water"], "stats": {"speed": 100, "special-defense": 120, "special-attack": 150, "defense": 100, "attack": 120, "hp": 90}}
+{"name": "palkia", "types": ["water", "dragon"], "stats": {"hp": 90, "attack": 120, "defense": 100, "special-attack": 150, "special-defense": 120, "speed": 100}}

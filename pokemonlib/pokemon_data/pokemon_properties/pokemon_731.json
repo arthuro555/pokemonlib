@@ -1,1 +1,1 @@
-{"name": "pikipek", "types": ["flying", "normal"], "stats": {"speed": 65, "special-defense": 30, "special-attack": 30, "defense": 30, "attack": 75, "hp": 35}}
+{"name": "pikipek", "types": ["normal", "flying"], "stats": {"hp": 35, "attack": 75, "defense": 30, "special-attack": 30, "special-defense": 30, "speed": 65}}

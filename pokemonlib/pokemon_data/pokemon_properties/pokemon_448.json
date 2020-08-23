@@ -1,1 +1,1 @@
-{"name": "lucario", "types": ["steel", "fighting"], "stats": {"speed": 90, "special-defense": 70, "special-attack": 115, "defense": 70, "attack": 110, "hp": 70}}
+{"name": "lucario", "types": ["fighting", "steel"], "stats": {"hp": 70, "attack": 110, "defense": 70, "special-attack": 115, "special-defense": 70, "speed": 90}}

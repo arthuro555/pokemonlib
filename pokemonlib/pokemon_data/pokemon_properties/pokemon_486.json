@@ -1,1 +1,1 @@
-{"name": "regigigas", "types": ["normal"], "stats": {"speed": 100, "special-defense": 110, "special-attack": 80, "defense": 110, "attack": 160, "hp": 110}}
+{"name": "regigigas", "types": ["normal"], "stats": {"hp": 110, "attack": 160, "defense": 110, "special-attack": 80, "special-defense": 110, "speed": 100}}

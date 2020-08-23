@@ -1,1 +1,1 @@
-{"name": "sigilyph", "types": ["flying", "psychic"], "stats": {"speed": 97, "special-defense": 80, "special-attack": 103, "defense": 80, "attack": 58, "hp": 72}}
+{"name": "sigilyph", "types": ["psychic", "flying"], "stats": {"hp": 72, "attack": 58, "defense": 80, "special-attack": 103, "special-defense": 80, "speed": 97}}

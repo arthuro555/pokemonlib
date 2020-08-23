@@ -1,1 +1,1 @@
-{"name": "torkoal", "types": ["fire"], "stats": {"speed": 20, "special-defense": 70, "special-attack": 85, "defense": 140, "attack": 85, "hp": 70}}
+{"name": "torkoal", "types": ["fire"], "stats": {"hp": 70, "attack": 85, "defense": 140, "special-attack": 85, "special-defense": 70, "speed": 20}}

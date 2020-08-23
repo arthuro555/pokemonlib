@@ -1,1 +1,1 @@
-{"name": "butterfree", "types": ["flying", "bug"], "stats": {"speed": 70, "special-defense": 80, "special-attack": 90, "defense": 50, "attack": 45, "hp": 60}}
+{"name": "butterfree", "types": ["bug", "flying"], "stats": {"hp": 60, "attack": 45, "defense": 50, "special-attack": 90, "special-defense": 80, "speed": 70}}

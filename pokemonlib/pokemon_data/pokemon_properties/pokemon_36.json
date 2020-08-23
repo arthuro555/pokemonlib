@@ -1,1 +1,1 @@
-{"name": "clefable", "types": ["fairy"], "stats": {"speed": 60, "special-defense": 90, "special-attack": 95, "defense": 73, "attack": 70, "hp": 95}}
+{"name": "clefable", "types": ["fairy"], "stats": {"hp": 95, "attack": 70, "defense": 73, "special-attack": 95, "special-defense": 90, "speed": 60}}

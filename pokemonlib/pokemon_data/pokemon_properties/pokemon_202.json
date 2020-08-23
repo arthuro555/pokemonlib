@@ -1,1 +1,1 @@
-{"name": "wobbuffet", "types": ["psychic"], "stats": {"speed": 33, "special-defense": 58, "special-attack": 33, "defense": 58, "attack": 33, "hp": 190}}
+{"name": "wobbuffet", "types": ["psychic"], "stats": {"hp": 190, "attack": 33, "defense": 58, "special-attack": 33, "special-defense": 58, "speed": 33}}

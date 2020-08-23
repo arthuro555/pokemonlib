@@ -1,1 +1,1 @@
-{"name": "tapu-bulu", "types": ["fairy", "grass"], "stats": {"speed": 75, "special-defense": 95, "special-attack": 85, "defense": 115, "attack": 130, "hp": 70}}
+{"name": "tapu-bulu", "types": ["grass", "fairy"], "stats": {"hp": 70, "attack": 130, "defense": 115, "special-attack": 85, "special-defense": 95, "speed": 75}}

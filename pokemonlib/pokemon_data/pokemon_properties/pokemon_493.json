@@ -1,1 +1,1 @@
-{"name": "arceus", "types": ["normal"], "stats": {"speed": 120, "special-defense": 120, "special-attack": 120, "defense": 120, "attack": 120, "hp": 120}}
+{"name": "arceus", "types": ["normal"], "stats": {"hp": 120, "attack": 120, "defense": 120, "special-attack": 120, "special-defense": 120, "speed": 120}}

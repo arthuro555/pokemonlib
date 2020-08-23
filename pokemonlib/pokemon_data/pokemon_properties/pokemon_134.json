@@ -1,1 +1,1 @@
-{"name": "vaporeon", "types": ["water"], "stats": {"speed": 65, "special-defense": 95, "special-attack": 110, "defense": 60, "attack": 65, "hp": 130}}
+{"name": "vaporeon", "types": ["water"], "stats": {"hp": 130, "attack": 65, "defense": 60, "special-attack": 110, "special-defense": 95, "speed": 65}}

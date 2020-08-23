@@ -1,1 +1,1 @@
-{"name": "sandshrew", "types": ["ground"], "stats": {"speed": 40, "special-defense": 30, "special-attack": 20, "defense": 85, "attack": 75, "hp": 50}}
+{"name": "sandshrew", "types": ["ground"], "stats": {"hp": 50, "attack": 75, "defense": 85, "special-attack": 20, "special-defense": 30, "speed": 40}}

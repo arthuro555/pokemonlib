@@ -1,1 +1,1 @@
-{"name": "corphish", "types": ["water"], "stats": {"speed": 35, "special-defense": 35, "special-attack": 50, "defense": 65, "attack": 80, "hp": 43}}
+{"name": "corphish", "types": ["water"], "stats": {"hp": 43, "attack": 80, "defense": 65, "special-attack": 50, "special-defense": 35, "speed": 35}}

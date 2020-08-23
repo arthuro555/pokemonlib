@@ -1,1 +1,1 @@
-{"name": "hakamo-o", "types": ["fighting", "dragon"], "stats": {"speed": 65, "special-defense": 70, "special-attack": 65, "defense": 90, "attack": 75, "hp": 55}}
+{"name": "hakamo-o", "types": ["dragon", "fighting"], "stats": {"hp": 55, "attack": 75, "defense": 90, "special-attack": 65, "special-defense": 70, "speed": 65}}

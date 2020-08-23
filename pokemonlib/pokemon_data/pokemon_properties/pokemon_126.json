@@ -1,1 +1,1 @@
-{"name": "magmar", "types": ["fire"], "stats": {"speed": 93, "special-defense": 85, "special-attack": 100, "defense": 57, "attack": 95, "hp": 65}}
+{"name": "magmar", "types": ["fire"], "stats": {"hp": 65, "attack": 95, "defense": 57, "special-attack": 100, "special-defense": 85, "speed": 93}}

@@ -1,1 +1,1 @@
-{"name": "whirlipede", "types": ["poison", "bug"], "stats": {"speed": 47, "special-defense": 79, "special-attack": 40, "defense": 99, "attack": 55, "hp": 40}}
+{"name": "whirlipede", "types": ["bug", "poison"], "stats": {"hp": 40, "attack": 55, "defense": 99, "special-attack": 40, "special-defense": 79, "speed": 47}}

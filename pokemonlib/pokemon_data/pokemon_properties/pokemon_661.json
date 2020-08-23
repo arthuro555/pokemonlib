@@ -1,1 +1,1 @@
-{"name": "fletchling", "types": ["flying", "normal"], "stats": {"speed": 62, "special-defense": 38, "special-attack": 40, "defense": 43, "attack": 50, "hp": 45}}
+{"name": "fletchling", "types": ["normal", "flying"], "stats": {"hp": 45, "attack": 50, "defense": 43, "special-attack": 40, "special-defense": 38, "speed": 62}}

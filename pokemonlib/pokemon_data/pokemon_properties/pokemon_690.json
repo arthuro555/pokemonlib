@@ -1,1 +1,1 @@
-{"name": "skrelp", "types": ["water", "poison"], "stats": {"speed": 30, "special-defense": 60, "special-attack": 60, "defense": 60, "attack": 60, "hp": 50}}
+{"name": "skrelp", "types": ["poison", "water"], "stats": {"hp": 50, "attack": 60, "defense": 60, "special-attack": 60, "special-defense": 60, "speed": 30}}

@@ -1,1 +1,1 @@
-{"name": "meloetta-aria", "types": ["psychic", "normal"], "stats": {"speed": 90, "special-defense": 128, "special-attack": 128, "defense": 77, "attack": 77, "hp": 100}}
+{"name": "meloetta-aria", "types": ["normal", "psychic"], "stats": {"hp": 100, "attack": 77, "defense": 77, "special-attack": 128, "special-defense": 128, "speed": 90}}

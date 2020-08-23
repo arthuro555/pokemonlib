@@ -1,1 +1,1 @@
-{"name": "silvally", "types": ["normal"], "stats": {"speed": 95, "special-defense": 95, "special-attack": 95, "defense": 95, "attack": 95, "hp": 95}}
+{"name": "silvally", "types": ["normal"], "stats": {"hp": 95, "attack": 95, "defense": 95, "special-attack": 95, "special-defense": 95, "speed": 95}}

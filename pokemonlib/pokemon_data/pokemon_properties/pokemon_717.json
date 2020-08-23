@@ -1,1 +1,1 @@
-{"name": "yveltal", "types": ["flying", "dark"], "stats": {"speed": 99, "special-defense": 98, "special-attack": 131, "defense": 95, "attack": 131, "hp": 126}}
+{"name": "yveltal", "types": ["dark", "flying"], "stats": {"hp": 126, "attack": 131, "defense": 95, "special-attack": 131, "special-defense": 98, "speed": 99}}

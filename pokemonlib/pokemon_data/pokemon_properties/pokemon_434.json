@@ -1,1 +1,1 @@
-{"name": "stunky", "types": ["dark", "poison"], "stats": {"speed": 74, "special-defense": 41, "special-attack": 41, "defense": 47, "attack": 63, "hp": 63}}
+{"name": "stunky", "types": ["poison", "dark"], "stats": {"hp": 63, "attack": 63, "defense": 47, "special-attack": 41, "special-defense": 41, "speed": 74}}

@@ -1,1 +1,1 @@
-{"name": "shedinja", "types": ["ghost", "bug"], "stats": {"speed": 40, "special-defense": 30, "special-attack": 30, "defense": 45, "attack": 90, "hp": 1}}
+{"name": "shedinja", "types": ["bug", "ghost"], "stats": {"hp": 1, "attack": 90, "defense": 45, "special-attack": 30, "special-defense": 30, "speed": 40}}

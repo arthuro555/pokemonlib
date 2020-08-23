@@ -1,1 +1,1 @@
-{"name": "bisharp", "types": ["steel", "dark"], "stats": {"speed": 70, "special-defense": 70, "special-attack": 60, "defense": 100, "attack": 125, "hp": 65}}
+{"name": "bisharp", "types": ["dark", "steel"], "stats": {"hp": 65, "attack": 125, "defense": 100, "special-attack": 60, "special-defense": 70, "speed": 70}}

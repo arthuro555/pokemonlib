@@ -1,1 +1,1 @@
-{"name": "steelix", "types": ["ground", "steel"], "stats": {"speed": 30, "special-defense": 65, "special-attack": 55, "defense": 200, "attack": 85, "hp": 75}}
+{"name": "steelix", "types": ["steel", "ground"], "stats": {"hp": 75, "attack": 85, "defense": 200, "special-attack": 55, "special-defense": 65, "speed": 30}}

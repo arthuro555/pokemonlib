@@ -1,1 +1,1 @@
-{"name": "chinchou", "types": ["electric", "water"], "stats": {"speed": 67, "special-defense": 56, "special-attack": 56, "defense": 38, "attack": 38, "hp": 75}}
+{"name": "chinchou", "types": ["water", "electric"], "stats": {"hp": 75, "attack": 38, "defense": 38, "special-attack": 56, "special-defense": 56, "speed": 67}}

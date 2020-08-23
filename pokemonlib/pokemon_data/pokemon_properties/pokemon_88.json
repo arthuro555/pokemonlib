@@ -1,1 +1,1 @@
-{"name": "grimer", "types": ["poison"], "stats": {"speed": 25, "special-defense": 50, "special-attack": 40, "defense": 50, "attack": 80, "hp": 80}}
+{"name": "grimer", "types": ["poison"], "stats": {"hp": 80, "attack": 80, "defense": 50, "special-attack": 40, "special-defense": 50, "speed": 25}}

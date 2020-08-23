@@ -1,1 +1,1 @@
-{"name": "deoxys-normal", "types": ["psychic"], "stats": {"speed": 150, "special-defense": 50, "special-attack": 150, "defense": 50, "attack": 150, "hp": 50}}
+{"name": "deoxys-normal", "types": ["psychic"], "stats": {"hp": 50, "attack": 150, "defense": 50, "special-attack": 150, "special-defense": 50, "speed": 150}}

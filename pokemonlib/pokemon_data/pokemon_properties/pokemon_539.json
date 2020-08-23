@@ -1,1 +1,1 @@
-{"name": "sawk", "types": ["fighting"], "stats": {"speed": 85, "special-defense": 75, "special-attack": 30, "defense": 75, "attack": 125, "hp": 75}}
+{"name": "sawk", "types": ["fighting"], "stats": {"hp": 75, "attack": 125, "defense": 75, "special-attack": 30, "special-defense": 75, "speed": 85}}

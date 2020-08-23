@@ -1,1 +1,1 @@
-{"name": "drowzee", "types": ["psychic"], "stats": {"speed": 42, "special-defense": 90, "special-attack": 43, "defense": 45, "attack": 48, "hp": 60}}
+{"name": "drowzee", "types": ["psychic"], "stats": {"hp": 60, "attack": 48, "defense": 45, "special-attack": 43, "special-defense": 90, "speed": 42}}

@@ -1,1 +1,1 @@
-{"name": "kricketune", "types": ["bug"], "stats": {"speed": 65, "special-defense": 51, "special-attack": 55, "defense": 51, "attack": 85, "hp": 77}}
+{"name": "kricketune", "types": ["bug"], "stats": {"hp": 77, "attack": 85, "defense": 51, "special-attack": 55, "special-defense": 51, "speed": 65}}

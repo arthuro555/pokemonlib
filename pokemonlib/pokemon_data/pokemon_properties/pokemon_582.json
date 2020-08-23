@@ -1,1 +1,1 @@
-{"name": "vanillite", "types": ["ice"], "stats": {"speed": 44, "special-defense": 60, "special-attack": 65, "defense": 50, "attack": 50, "hp": 36}}
+{"name": "vanillite", "types": ["ice"], "stats": {"hp": 36, "attack": 50, "defense": 50, "special-attack": 65, "special-defense": 60, "speed": 44}}

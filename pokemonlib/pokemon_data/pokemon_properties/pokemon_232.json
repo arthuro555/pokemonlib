@@ -1,1 +1,1 @@
-{"name": "donphan", "types": ["ground"], "stats": {"speed": 50, "special-defense": 60, "special-attack": 60, "defense": 120, "attack": 120, "hp": 90}}
+{"name": "donphan", "types": ["ground"], "stats": {"hp": 90, "attack": 120, "defense": 120, "special-attack": 60, "special-defense": 60, "speed": 50}}

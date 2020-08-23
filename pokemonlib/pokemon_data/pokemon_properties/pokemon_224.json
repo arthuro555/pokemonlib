@@ -1,1 +1,1 @@
-{"name": "octillery", "types": ["water"], "stats": {"speed": 45, "special-defense": 75, "special-attack": 105, "defense": 75, "attack": 105, "hp": 75}}
+{"name": "octillery", "types": ["water"], "stats": {"hp": 75, "attack": 105, "defense": 75, "special-attack": 105, "special-defense": 75, "speed": 45}}

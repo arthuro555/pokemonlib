@@ -1,1 +1,1 @@
-{"name": "buizel", "types": ["water"], "stats": {"speed": 85, "special-defense": 30, "special-attack": 60, "defense": 35, "attack": 65, "hp": 55}}
+{"name": "buizel", "types": ["water"], "stats": {"hp": 55, "attack": 65, "defense": 35, "special-attack": 60, "special-defense": 30, "speed": 85}}

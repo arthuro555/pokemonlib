@@ -1,1 +1,1 @@
-{"name": "tornadus-incarnate", "types": ["flying"], "stats": {"speed": 111, "special-defense": 80, "special-attack": 125, "defense": 70, "attack": 115, "hp": 79}}
+{"name": "tornadus-incarnate", "types": ["flying"], "stats": {"hp": 79, "attack": 115, "defense": 70, "special-attack": 125, "special-defense": 80, "speed": 111}}

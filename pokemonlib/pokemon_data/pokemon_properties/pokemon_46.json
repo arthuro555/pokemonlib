@@ -1,1 +1,1 @@
-{"name": "paras", "types": ["grass", "bug"], "stats": {"speed": 25, "special-defense": 55, "special-attack": 45, "defense": 55, "attack": 70, "hp": 35}}
+{"name": "paras", "types": ["bug", "grass"], "stats": {"hp": 35, "attack": 70, "defense": 55, "special-attack": 45, "special-defense": 55, "speed": 25}}

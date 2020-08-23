@@ -1,1 +1,1 @@
-{"name": "squirtle", "types": ["water"], "stats": {"speed": 43, "special-defense": 64, "special-attack": 50, "defense": 65, "attack": 48, "hp": 44}}
+{"name": "squirtle", "types": ["water"], "stats": {"hp": 44, "attack": 48, "defense": 65, "special-attack": 50, "special-defense": 64, "speed": 43}}

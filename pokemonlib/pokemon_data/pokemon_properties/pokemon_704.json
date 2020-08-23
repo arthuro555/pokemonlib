@@ -1,1 +1,1 @@
-{"name": "goomy", "types": ["dragon"], "stats": {"speed": 40, "special-defense": 75, "special-attack": 55, "defense": 35, "attack": 50, "hp": 45}}
+{"name": "goomy", "types": ["dragon"], "stats": {"hp": 45, "attack": 50, "defense": 35, "special-attack": 55, "special-defense": 75, "speed": 40}}

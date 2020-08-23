@@ -1,1 +1,1 @@
-{"name": "klefki", "types": ["fairy", "steel"], "stats": {"speed": 75, "special-defense": 87, "special-attack": 80, "defense": 91, "attack": 80, "hp": 57}}
+{"name": "klefki", "types": ["steel", "fairy"], "stats": {"hp": 57, "attack": 80, "defense": 91, "special-attack": 80, "special-defense": 87, "speed": 75}}

@@ -1,1 +1,1 @@
-{"name": "dunsparce", "types": ["normal"], "stats": {"speed": 45, "special-defense": 65, "special-attack": 65, "defense": 70, "attack": 70, "hp": 100}}
+{"name": "dunsparce", "types": ["normal"], "stats": {"hp": 100, "attack": 70, "defense": 70, "special-attack": 65, "special-defense": 65, "speed": 45}}

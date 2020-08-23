@@ -1,1 +1,1 @@
-{"name": "blastoise", "types": ["water"], "stats": {"speed": 78, "special-defense": 105, "special-attack": 85, "defense": 100, "attack": 83, "hp": 79}}
+{"name": "blastoise", "types": ["water"], "stats": {"hp": 79, "attack": 83, "defense": 100, "special-attack": 85, "special-defense": 105, "speed": 78}}

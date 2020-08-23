@@ -1,1 +1,1 @@
-{"name": "remoraid", "types": ["water"], "stats": {"speed": 65, "special-defense": 35, "special-attack": 65, "defense": 35, "attack": 65, "hp": 35}}
+{"name": "remoraid", "types": ["water"], "stats": {"hp": 35, "attack": 65, "defense": 35, "special-attack": 65, "special-defense": 35, "speed": 65}}

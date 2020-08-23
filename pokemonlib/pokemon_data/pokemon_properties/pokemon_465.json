@@ -1,1 +1,1 @@
-{"name": "tangrowth", "types": ["grass"], "stats": {"speed": 50, "special-defense": 50, "special-attack": 110, "defense": 125, "attack": 100, "hp": 100}}
+{"name": "tangrowth", "types": ["grass"], "stats": {"hp": 100, "attack": 100, "defense": 125, "special-attack": 110, "special-defense": 50, "speed": 50}}

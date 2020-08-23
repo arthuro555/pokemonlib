@@ -1,1 +1,1 @@
-{"name": "riolu", "types": ["fighting"], "stats": {"speed": 60, "special-defense": 40, "special-attack": 35, "defense": 40, "attack": 70, "hp": 40}}
+{"name": "riolu", "types": ["fighting"], "stats": {"hp": 40, "attack": 70, "defense": 40, "special-attack": 35, "special-defense": 40, "speed": 60}}

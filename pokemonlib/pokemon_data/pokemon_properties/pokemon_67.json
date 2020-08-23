@@ -1,1 +1,1 @@
-{"name": "machoke", "types": ["fighting"], "stats": {"speed": 45, "special-defense": 60, "special-attack": 50, "defense": 70, "attack": 100, "hp": 80}}
+{"name": "machoke", "types": ["fighting"], "stats": {"hp": 80, "attack": 100, "defense": 70, "special-attack": 50, "special-defense": 60, "speed": 45}}

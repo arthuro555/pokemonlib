@@ -1,1 +1,1 @@
-{"name": "talonflame", "types": ["flying", "fire"], "stats": {"speed": 126, "special-defense": 69, "special-attack": 74, "defense": 71, "attack": 81, "hp": 78}}
+{"name": "talonflame", "types": ["fire", "flying"], "stats": {"hp": 78, "attack": 81, "defense": 71, "special-attack": 74, "special-defense": 69, "speed": 126}}

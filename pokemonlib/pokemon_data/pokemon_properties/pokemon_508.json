@@ -1,1 +1,1 @@
-{"name": "stoutland", "types": ["normal"], "stats": {"speed": 80, "special-defense": 90, "special-attack": 45, "defense": 90, "attack": 110, "hp": 85}}
+{"name": "stoutland", "types": ["normal"], "stats": {"hp": 85, "attack": 110, "defense": 90, "special-attack": 45, "special-defense": 90, "speed": 80}}

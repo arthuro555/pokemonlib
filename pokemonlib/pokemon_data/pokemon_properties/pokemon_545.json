@@ -1,1 +1,1 @@
-{"name": "scolipede", "types": ["poison", "bug"], "stats": {"speed": 112, "special-defense": 69, "special-attack": 55, "defense": 89, "attack": 100, "hp": 60}}
+{"name": "scolipede", "types": ["bug", "poison"], "stats": {"hp": 60, "attack": 100, "defense": 89, "special-attack": 55, "special-defense": 69, "speed": 112}}

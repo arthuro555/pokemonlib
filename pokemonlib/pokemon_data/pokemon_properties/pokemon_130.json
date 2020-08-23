@@ -1,1 +1,1 @@
-{"name": "gyarados", "types": ["flying", "water"], "stats": {"speed": 81, "special-defense": 100, "special-attack": 60, "defense": 79, "attack": 125, "hp": 95}}
+{"name": "gyarados", "types": ["water", "flying"], "stats": {"hp": 95, "attack": 125, "defense": 79, "special-attack": 60, "special-defense": 100, "speed": 81}}

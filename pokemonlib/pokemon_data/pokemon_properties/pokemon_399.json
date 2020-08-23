@@ -1,1 +1,1 @@
-{"name": "bidoof", "types": ["normal"], "stats": {"speed": 31, "special-defense": 40, "special-attack": 35, "defense": 40, "attack": 45, "hp": 59}}
+{"name": "bidoof", "types": ["normal"], "stats": {"hp": 59, "attack": 45, "defense": 40, "special-attack": 35, "special-defense": 40, "speed": 31}}

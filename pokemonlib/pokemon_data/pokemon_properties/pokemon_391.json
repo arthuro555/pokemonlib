@@ -1,1 +1,1 @@
-{"name": "monferno", "types": ["fighting", "fire"], "stats": {"speed": 81, "special-defense": 52, "special-attack": 78, "defense": 52, "attack": 78, "hp": 64}}
+{"name": "monferno", "types": ["fire", "fighting"], "stats": {"hp": 64, "attack": 78, "defense": 52, "special-attack": 78, "special-defense": 52, "speed": 81}}

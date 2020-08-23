@@ -1,1 +1,1 @@
-{"name": "machop", "types": ["fighting"], "stats": {"speed": 35, "special-defense": 35, "special-attack": 35, "defense": 50, "attack": 80, "hp": 70}}
+{"name": "machop", "types": ["fighting"], "stats": {"hp": 70, "attack": 80, "defense": 50, "special-attack": 35, "special-defense": 35, "speed": 35}}

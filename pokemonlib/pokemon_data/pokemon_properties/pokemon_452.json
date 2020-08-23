@@ -1,1 +1,1 @@
-{"name": "drapion", "types": ["dark", "poison"], "stats": {"speed": 95, "special-defense": 75, "special-attack": 60, "defense": 110, "attack": 90, "hp": 70}}
+{"name": "drapion", "types": ["poison", "dark"], "stats": {"hp": 70, "attack": 90, "defense": 110, "special-attack": 60, "special-defense": 75, "speed": 95}}

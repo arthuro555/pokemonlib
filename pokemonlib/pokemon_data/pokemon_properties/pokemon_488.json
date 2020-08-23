@@ -1,1 +1,1 @@
-{"name": "cresselia", "types": ["psychic"], "stats": {"speed": 85, "special-defense": 130, "special-attack": 75, "defense": 120, "attack": 70, "hp": 120}}
+{"name": "cresselia", "types": ["psychic"], "stats": {"hp": 120, "attack": 70, "defense": 120, "special-attack": 75, "special-defense": 130, "speed": 85}}

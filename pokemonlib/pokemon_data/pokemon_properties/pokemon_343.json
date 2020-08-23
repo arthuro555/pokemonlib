@@ -1,1 +1,1 @@
-{"name": "baltoy", "types": ["psychic", "ground"], "stats": {"speed": 55, "special-defense": 70, "special-attack": 40, "defense": 55, "attack": 40, "hp": 40}}
+{"name": "baltoy", "types": ["ground", "psychic"], "stats": {"hp": 40, "attack": 40, "defense": 55, "special-attack": 40, "special-defense": 70, "speed": 55}}

@@ -1,1 +1,1 @@
-{"name": "staraptor", "types": ["flying", "normal"], "stats": {"speed": 100, "special-defense": 60, "special-attack": 50, "defense": 70, "attack": 120, "hp": 85}}
+{"name": "staraptor", "types": ["normal", "flying"], "stats": {"hp": 85, "attack": 120, "defense": 70, "special-attack": 50, "special-defense": 60, "speed": 100}}

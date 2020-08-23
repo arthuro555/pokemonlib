@@ -1,1 +1,1 @@
-{"name": "mightyena", "types": ["dark"], "stats": {"speed": 70, "special-defense": 60, "special-attack": 60, "defense": 70, "attack": 90, "hp": 70}}
+{"name": "mightyena", "types": ["dark"], "stats": {"hp": 70, "attack": 90, "defense": 70, "special-attack": 60, "special-defense": 60, "speed": 70}}

@@ -1,1 +1,1 @@
-{"name": "latios", "types": ["psychic", "dragon"], "stats": {"speed": 110, "special-defense": 110, "special-attack": 130, "defense": 80, "attack": 90, "hp": 80}}
+{"name": "latios", "types": ["dragon", "psychic"], "stats": {"hp": 80, "attack": 90, "defense": 80, "special-attack": 130, "special-defense": 110, "speed": 110}}

@@ -1,1 +1,1 @@
-{"name": "bastiodon", "types": ["steel", "rock"], "stats": {"speed": 30, "special-defense": 138, "special-attack": 47, "defense": 168, "attack": 52, "hp": 60}}
+{"name": "bastiodon", "types": ["rock", "steel"], "stats": {"hp": 60, "attack": 52, "defense": 168, "special-attack": 47, "special-defense": 138, "speed": 30}}

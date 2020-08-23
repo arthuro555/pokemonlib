@@ -1,1 +1,1 @@
-{"name": "weezing", "types": ["poison"], "stats": {"speed": 60, "special-defense": 70, "special-attack": 85, "defense": 120, "attack": 90, "hp": 65}}
+{"name": "weezing", "types": ["poison"], "stats": {"hp": 65, "attack": 90, "defense": 120, "special-attack": 85, "special-defense": 70, "speed": 60}}

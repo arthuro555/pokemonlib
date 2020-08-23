@@ -1,1 +1,1 @@
-{"name": "terrakion", "types": ["fighting", "rock"], "stats": {"speed": 108, "special-defense": 90, "special-attack": 72, "defense": 90, "attack": 129, "hp": 91}}
+{"name": "terrakion", "types": ["rock", "fighting"], "stats": {"hp": 91, "attack": 129, "defense": 90, "special-attack": 72, "special-defense": 90, "speed": 108}}

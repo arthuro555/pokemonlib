@@ -1,1 +1,1 @@
-{"name": "spheal", "types": ["water", "ice"], "stats": {"speed": 25, "special-defense": 50, "special-attack": 55, "defense": 50, "attack": 40, "hp": 70}}
+{"name": "spheal", "types": ["ice", "water"], "stats": {"hp": 70, "attack": 40, "defense": 50, "special-attack": 55, "special-defense": 50, "speed": 25}}

@@ -1,1 +1,1 @@
-{"name": "ekans", "types": ["poison"], "stats": {"speed": 55, "special-defense": 54, "special-attack": 40, "defense": 44, "attack": 60, "hp": 35}}
+{"name": "ekans", "types": ["poison"], "stats": {"hp": 35, "attack": 60, "defense": 44, "special-attack": 40, "special-defense": 54, "speed": 55}}

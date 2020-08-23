@@ -1,1 +1,1 @@
-{"name": "gallade", "types": ["fighting", "psychic"], "stats": {"speed": 80, "special-defense": 115, "special-attack": 65, "defense": 65, "attack": 125, "hp": 68}}
+{"name": "gallade", "types": ["psychic", "fighting"], "stats": {"hp": 68, "attack": 125, "defense": 65, "special-attack": 65, "special-defense": 115, "speed": 80}}

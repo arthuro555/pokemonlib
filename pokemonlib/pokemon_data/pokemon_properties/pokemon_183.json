@@ -1,1 +1,1 @@
-{"name": "marill", "types": ["fairy", "water"], "stats": {"speed": 40, "special-defense": 50, "special-attack": 20, "defense": 50, "attack": 20, "hp": 70}}
+{"name": "marill", "types": ["water", "fairy"], "stats": {"hp": 70, "attack": 20, "defense": 50, "special-attack": 20, "special-defense": 50, "speed": 40}}

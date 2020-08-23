@@ -1,1 +1,1 @@
-{"name": "buzzwole", "types": ["fighting", "bug"], "stats": {"speed": 79, "special-defense": 53, "special-attack": 53, "defense": 139, "attack": 139, "hp": 107}}
+{"name": "buzzwole", "types": ["bug", "fighting"], "stats": {"hp": 107, "attack": 139, "defense": 139, "special-attack": 53, "special-defense": 53, "speed": 79}}

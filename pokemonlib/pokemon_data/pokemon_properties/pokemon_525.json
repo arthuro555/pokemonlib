@@ -1,1 +1,1 @@
-{"name": "boldore", "types": ["rock"], "stats": {"speed": 20, "special-defense": 40, "special-attack": 50, "defense": 105, "attack": 105, "hp": 70}}
+{"name": "boldore", "types": ["rock"], "stats": {"hp": 70, "attack": 105, "defense": 105, "special-attack": 50, "special-defense": 40, "speed": 20}}

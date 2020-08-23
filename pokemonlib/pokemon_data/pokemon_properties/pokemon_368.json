@@ -1,1 +1,1 @@
-{"name": "gorebyss", "types": ["water"], "stats": {"speed": 52, "special-defense": 75, "special-attack": 114, "defense": 105, "attack": 84, "hp": 55}}
+{"name": "gorebyss", "types": ["water"], "stats": {"hp": 55, "attack": 84, "defense": 105, "special-attack": 114, "special-defense": 75, "speed": 52}}

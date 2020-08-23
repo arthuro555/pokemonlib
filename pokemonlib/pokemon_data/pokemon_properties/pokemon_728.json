@@ -1,1 +1,1 @@
-{"name": "popplio", "types": ["water"], "stats": {"speed": 40, "special-defense": 56, "special-attack": 66, "defense": 54, "attack": 54, "hp": 50}}
+{"name": "popplio", "types": ["water"], "stats": {"hp": 50, "attack": 54, "defense": 54, "special-attack": 66, "special-defense": 56, "speed": 40}}

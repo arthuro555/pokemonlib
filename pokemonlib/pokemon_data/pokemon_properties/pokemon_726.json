@@ -1,1 +1,1 @@
-{"name": "torracat", "types": ["fire"], "stats": {"speed": 90, "special-defense": 50, "special-attack": 80, "defense": 50, "attack": 85, "hp": 65}}
+{"name": "torracat", "types": ["fire"], "stats": {"hp": 65, "attack": 85, "defense": 50, "special-attack": 80, "special-defense": 50, "speed": 90}}

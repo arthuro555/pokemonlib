@@ -1,1 +1,1 @@
-{"name": "toxapex", "types": ["water", "poison"], "stats": {"speed": 35, "special-defense": 142, "special-attack": 53, "defense": 152, "attack": 63, "hp": 50}}
+{"name": "toxapex", "types": ["poison", "water"], "stats": {"hp": 50, "attack": 63, "defense": 152, "special-attack": 53, "special-defense": 142, "speed": 35}}

@@ -1,1 +1,1 @@
-{"name": "bronzong", "types": ["psychic", "steel"], "stats": {"speed": 33, "special-defense": 116, "special-attack": 79, "defense": 116, "attack": 89, "hp": 67}}
+{"name": "bronzong", "types": ["steel", "psychic"], "stats": {"hp": 67, "attack": 89, "defense": 116, "special-attack": 79, "special-defense": 116, "speed": 33}}

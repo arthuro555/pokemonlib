@@ -1,1 +1,1 @@
-{"name": "kommo-o", "types": ["fighting", "dragon"], "stats": {"speed": 85, "special-defense": 105, "special-attack": 100, "defense": 125, "attack": 110, "hp": 75}}
+{"name": "kommo-o", "types": ["dragon", "fighting"], "stats": {"hp": 75, "attack": 110, "defense": 125, "special-attack": 100, "special-defense": 105, "speed": 85}}

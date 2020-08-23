@@ -1,1 +1,1 @@
-{"name": "dedenne", "types": ["fairy", "electric"], "stats": {"speed": 101, "special-defense": 67, "special-attack": 81, "defense": 57, "attack": 58, "hp": 67}}
+{"name": "dedenne", "types": ["electric", "fairy"], "stats": {"hp": 67, "attack": 58, "defense": 57, "special-attack": 81, "special-defense": 67, "speed": 101}}

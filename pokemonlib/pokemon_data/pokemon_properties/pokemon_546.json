@@ -1,1 +1,1 @@
-{"name": "cottonee", "types": ["fairy", "grass"], "stats": {"speed": 66, "special-defense": 50, "special-attack": 37, "defense": 60, "attack": 27, "hp": 40}}
+{"name": "cottonee", "types": ["grass", "fairy"], "stats": {"hp": 40, "attack": 27, "defense": 60, "special-attack": 37, "special-defense": 50, "speed": 66}}

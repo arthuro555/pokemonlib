@@ -1,1 +1,1 @@
-{"name": "moltres", "types": ["flying", "fire"], "stats": {"speed": 90, "special-defense": 85, "special-attack": 125, "defense": 90, "attack": 100, "hp": 90}}
+{"name": "moltres", "types": ["fire", "flying"], "stats": {"hp": 90, "attack": 100, "defense": 90, "special-attack": 125, "special-defense": 85, "speed": 90}}

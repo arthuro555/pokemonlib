@@ -1,1 +1,1 @@
-{"name": "volcanion", "types": ["water", "fire"], "stats": {"speed": 70, "special-defense": 90, "special-attack": 130, "defense": 120, "attack": 110, "hp": 80}}
+{"name": "volcanion", "types": ["fire", "water"], "stats": {"hp": 80, "attack": 110, "defense": 120, "special-attack": 130, "special-defense": 90, "speed": 70}}

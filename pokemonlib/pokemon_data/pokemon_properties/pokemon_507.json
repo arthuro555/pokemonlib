@@ -1,1 +1,1 @@
-{"name": "herdier", "types": ["normal"], "stats": {"speed": 60, "special-defense": 65, "special-attack": 35, "defense": 65, "attack": 80, "hp": 65}}
+{"name": "herdier", "types": ["normal"], "stats": {"hp": 65, "attack": 80, "defense": 65, "special-attack": 35, "special-defense": 65, "speed": 60}}

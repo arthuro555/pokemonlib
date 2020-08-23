@@ -1,1 +1,1 @@
-{"name": "toxicroak", "types": ["fighting", "poison"], "stats": {"speed": 85, "special-defense": 65, "special-attack": 86, "defense": 65, "attack": 106, "hp": 83}}
+{"name": "toxicroak", "types": ["poison", "fighting"], "stats": {"hp": 83, "attack": 106, "defense": 65, "special-attack": 86, "special-defense": 65, "speed": 85}}

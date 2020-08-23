@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: Kivy
+Version: 2.0.0rc3
+Summary: A software library for rapid development of hardware-accelerated multitouch applications.
+Home-page: http://kivy.org
+Author: Kivy Team and other contributors
+Author-email: kivy-dev@googlegroups.com
+License: MIT
+Requires-Dist: Kivy-Garden (>=0.1.4)
+Requires-Dist: docutils
+Requires-Dist: pygments
+Provides-Extra: base
+Requires-Dist: pillow ; extra == 'base'
+Requires-Dist: docutils ; extra == 'base'
+Requires-Dist: pygments ; extra == 'base'
+Requires-Dist: kivy-deps.angle (~=0.2.0) ; (sys_platform == "win32") and extra == 'base'
+Requires-Dist: kivy-deps.sdl2 (~=0.2.0) ; (sys_platform == "win32") and extra == 'base'
+Requires-Dist: kivy-deps.glew (~=0.2.0) ; (sys_platform == "win32") and extra == 'base'
+Requires-Dist: pypiwin32 ; (sys_platform == "win32") and extra == 'base'
+Provides-Extra: dev
+Requires-Dist: pytest (>=3.6) ; extra == 'dev'
+Requires-Dist: pytest-cov ; extra == 'dev'
+Requires-Dist: pytest-asyncio (!=0.11.0) ; extra == 'dev'
+Requires-Dist: pytest-timeout ; extra == 'dev'
+Requires-Dist: pyinstaller ; extra == 'dev'
+Requires-Dist: sphinx ; extra == 'dev'
+Requires-Dist: sphinxcontrib-blockdiag ; extra == 'dev'
+Requires-Dist: sphinxcontrib-seqdiag ; extra == 'dev'
+Requires-Dist: sphinxcontrib-actdiag ; extra == 'dev'
+Requires-Dist: sphinxcontrib-nwdiag ; extra == 'dev'
+Requires-Dist: flake8 ; extra == 'dev'
+Provides-Extra: full
+Requires-Dist: pillow ; extra == 'full'
+Requires-Dist: docutils ; extra == 'full'
+Requires-Dist: pygments ; extra == 'full'
+Requires-Dist: kivy-deps.gstreamer (~=0.2.0) ; (sys_platform == "win32") and extra == 'full'
+Requires-Dist: kivy-deps.angle (~=0.2.0) ; (sys_platform == "win32") and extra == 'full'
+Requires-Dist: kivy-deps.sdl2 (~=0.2.0) ; (sys_platform == "win32") and extra == 'full'
+Requires-Dist: kivy-deps.glew (~=0.2.0) ; (sys_platform == "win32") and extra == 'full'
+Requires-Dist: pypiwin32 ; (sys_platform == "win32") and extra == 'full'
+Provides-Extra: tuio
+Requires-Dist: oscpy ; extra == 'tuio'
+
+Kivy
+
+

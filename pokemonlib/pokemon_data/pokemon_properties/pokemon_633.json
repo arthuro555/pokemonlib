@@ -1,1 +1,1 @@
-{"name": "deino", "types": ["dragon", "dark"], "stats": {"speed": 38, "special-defense": 50, "special-attack": 45, "defense": 50, "attack": 65, "hp": 52}}
+{"name": "deino", "types": ["dark", "dragon"], "stats": {"hp": 52, "attack": 65, "defense": 50, "special-attack": 45, "special-defense": 50, "speed": 38}}

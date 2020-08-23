@@ -1,1 +1,1 @@
-{"name": "carnivine", "types": ["grass"], "stats": {"speed": 46, "special-defense": 72, "special-attack": 90, "defense": 72, "attack": 100, "hp": 74}}
+{"name": "carnivine", "types": ["grass"], "stats": {"hp": 74, "attack": 100, "defense": 72, "special-attack": 90, "special-defense": 72, "speed": 46}}

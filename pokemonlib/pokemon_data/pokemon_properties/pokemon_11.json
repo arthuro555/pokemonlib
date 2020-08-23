@@ -1,1 +1,1 @@
-{"name": "metapod", "types": ["bug"], "stats": {"speed": 30, "special-defense": 25, "special-attack": 25, "defense": 55, "attack": 20, "hp": 50}}
+{"name": "metapod", "types": ["bug"], "stats": {"hp": 50, "attack": 20, "defense": 55, "special-attack": 25, "special-defense": 25, "speed": 30}}

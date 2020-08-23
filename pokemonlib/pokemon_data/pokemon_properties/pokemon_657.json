@@ -1,1 +1,1 @@
-{"name": "frogadier", "types": ["water"], "stats": {"speed": 97, "special-defense": 56, "special-attack": 83, "defense": 52, "attack": 63, "hp": 54}}
+{"name": "frogadier", "types": ["water"], "stats": {"hp": 54, "attack": 63, "defense": 52, "special-attack": 83, "special-defense": 56, "speed": 97}}

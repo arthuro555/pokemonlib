@@ -1,1 +1,1 @@
-{"name": "skorupi", "types": ["bug", "poison"], "stats": {"speed": 65, "special-defense": 55, "special-attack": 30, "defense": 90, "attack": 50, "hp": 40}}
+{"name": "skorupi", "types": ["poison", "bug"], "stats": {"hp": 40, "attack": 50, "defense": 90, "special-attack": 30, "special-defense": 55, "speed": 65}}

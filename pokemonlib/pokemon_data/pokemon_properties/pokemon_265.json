@@ -1,1 +1,1 @@
-{"name": "wurmple", "types": ["bug"], "stats": {"speed": 20, "special-defense": 30, "special-attack": 20, "defense": 35, "attack": 45, "hp": 45}}
+{"name": "wurmple", "types": ["bug"], "stats": {"hp": 45, "attack": 45, "defense": 35, "special-attack": 20, "special-defense": 30, "speed": 20}}

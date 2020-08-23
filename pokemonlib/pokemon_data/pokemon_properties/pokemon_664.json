@@ -1,1 +1,1 @@
-{"name": "scatterbug", "types": ["bug"], "stats": {"speed": 35, "special-defense": 25, "special-attack": 27, "defense": 40, "attack": 35, "hp": 38}}
+{"name": "scatterbug", "types": ["bug"], "stats": {"hp": 38, "attack": 35, "defense": 40, "special-attack": 27, "special-defense": 25, "speed": 35}}

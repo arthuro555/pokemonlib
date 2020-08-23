@@ -1,1 +1,1 @@
-{"name": "seaking", "types": ["water"], "stats": {"speed": 68, "special-defense": 80, "special-attack": 65, "defense": 65, "attack": 92, "hp": 80}}
+{"name": "seaking", "types": ["water"], "stats": {"hp": 80, "attack": 92, "defense": 65, "special-attack": 65, "special-defense": 80, "speed": 68}}

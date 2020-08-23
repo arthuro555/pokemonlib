@@ -1,1 +1,1 @@
-{"name": "mareanie", "types": ["water", "poison"], "stats": {"speed": 45, "special-defense": 52, "special-attack": 43, "defense": 62, "attack": 53, "hp": 50}}
+{"name": "mareanie", "types": ["poison", "water"], "stats": {"hp": 50, "attack": 53, "defense": 62, "special-attack": 43, "special-defense": 52, "speed": 45}}

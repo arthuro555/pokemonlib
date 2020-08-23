@@ -1,1 +1,1 @@
-{"name": "ditto", "types": ["normal"], "stats": {"speed": 48, "special-defense": 48, "special-attack": 48, "defense": 48, "attack": 48, "hp": 48}}
+{"name": "ditto", "types": ["normal"], "stats": {"hp": 48, "attack": 48, "defense": 48, "special-attack": 48, "special-defense": 48, "speed": 48}}

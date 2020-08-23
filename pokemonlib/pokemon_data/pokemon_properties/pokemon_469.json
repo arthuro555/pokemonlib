@@ -1,1 +1,1 @@
-{"name": "yanmega", "types": ["flying", "bug"], "stats": {"speed": 95, "special-defense": 56, "special-attack": 116, "defense": 86, "attack": 76, "hp": 86}}
+{"name": "yanmega", "types": ["bug", "flying"], "stats": {"hp": 86, "attack": 76, "defense": 86, "special-attack": 116, "special-defense": 56, "speed": 95}}

@@ -1,1 +1,1 @@
-{"name": "klink", "types": ["steel"], "stats": {"speed": 30, "special-defense": 60, "special-attack": 45, "defense": 70, "attack": 55, "hp": 40}}
+{"name": "klink", "types": ["steel"], "stats": {"hp": 40, "attack": 55, "defense": 70, "special-attack": 45, "special-defense": 60, "speed": 30}}

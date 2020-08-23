@@ -1,1 +1,1 @@
-{"name": "zorua", "types": ["dark"], "stats": {"speed": 65, "special-defense": 40, "special-attack": 80, "defense": 40, "attack": 65, "hp": 40}}
+{"name": "zorua", "types": ["dark"], "stats": {"hp": 40, "attack": 65, "defense": 40, "special-attack": 80, "special-defense": 40, "speed": 65}}

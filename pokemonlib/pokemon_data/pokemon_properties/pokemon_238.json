@@ -1,1 +1,1 @@
-{"name": "smoochum", "types": ["psychic", "ice"], "stats": {"speed": 65, "special-defense": 65, "special-attack": 85, "defense": 15, "attack": 30, "hp": 45}}
+{"name": "smoochum", "types": ["ice", "psychic"], "stats": {"hp": 45, "attack": 30, "defense": 15, "special-attack": 85, "special-defense": 65, "speed": 65}}

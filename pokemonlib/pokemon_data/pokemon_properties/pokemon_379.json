@@ -1,1 +1,1 @@
-{"name": "registeel", "types": ["steel"], "stats": {"speed": 50, "special-defense": 150, "special-attack": 75, "defense": 150, "attack": 75, "hp": 80}}
+{"name": "registeel", "types": ["steel"], "stats": {"hp": 80, "attack": 75, "defense": 150, "special-attack": 75, "special-defense": 150, "speed": 50}}

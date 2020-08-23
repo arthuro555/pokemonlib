@@ -1,1 +1,1 @@
-{"name": "archeops", "types": ["flying", "rock"], "stats": {"speed": 110, "special-defense": 65, "special-attack": 112, "defense": 65, "attack": 140, "hp": 75}}
+{"name": "archeops", "types": ["rock", "flying"], "stats": {"hp": 75, "attack": 140, "defense": 65, "special-attack": 112, "special-defense": 65, "speed": 110}}

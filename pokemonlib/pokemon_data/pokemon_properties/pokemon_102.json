@@ -1,1 +1,1 @@
-{"name": "exeggcute", "types": ["psychic", "grass"], "stats": {"speed": 40, "special-defense": 45, "special-attack": 60, "defense": 80, "attack": 40, "hp": 60}}
+{"name": "exeggcute", "types": ["grass", "psychic"], "stats": {"hp": 60, "attack": 40, "defense": 80, "special-attack": 60, "special-defense": 45, "speed": 40}}

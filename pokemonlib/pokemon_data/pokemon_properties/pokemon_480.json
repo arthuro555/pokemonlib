@@ -1,1 +1,1 @@
-{"name": "uxie", "types": ["psychic"], "stats": {"speed": 95, "special-defense": 130, "special-attack": 75, "defense": 130, "attack": 75, "hp": 75}}
+{"name": "uxie", "types": ["psychic"], "stats": {"hp": 75, "attack": 75, "defense": 130, "special-attack": 75, "special-defense": 130, "speed": 95}}

@@ -1,1 +1,1 @@
-{"name": "tapu-lele", "types": ["fairy", "psychic"], "stats": {"speed": 95, "special-defense": 115, "special-attack": 130, "defense": 75, "attack": 85, "hp": 70}}
+{"name": "tapu-lele", "types": ["psychic", "fairy"], "stats": {"hp": 70, "attack": 85, "defense": 75, "special-attack": 130, "special-defense": 115, "speed": 95}}

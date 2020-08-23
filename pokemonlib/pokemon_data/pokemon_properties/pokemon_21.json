@@ -1,1 +1,1 @@
-{"name": "spearow", "types": ["flying", "normal"], "stats": {"speed": 70, "special-defense": 31, "special-attack": 31, "defense": 30, "attack": 60, "hp": 40}}
+{"name": "spearow", "types": ["normal", "flying"], "stats": {"hp": 40, "attack": 60, "defense": 30, "special-attack": 31, "special-defense": 31, "speed": 70}}

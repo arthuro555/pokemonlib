@@ -1,1 +1,1 @@
-{"name": "kartana", "types": ["steel", "grass"], "stats": {"speed": 109, "special-defense": 31, "special-attack": 59, "defense": 131, "attack": 181, "hp": 59}}
+{"name": "kartana", "types": ["grass", "steel"], "stats": {"hp": 59, "attack": 181, "defense": 131, "special-attack": 59, "special-defense": 31, "speed": 109}}

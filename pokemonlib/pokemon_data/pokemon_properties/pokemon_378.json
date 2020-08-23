@@ -1,1 +1,1 @@
-{"name": "regice", "types": ["ice"], "stats": {"speed": 50, "special-defense": 200, "special-attack": 100, "defense": 100, "attack": 50, "hp": 80}}
+{"name": "regice", "types": ["ice"], "stats": {"hp": 80, "attack": 50, "defense": 100, "special-attack": 100, "special-defense": 200, "speed": 50}}

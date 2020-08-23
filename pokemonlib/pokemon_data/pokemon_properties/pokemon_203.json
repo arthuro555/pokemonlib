@@ -1,1 +1,1 @@
-{"name": "girafarig", "types": ["psychic", "normal"], "stats": {"speed": 85, "special-defense": 65, "special-attack": 90, "defense": 65, "attack": 80, "hp": 70}}
+{"name": "girafarig", "types": ["normal", "psychic"], "stats": {"hp": 70, "attack": 80, "defense": 65, "special-attack": 90, "special-defense": 65, "speed": 85}}

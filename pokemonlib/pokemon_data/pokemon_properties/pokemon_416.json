@@ -1,1 +1,1 @@
-{"name": "vespiquen", "types": ["flying", "bug"], "stats": {"speed": 40, "special-defense": 102, "special-attack": 80, "defense": 102, "attack": 80, "hp": 70}}
+{"name": "vespiquen", "types": ["bug", "flying"], "stats": {"hp": 70, "attack": 80, "defense": 102, "special-attack": 80, "special-defense": 102, "speed": 40}}

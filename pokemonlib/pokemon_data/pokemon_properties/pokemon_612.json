@@ -1,1 +1,1 @@
-{"name": "haxorus", "types": ["dragon"], "stats": {"speed": 97, "special-defense": 70, "special-attack": 60, "defense": 90, "attack": 147, "hp": 76}}
+{"name": "haxorus", "types": ["dragon"], "stats": {"hp": 76, "attack": 147, "defense": 90, "special-attack": 60, "special-defense": 70, "speed": 97}}

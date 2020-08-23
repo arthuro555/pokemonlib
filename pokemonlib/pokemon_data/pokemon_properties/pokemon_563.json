@@ -1,1 +1,1 @@
-{"name": "cofagrigus", "types": ["ghost"], "stats": {"speed": 30, "special-defense": 105, "special-attack": 95, "defense": 145, "attack": 50, "hp": 58}}
+{"name": "cofagrigus", "types": ["ghost"], "stats": {"hp": 58, "attack": 50, "defense": 145, "special-attack": 95, "special-defense": 105, "speed": 30}}

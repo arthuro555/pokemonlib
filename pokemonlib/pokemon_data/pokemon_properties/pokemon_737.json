@@ -1,1 +1,1 @@
-{"name": "charjabug", "types": ["electric", "bug"], "stats": {"speed": 36, "special-defense": 75, "special-attack": 55, "defense": 95, "attack": 82, "hp": 57}}
+{"name": "charjabug", "types": ["bug", "electric"], "stats": {"hp": 57, "attack": 82, "defense": 95, "special-attack": 55, "special-defense": 75, "speed": 36}}

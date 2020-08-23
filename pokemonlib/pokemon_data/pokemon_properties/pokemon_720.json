@@ -1,1 +1,1 @@
-{"name": "hoopa", "types": ["ghost", "psychic"], "stats": {"speed": 70, "special-defense": 130, "special-attack": 150, "defense": 60, "attack": 110, "hp": 80}}
+{"name": "hoopa", "types": ["psychic", "ghost"], "stats": {"hp": 80, "attack": 110, "defense": 60, "special-attack": 150, "special-defense": 130, "speed": 70}}

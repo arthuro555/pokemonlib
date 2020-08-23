@@ -1,1 +1,1 @@
-{"name": "tentacruel", "types": ["poison", "water"], "stats": {"speed": 100, "special-defense": 120, "special-attack": 80, "defense": 65, "attack": 70, "hp": 80}}
+{"name": "tentacruel", "types": ["water", "poison"], "stats": {"hp": 80, "attack": 70, "defense": 65, "special-attack": 80, "special-defense": 120, "speed": 100}}

@@ -1,1 +1,1 @@
-{"name": "amoonguss", "types": ["poison", "grass"], "stats": {"speed": 30, "special-defense": 80, "special-attack": 85, "defense": 70, "attack": 85, "hp": 114}}
+{"name": "amoonguss", "types": ["grass", "poison"], "stats": {"hp": 114, "attack": 85, "defense": 70, "special-attack": 85, "special-defense": 80, "speed": 30}}

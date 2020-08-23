@@ -1,1 +1,1 @@
-{"name": "flygon", "types": ["dragon", "ground"], "stats": {"speed": 100, "special-defense": 80, "special-attack": 80, "defense": 80, "attack": 100, "hp": 80}}
+{"name": "flygon", "types": ["ground", "dragon"], "stats": {"hp": 80, "attack": 100, "defense": 80, "special-attack": 80, "special-defense": 80, "speed": 100}}

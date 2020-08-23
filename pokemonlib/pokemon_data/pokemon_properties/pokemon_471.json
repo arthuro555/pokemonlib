@@ -1,1 +1,1 @@
-{"name": "glaceon", "types": ["ice"], "stats": {"speed": 65, "special-defense": 95, "special-attack": 130, "defense": 110, "attack": 60, "hp": 65}}
+{"name": "glaceon", "types": ["ice"], "stats": {"hp": 65, "attack": 60, "defense": 110, "special-attack": 130, "special-defense": 95, "speed": 65}}

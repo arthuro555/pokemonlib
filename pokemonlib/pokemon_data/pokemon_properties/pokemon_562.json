@@ -1,1 +1,1 @@
-{"name": "yamask", "types": ["ghost"], "stats": {"speed": 30, "special-defense": 65, "special-attack": 55, "defense": 85, "attack": 30, "hp": 38}}
+{"name": "yamask", "types": ["ghost"], "stats": {"hp": 38, "attack": 30, "defense": 85, "special-attack": 55, "special-defense": 65, "speed": 30}}

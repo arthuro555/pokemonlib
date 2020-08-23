@@ -1,1 +1,1 @@
-{"name": "swinub", "types": ["ground", "ice"], "stats": {"speed": 50, "special-defense": 30, "special-attack": 30, "defense": 40, "attack": 50, "hp": 50}}
+{"name": "swinub", "types": ["ice", "ground"], "stats": {"hp": 50, "attack": 50, "defense": 40, "special-attack": 30, "special-defense": 30, "speed": 50}}

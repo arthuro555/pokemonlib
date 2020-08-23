@@ -1,1 +1,1 @@
-{"name": "persian", "types": ["normal"], "stats": {"speed": 115, "special-defense": 65, "special-attack": 65, "defense": 60, "attack": 70, "hp": 65}}
+{"name": "persian", "types": ["normal"], "stats": {"hp": 65, "attack": 70, "defense": 60, "special-attack": 65, "special-defense": 65, "speed": 115}}

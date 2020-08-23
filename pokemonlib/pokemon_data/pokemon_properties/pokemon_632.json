@@ -1,1 +1,1 @@
-{"name": "durant", "types": ["steel", "bug"], "stats": {"speed": 109, "special-defense": 48, "special-attack": 48, "defense": 112, "attack": 109, "hp": 58}}
+{"name": "durant", "types": ["bug", "steel"], "stats": {"hp": 58, "attack": 109, "defense": 112, "special-attack": 48, "special-defense": 48, "speed": 109}}

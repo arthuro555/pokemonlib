@@ -1,1 +1,1 @@
-{"name": "genesect", "types": ["steel", "bug"], "stats": {"speed": 99, "special-defense": 95, "special-attack": 120, "defense": 95, "attack": 120, "hp": 71}}
+{"name": "genesect", "types": ["bug", "steel"], "stats": {"hp": 71, "attack": 120, "defense": 95, "special-attack": 120, "special-defense": 95, "speed": 99}}

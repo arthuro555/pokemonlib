@@ -1,1 +1,1 @@
-{"name": "poliwhirl", "types": ["water"], "stats": {"speed": 90, "special-defense": 50, "special-attack": 50, "defense": 65, "attack": 65, "hp": 65}}
+{"name": "poliwhirl", "types": ["water"], "stats": {"hp": 65, "attack": 65, "defense": 65, "special-attack": 50, "special-defense": 50, "speed": 90}}

@@ -1,1 +1,1 @@
-{"name": "celebi", "types": ["grass", "psychic"], "stats": {"speed": 100, "special-defense": 100, "special-attack": 100, "defense": 100, "attack": 100, "hp": 100}}
+{"name": "celebi", "types": ["psychic", "grass"], "stats": {"hp": 100, "attack": 100, "defense": 100, "special-attack": 100, "special-defense": 100, "speed": 100}}

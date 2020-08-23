@@ -1,1 +1,1 @@
-{"name": "morelull", "types": ["fairy", "grass"], "stats": {"speed": 15, "special-defense": 75, "special-attack": 65, "defense": 55, "attack": 35, "hp": 40}}
+{"name": "morelull", "types": ["grass", "fairy"], "stats": {"hp": 40, "attack": 35, "defense": 55, "special-attack": 65, "special-defense": 75, "speed": 15}}

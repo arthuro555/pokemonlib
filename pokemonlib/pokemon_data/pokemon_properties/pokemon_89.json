@@ -1,1 +1,1 @@
-{"name": "muk", "types": ["poison"], "stats": {"speed": 50, "special-defense": 100, "special-attack": 65, "defense": 75, "attack": 105, "hp": 105}}
+{"name": "muk", "types": ["poison"], "stats": {"hp": 105, "attack": 105, "defense": 75, "special-attack": 65, "special-defense": 100, "speed": 50}}

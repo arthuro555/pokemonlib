@@ -1,1 +1,1 @@
-{"name": "aron", "types": ["rock", "steel"], "stats": {"speed": 30, "special-defense": 40, "special-attack": 40, "defense": 100, "attack": 70, "hp": 50}}
+{"name": "aron", "types": ["steel", "rock"], "stats": {"hp": 50, "attack": 70, "defense": 100, "special-attack": 40, "special-defense": 40, "speed": 30}}

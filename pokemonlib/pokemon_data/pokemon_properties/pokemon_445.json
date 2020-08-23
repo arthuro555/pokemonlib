@@ -1,1 +1,1 @@
-{"name": "garchomp", "types": ["ground", "dragon"], "stats": {"speed": 102, "special-defense": 85, "special-attack": 80, "defense": 95, "attack": 130, "hp": 108}}
+{"name": "garchomp", "types": ["dragon", "ground"], "stats": {"hp": 108, "attack": 130, "defense": 95, "special-attack": 80, "special-defense": 85, "speed": 102}}

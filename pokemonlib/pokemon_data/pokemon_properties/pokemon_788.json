@@ -1,1 +1,1 @@
-{"name": "tapu-fini", "types": ["fairy", "water"], "stats": {"speed": 85, "special-defense": 130, "special-attack": 95, "defense": 115, "attack": 75, "hp": 70}}
+{"name": "tapu-fini", "types": ["water", "fairy"], "stats": {"hp": 70, "attack": 75, "defense": 115, "special-attack": 95, "special-defense": 130, "speed": 85}}

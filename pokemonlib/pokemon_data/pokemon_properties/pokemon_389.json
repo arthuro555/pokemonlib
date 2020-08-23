@@ -1,1 +1,1 @@
-{"name": "torterra", "types": ["ground", "grass"], "stats": {"speed": 56, "special-defense": 85, "special-attack": 75, "defense": 105, "attack": 109, "hp": 95}}
+{"name": "torterra", "types": ["grass", "ground"], "stats": {"hp": 95, "attack": 109, "defense": 105, "special-attack": 75, "special-defense": 85, "speed": 56}}

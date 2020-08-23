@@ -1,1 +1,1 @@
-{"name": "taillow", "types": ["flying", "normal"], "stats": {"speed": 85, "special-defense": 30, "special-attack": 30, "defense": 30, "attack": 55, "hp": 40}}
+{"name": "taillow", "types": ["normal", "flying"], "stats": {"hp": 40, "attack": 55, "defense": 30, "special-attack": 30, "special-defense": 30, "speed": 85}}

@@ -1,1 +1,1 @@
-{"name": "lotad", "types": ["grass", "water"], "stats": {"speed": 30, "special-defense": 50, "special-attack": 40, "defense": 30, "attack": 30, "hp": 40}}
+{"name": "lotad", "types": ["water", "grass"], "stats": {"hp": 40, "attack": 30, "defense": 30, "special-attack": 40, "special-defense": 50, "speed": 30}}

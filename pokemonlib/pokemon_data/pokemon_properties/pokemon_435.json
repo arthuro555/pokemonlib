@@ -1,1 +1,1 @@
-{"name": "skuntank", "types": ["dark", "poison"], "stats": {"speed": 84, "special-defense": 61, "special-attack": 71, "defense": 67, "attack": 93, "hp": 103}}
+{"name": "skuntank", "types": ["poison", "dark"], "stats": {"hp": 103, "attack": 93, "defense": 67, "special-attack": 71, "special-defense": 61, "speed": 84}}

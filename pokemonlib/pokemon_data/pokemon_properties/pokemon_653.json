@@ -1,1 +1,1 @@
-{"name": "fennekin", "types": ["fire"], "stats": {"speed": 60, "special-defense": 60, "special-attack": 62, "defense": 40, "attack": 45, "hp": 40}}
+{"name": "fennekin", "types": ["fire"], "stats": {"hp": 40, "attack": 45, "defense": 40, "special-attack": 62, "special-defense": 60, "speed": 60}}

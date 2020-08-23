@@ -1,1 +1,1 @@
-{"name": "grumpig", "types": ["psychic"], "stats": {"speed": 80, "special-defense": 110, "special-attack": 90, "defense": 65, "attack": 45, "hp": 80}}
+{"name": "grumpig", "types": ["psychic"], "stats": {"hp": 80, "attack": 45, "defense": 65, "special-attack": 90, "special-defense": 110, "speed": 80}}

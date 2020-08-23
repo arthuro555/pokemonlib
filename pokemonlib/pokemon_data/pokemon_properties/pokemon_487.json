@@ -1,1 +1,1 @@
-{"name": "giratina-altered", "types": ["dragon", "ghost"], "stats": {"speed": 90, "special-defense": 120, "special-attack": 100, "defense": 120, "attack": 100, "hp": 150}}
+{"name": "giratina-altered", "types": ["ghost", "dragon"], "stats": {"hp": 150, "attack": 100, "defense": 120, "special-attack": 100, "special-defense": 120, "speed": 90}}

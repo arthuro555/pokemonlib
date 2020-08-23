@@ -1,1 +1,1 @@
-{"name": "scrafty", "types": ["fighting", "dark"], "stats": {"speed": 58, "special-defense": 115, "special-attack": 45, "defense": 115, "attack": 90, "hp": 65}}
+{"name": "scrafty", "types": ["dark", "fighting"], "stats": {"hp": 65, "attack": 90, "defense": 115, "special-attack": 45, "special-defense": 115, "speed": 58}}

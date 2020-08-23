@@ -1,1 +1,1 @@
-{"name": "pumpkaboo-average", "types": ["grass", "ghost"], "stats": {"speed": 51, "special-defense": 55, "special-attack": 44, "defense": 70, "attack": 66, "hp": 49}}
+{"name": "pumpkaboo-average", "types": ["ghost", "grass"], "stats": {"hp": 49, "attack": 66, "defense": 70, "special-attack": 44, "special-defense": 55, "speed": 51}}

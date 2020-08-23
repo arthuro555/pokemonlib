@@ -1,1 +1,1 @@
-{"name": "carvanha", "types": ["dark", "water"], "stats": {"speed": 65, "special-defense": 20, "special-attack": 65, "defense": 20, "attack": 90, "hp": 45}}
+{"name": "carvanha", "types": ["water", "dark"], "stats": {"hp": 45, "attack": 90, "defense": 20, "special-attack": 65, "special-defense": 20, "speed": 65}}

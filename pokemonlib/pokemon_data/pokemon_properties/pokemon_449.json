@@ -1,1 +1,1 @@
-{"name": "hippopotas", "types": ["ground"], "stats": {"speed": 32, "special-defense": 42, "special-attack": 38, "defense": 78, "attack": 72, "hp": 68}}
+{"name": "hippopotas", "types": ["ground"], "stats": {"hp": 68, "attack": 72, "defense": 78, "special-attack": 38, "special-defense": 42, "speed": 32}}

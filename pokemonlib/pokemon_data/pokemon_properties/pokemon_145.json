@@ -1,1 +1,1 @@
-{"name": "zapdos", "types": ["flying", "electric"], "stats": {"speed": 100, "special-defense": 90, "special-attack": 125, "defense": 85, "attack": 90, "hp": 90}}
+{"name": "zapdos", "types": ["electric", "flying"], "stats": {"hp": 90, "attack": 90, "defense": 85, "special-attack": 125, "special-defense": 90, "speed": 100}}

@@ -1,1 +1,1 @@
-{"name": "probopass", "types": ["steel", "rock"], "stats": {"speed": 40, "special-defense": 150, "special-attack": 75, "defense": 145, "attack": 55, "hp": 60}}
+{"name": "probopass", "types": ["rock", "steel"], "stats": {"hp": 60, "attack": 55, "defense": 145, "special-attack": 75, "special-defense": 150, "speed": 40}}

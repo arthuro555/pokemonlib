@@ -1,1 +1,1 @@
-{"name": "hitmonchan", "types": ["fighting"], "stats": {"speed": 76, "special-defense": 110, "special-attack": 35, "defense": 79, "attack": 105, "hp": 50}}
+{"name": "hitmonchan", "types": ["fighting"], "stats": {"hp": 50, "attack": 105, "defense": 79, "special-attack": 35, "special-defense": 110, "speed": 76}}

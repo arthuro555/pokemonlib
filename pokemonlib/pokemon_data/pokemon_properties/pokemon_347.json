@@ -1,1 +1,1 @@
-{"name": "anorith", "types": ["bug", "rock"], "stats": {"speed": 75, "special-defense": 50, "special-attack": 40, "defense": 50, "attack": 95, "hp": 45}}
+{"name": "anorith", "types": ["rock", "bug"], "stats": {"hp": 45, "attack": 95, "defense": 50, "special-attack": 40, "special-defense": 50, "speed": 75}}

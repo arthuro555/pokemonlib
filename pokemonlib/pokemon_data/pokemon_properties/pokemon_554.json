@@ -1,1 +1,1 @@
-{"name": "darumaka", "types": ["fire"], "stats": {"speed": 50, "special-defense": 45, "special-attack": 15, "defense": 45, "attack": 90, "hp": 70}}
+{"name": "darumaka", "types": ["fire"], "stats": {"hp": 70, "attack": 90, "defense": 45, "special-attack": 15, "special-defense": 45, "speed": 50}}

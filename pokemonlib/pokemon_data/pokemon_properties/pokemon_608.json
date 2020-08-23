@@ -1,1 +1,1 @@
-{"name": "lampent", "types": ["fire", "ghost"], "stats": {"speed": 55, "special-defense": 60, "special-attack": 95, "defense": 60, "attack": 40, "hp": 60}}
+{"name": "lampent", "types": ["ghost", "fire"], "stats": {"hp": 60, "attack": 40, "defense": 60, "special-attack": 95, "special-defense": 60, "speed": 55}}

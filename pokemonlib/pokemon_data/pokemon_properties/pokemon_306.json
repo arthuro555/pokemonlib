@@ -1,1 +1,1 @@
-{"name": "aggron", "types": ["rock", "steel"], "stats": {"speed": 50, "special-defense": 60, "special-attack": 60, "defense": 180, "attack": 110, "hp": 70}}
+{"name": "aggron", "types": ["steel", "rock"], "stats": {"hp": 70, "attack": 110, "defense": 180, "special-attack": 60, "special-defense": 60, "speed": 50}}

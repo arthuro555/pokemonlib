@@ -1,1 +1,1 @@
-{"name": "shuppet", "types": ["ghost"], "stats": {"speed": 45, "special-defense": 33, "special-attack": 63, "defense": 35, "attack": 75, "hp": 44}}
+{"name": "shuppet", "types": ["ghost"], "stats": {"hp": 44, "attack": 75, "defense": 35, "special-attack": 63, "special-defense": 33, "speed": 45}}

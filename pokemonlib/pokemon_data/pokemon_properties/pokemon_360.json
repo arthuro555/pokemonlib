@@ -1,1 +1,1 @@
-{"name": "wynaut", "types": ["psychic"], "stats": {"speed": 23, "special-defense": 48, "special-attack": 23, "defense": 48, "attack": 23, "hp": 95}}
+{"name": "wynaut", "types": ["psychic"], "stats": {"hp": 95, "attack": 23, "defense": 48, "special-attack": 23, "special-defense": 48, "speed": 23}}

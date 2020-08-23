@@ -1,1 +1,1 @@
-{"name": "sceptile", "types": ["grass"], "stats": {"speed": 120, "special-defense": 85, "special-attack": 105, "defense": 65, "attack": 85, "hp": 70}}
+{"name": "sceptile", "types": ["grass"], "stats": {"hp": 70, "attack": 85, "defense": 65, "special-attack": 105, "special-defense": 85, "speed": 120}}

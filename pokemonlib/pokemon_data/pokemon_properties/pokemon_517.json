@@ -1,1 +1,1 @@
-{"name": "munna", "types": ["psychic"], "stats": {"speed": 24, "special-defense": 55, "special-attack": 67, "defense": 45, "attack": 25, "hp": 76}}
+{"name": "munna", "types": ["psychic"], "stats": {"hp": 76, "attack": 25, "defense": 45, "special-attack": 67, "special-defense": 55, "speed": 24}}

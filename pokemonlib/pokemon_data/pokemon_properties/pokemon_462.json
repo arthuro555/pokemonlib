@@ -1,1 +1,1 @@
-{"name": "magnezone", "types": ["steel", "electric"], "stats": {"speed": 60, "special-defense": 90, "special-attack": 130, "defense": 115, "attack": 70, "hp": 70}}
+{"name": "magnezone", "types": ["electric", "steel"], "stats": {"hp": 70, "attack": 70, "defense": 115, "special-attack": 130, "special-defense": 90, "speed": 60}}

@@ -1,1 +1,1 @@
-{"name": "vulpix", "types": ["fire"], "stats": {"speed": 65, "special-defense": 65, "special-attack": 50, "defense": 40, "attack": 41, "hp": 38}}
+{"name": "vulpix", "types": ["fire"], "stats": {"hp": 38, "attack": 41, "defense": 40, "special-attack": 50, "special-defense": 65, "speed": 65}}

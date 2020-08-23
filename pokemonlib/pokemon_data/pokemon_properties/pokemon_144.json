@@ -1,1 +1,1 @@
-{"name": "articuno", "types": ["flying", "ice"], "stats": {"speed": 85, "special-defense": 125, "special-attack": 95, "defense": 100, "attack": 85, "hp": 90}}
+{"name": "articuno", "types": ["ice", "flying"], "stats": {"hp": 90, "attack": 85, "defense": 100, "special-attack": 95, "special-defense": 125, "speed": 85}}

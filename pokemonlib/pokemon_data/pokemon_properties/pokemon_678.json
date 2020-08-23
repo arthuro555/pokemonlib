@@ -1,1 +1,1 @@
-{"name": "meowstic-male", "types": ["psychic"], "stats": {"speed": 104, "special-defense": 81, "special-attack": 83, "defense": 76, "attack": 48, "hp": 74}}
+{"name": "meowstic-male", "types": ["psychic"], "stats": {"hp": 74, "attack": 48, "defense": 76, "special-attack": 83, "special-defense": 81, "speed": 104}}

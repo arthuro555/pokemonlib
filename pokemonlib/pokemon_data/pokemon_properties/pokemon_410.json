@@ -1,1 +1,1 @@
-{"name": "shieldon", "types": ["steel", "rock"], "stats": {"speed": 30, "special-defense": 88, "special-attack": 42, "defense": 118, "attack": 42, "hp": 30}}
+{"name": "shieldon", "types": ["rock", "steel"], "stats": {"hp": 30, "attack": 42, "defense": 118, "special-attack": 42, "special-defense": 88, "speed": 30}}

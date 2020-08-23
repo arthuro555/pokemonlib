@@ -1,1 +1,1 @@
-{"name": "keldeo-ordinary", "types": ["fighting", "water"], "stats": {"speed": 108, "special-defense": 90, "special-attack": 129, "defense": 90, "attack": 72, "hp": 91}}
+{"name": "keldeo-ordinary", "types": ["water", "fighting"], "stats": {"hp": 91, "attack": 72, "defense": 90, "special-attack": 129, "special-defense": 90, "speed": 108}}

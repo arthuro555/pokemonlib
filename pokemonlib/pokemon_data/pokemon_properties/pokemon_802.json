@@ -1,1 +1,1 @@
-{"name": "marshadow", "types": ["ghost", "fighting"], "stats": {"speed": 125, "special-defense": 90, "special-attack": 90, "defense": 80, "attack": 125, "hp": 90}}
+{"name": "marshadow", "types": ["fighting", "ghost"], "stats": {"hp": 90, "attack": 125, "defense": 80, "special-attack": 90, "special-defense": 90, "speed": 125}}

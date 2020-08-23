@@ -1,1 +1,1 @@
-{"name": "dustox", "types": ["poison", "bug"], "stats": {"speed": 65, "special-defense": 90, "special-attack": 50, "defense": 70, "attack": 50, "hp": 60}}
+{"name": "dustox", "types": ["bug", "poison"], "stats": {"hp": 60, "attack": 50, "defense": 70, "special-attack": 50, "special-defense": 90, "speed": 65}}

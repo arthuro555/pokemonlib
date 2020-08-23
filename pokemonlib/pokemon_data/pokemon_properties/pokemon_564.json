@@ -1,1 +1,1 @@
-{"name": "tirtouga", "types": ["rock", "water"], "stats": {"speed": 22, "special-defense": 45, "special-attack": 53, "defense": 103, "attack": 78, "hp": 54}}
+{"name": "tirtouga", "types": ["water", "rock"], "stats": {"hp": 54, "attack": 78, "defense": 103, "special-attack": 53, "special-defense": 45, "speed": 22}}

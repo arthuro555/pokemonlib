@@ -1,1 +1,1 @@
-{"name": "slowbro", "types": ["psychic", "water"], "stats": {"speed": 30, "special-defense": 80, "special-attack": 100, "defense": 110, "attack": 75, "hp": 95}}
+{"name": "slowbro", "types": ["water", "psychic"], "stats": {"hp": 95, "attack": 75, "defense": 110, "special-attack": 100, "special-defense": 80, "speed": 30}}

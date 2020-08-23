@@ -1,1 +1,1 @@
-{"name": "scyther", "types": ["flying", "bug"], "stats": {"speed": 105, "special-defense": 80, "special-attack": 55, "defense": 80, "attack": 110, "hp": 70}}
+{"name": "scyther", "types": ["bug", "flying"], "stats": {"hp": 70, "attack": 110, "defense": 80, "special-attack": 55, "special-defense": 80, "speed": 105}}

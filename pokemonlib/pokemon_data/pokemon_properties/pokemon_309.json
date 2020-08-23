@@ -1,1 +1,1 @@
-{"name": "electrike", "types": ["electric"], "stats": {"speed": 65, "special-defense": 40, "special-attack": 65, "defense": 40, "attack": 45, "hp": 40}}
+{"name": "electrike", "types": ["electric"], "stats": {"hp": 40, "attack": 45, "defense": 40, "special-attack": 65, "special-defense": 40, "speed": 65}}

@@ -1,1 +1,1 @@
-{"name": "fraxure", "types": ["dragon"], "stats": {"speed": 67, "special-defense": 50, "special-attack": 40, "defense": 70, "attack": 117, "hp": 66}}
+{"name": "fraxure", "types": ["dragon"], "stats": {"hp": 66, "attack": 117, "defense": 70, "special-attack": 40, "special-defense": 50, "speed": 67}}

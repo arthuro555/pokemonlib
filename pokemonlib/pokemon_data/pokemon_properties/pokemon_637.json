@@ -1,1 +1,1 @@
-{"name": "volcarona", "types": ["fire", "bug"], "stats": {"speed": 100, "special-defense": 105, "special-attack": 135, "defense": 65, "attack": 60, "hp": 85}}
+{"name": "volcarona", "types": ["bug", "fire"], "stats": {"hp": 85, "attack": 60, "defense": 65, "special-attack": 135, "special-defense": 105, "speed": 100}}

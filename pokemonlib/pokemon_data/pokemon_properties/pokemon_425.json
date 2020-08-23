@@ -1,1 +1,1 @@
-{"name": "drifloon", "types": ["flying", "ghost"], "stats": {"speed": 70, "special-defense": 44, "special-attack": 60, "defense": 34, "attack": 50, "hp": 90}}
+{"name": "drifloon", "types": ["ghost", "flying"], "stats": {"hp": 90, "attack": 50, "defense": 34, "special-attack": 60, "special-defense": 44, "speed": 70}}

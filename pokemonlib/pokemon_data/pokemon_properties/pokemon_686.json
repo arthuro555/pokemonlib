@@ -1,1 +1,1 @@
-{"name": "inkay", "types": ["psychic", "dark"], "stats": {"speed": 45, "special-defense": 46, "special-attack": 37, "defense": 53, "attack": 54, "hp": 53}}
+{"name": "inkay", "types": ["dark", "psychic"], "stats": {"hp": 53, "attack": 54, "defense": 53, "special-attack": 37, "special-defense": 46, "speed": 45}}

@@ -1,1 +1,1 @@
-{"name": "ursaring", "types": ["normal"], "stats": {"speed": 55, "special-defense": 75, "special-attack": 75, "defense": 75, "attack": 130, "hp": 90}}
+{"name": "ursaring", "types": ["normal"], "stats": {"hp": 90, "attack": 130, "defense": 75, "special-attack": 75, "special-defense": 75, "speed": 55}}

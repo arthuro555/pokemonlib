@@ -1,1 +1,1 @@
-{"name": "cosmoem", "types": ["psychic"], "stats": {"speed": 37, "special-defense": 131, "special-attack": 29, "defense": 131, "attack": 29, "hp": 43}}
+{"name": "cosmoem", "types": ["psychic"], "stats": {"hp": 43, "attack": 29, "defense": 131, "special-attack": 29, "special-defense": 131, "speed": 37}}

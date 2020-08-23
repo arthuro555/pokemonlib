@@ -1,1 +1,1 @@
-{"name": "pupitar", "types": ["ground", "rock"], "stats": {"speed": 51, "special-defense": 70, "special-attack": 65, "defense": 70, "attack": 84, "hp": 70}}
+{"name": "pupitar", "types": ["rock", "ground"], "stats": {"hp": 70, "attack": 84, "defense": 70, "special-attack": 65, "special-defense": 70, "speed": 51}}

@@ -1,1 +1,1 @@
-{"name": "ledian", "types": ["flying", "bug"], "stats": {"speed": 85, "special-defense": 110, "special-attack": 55, "defense": 50, "attack": 35, "hp": 55}}
+{"name": "ledian", "types": ["bug", "flying"], "stats": {"hp": 55, "attack": 35, "defense": 50, "special-attack": 55, "special-defense": 110, "speed": 85}}

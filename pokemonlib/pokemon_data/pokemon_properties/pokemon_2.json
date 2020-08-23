@@ -1,1 +1,1 @@
-{"name": "ivysaur", "types": ["poison", "grass"], "stats": {"speed": 60, "special-defense": 80, "special-attack": 80, "defense": 63, "attack": 62, "hp": 60}}
+{"name": "ivysaur", "types": ["grass", "poison"], "stats": {"hp": 60, "attack": 62, "defense": 63, "special-attack": 80, "special-defense": 80, "speed": 60}}

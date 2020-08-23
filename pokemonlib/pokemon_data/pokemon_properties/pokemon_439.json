@@ -1,1 +1,1 @@
-{"name": "mime-jr", "types": ["fairy", "psychic"], "stats": {"speed": 60, "special-defense": 90, "special-attack": 70, "defense": 45, "attack": 25, "hp": 20}}
+{"name": "mime-jr", "types": ["psychic", "fairy"], "stats": {"hp": 20, "attack": 25, "defense": 45, "special-attack": 70, "special-defense": 90, "speed": 60}}

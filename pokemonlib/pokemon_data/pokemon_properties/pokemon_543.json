@@ -1,1 +1,1 @@
-{"name": "venipede", "types": ["poison", "bug"], "stats": {"speed": 57, "special-defense": 39, "special-attack": 30, "defense": 59, "attack": 45, "hp": 30}}
+{"name": "venipede", "types": ["bug", "poison"], "stats": {"hp": 30, "attack": 45, "defense": 59, "special-attack": 30, "special-defense": 39, "speed": 57}}

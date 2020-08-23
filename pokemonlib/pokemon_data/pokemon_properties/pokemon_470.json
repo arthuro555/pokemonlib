@@ -1,1 +1,1 @@
-{"name": "leafeon", "types": ["grass"], "stats": {"speed": 95, "special-defense": 65, "special-attack": 60, "defense": 130, "attack": 110, "hp": 65}}
+{"name": "leafeon", "types": ["grass"], "stats": {"hp": 65, "attack": 110, "defense": 130, "special-attack": 60, "special-defense": 65, "speed": 95}}

@@ -1,1 +1,1 @@
-{"name": "cubone", "types": ["ground"], "stats": {"speed": 35, "special-defense": 50, "special-attack": 40, "defense": 95, "attack": 50, "hp": 50}}
+{"name": "cubone", "types": ["ground"], "stats": {"hp": 50, "attack": 50, "defense": 95, "special-attack": 40, "special-defense": 50, "speed": 35}}

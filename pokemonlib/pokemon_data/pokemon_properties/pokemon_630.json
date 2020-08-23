@@ -1,1 +1,1 @@
-{"name": "mandibuzz", "types": ["flying", "dark"], "stats": {"speed": 80, "special-defense": 95, "special-attack": 55, "defense": 105, "attack": 65, "hp": 110}}
+{"name": "mandibuzz", "types": ["dark", "flying"], "stats": {"hp": 110, "attack": 65, "defense": 105, "special-attack": 55, "special-defense": 95, "speed": 80}}

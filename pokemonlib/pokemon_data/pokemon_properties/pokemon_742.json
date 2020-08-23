@@ -1,1 +1,1 @@
-{"name": "cutiefly", "types": ["fairy", "bug"], "stats": {"speed": 84, "special-defense": 40, "special-attack": 55, "defense": 40, "attack": 45, "hp": 40}}
+{"name": "cutiefly", "types": ["bug", "fairy"], "stats": {"hp": 40, "attack": 45, "defense": 40, "special-attack": 55, "special-defense": 40, "speed": 84}}

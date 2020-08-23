@@ -1,1 +1,1 @@
-{"name": "ferrothorn", "types": ["steel", "grass"], "stats": {"speed": 20, "special-defense": 116, "special-attack": 54, "defense": 131, "attack": 94, "hp": 74}}
+{"name": "ferrothorn", "types": ["grass", "steel"], "stats": {"hp": 74, "attack": 94, "defense": 131, "special-attack": 54, "special-defense": 116, "speed": 20}}

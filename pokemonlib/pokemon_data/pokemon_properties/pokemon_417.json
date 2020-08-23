@@ -1,1 +1,1 @@
-{"name": "pachirisu", "types": ["electric"], "stats": {"speed": 95, "special-defense": 90, "special-attack": 45, "defense": 70, "attack": 45, "hp": 60}}
+{"name": "pachirisu", "types": ["electric"], "stats": {"hp": 60, "attack": 45, "defense": 70, "special-attack": 45, "special-defense": 90, "speed": 95}}

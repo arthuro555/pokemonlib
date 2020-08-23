@@ -1,1 +1,1 @@
-{"name": "omastar", "types": ["water", "rock"], "stats": {"speed": 55, "special-defense": 70, "special-attack": 115, "defense": 125, "attack": 60, "hp": 70}}
+{"name": "omastar", "types": ["rock", "water"], "stats": {"hp": 70, "attack": 60, "defense": 125, "special-attack": 115, "special-defense": 70, "speed": 55}}

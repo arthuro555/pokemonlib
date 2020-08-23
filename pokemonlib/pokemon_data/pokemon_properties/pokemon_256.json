@@ -1,1 +1,1 @@
-{"name": "combusken", "types": ["fighting", "fire"], "stats": {"speed": 55, "special-defense": 60, "special-attack": 85, "defense": 60, "attack": 85, "hp": 60}}
+{"name": "combusken", "types": ["fire", "fighting"], "stats": {"hp": 60, "attack": 85, "defense": 60, "special-attack": 85, "special-defense": 60, "speed": 55}}

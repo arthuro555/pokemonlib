@@ -1,1 +1,1 @@
-{"name": "swellow", "types": ["flying", "normal"], "stats": {"speed": 125, "special-defense": 50, "special-attack": 75, "defense": 60, "attack": 85, "hp": 60}}
+{"name": "swellow", "types": ["normal", "flying"], "stats": {"hp": 60, "attack": 85, "defense": 60, "special-attack": 75, "special-defense": 50, "speed": 125}}

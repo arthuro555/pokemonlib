@@ -1,1 +1,1 @@
-{"name": "bagon", "types": ["dragon"], "stats": {"speed": 50, "special-defense": 30, "special-attack": 40, "defense": 60, "attack": 75, "hp": 45}}
+{"name": "bagon", "types": ["dragon"], "stats": {"hp": 45, "attack": 75, "defense": 60, "special-attack": 40, "special-defense": 30, "speed": 50}}

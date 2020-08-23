@@ -3,56 +3,36 @@ import json
 import os
 
 
-def pokedatagetfromapi():
+def download_pokemon_data():
+    print("Downloading pokemon data...")
+    path = os.getcwd()
+    pokemon_data_path = path + f"{os.path.sep}pokemonlib{os.path.sep}pokemon_data{os.path.sep}"
+    pokemon_properties_path = f"{pokemon_data_path}pokemon_properties{os.path.sep}"
+    print(pokemon_properties_path)
 
-    for idn in range(0, 807):  # For all existing pokemon
-        ff = False  # Reset this variable used to verify if first iteration of next for loop
-        types = []  # Reset type list
-        p_type = " "  # Reset the string that will be printed
-        stats = {}  # Reset dictionary responsible for pokemon statistics
-        # idn += 1   idk anymore why I added that
+    if not os.path.exists(pokemon_data_path):
+        os.mkdir(pokemon_data_path)
+    if not os.path.exists(pokemon_properties_path):
+        os.mkdir(pokemon_properties_path)
 
-        response = requests.get("https://pokeapi.co/api/v2/pokemon/"+str(idn)+"/")  # Get data in json from the api
+    all_pokemons = requests\
+        .get("https://pokeapi.co/api/v2/pokemon/?limit=999999999")\
+        .json()["results"]  # Get list of all pokemons
 
-        for x in response.json()["types"]:  # For each type the pokemon has
-            if ff:  # if not first iteration
-                p_type += " and "  # add an "and" in the string that will be printed
-            ff = True  # Variable changed: Not first iteration
-            p_type += str(x["type"]["name"])  # add the type of th pokemon to what will be printed
+    for pokemon_endpoint in all_pokemons:
+        pokemon_data = requests.get(pokemon_endpoint["url"]).json()
+
+        types = []
+        for x in pokemon_data["types"]:  # For each type the pokemon has
             types.append(str(x["type"]["name"]))  # transfer the values to another list
-        name = response.json()["name"]  # Get the pokemon's name
 
-        # print out the data collected
-        print("Pokemon with id " + str(idn) + " is named " + name + ", and is a" + p_type + " type pokemon_data.")
-
-        for x in response.json()["stats"]:  # for each stat of the pokemon
+        stats = {}
+        for x in pokemon_data["stats"]:  # for each stat of the pokemon
             stats[x["stat"]["name"]] = x["base_stat"]  # add the base stat in a dictionary with stat name as key
 
-        # make a final dictionary containing all the needed data
-        pokedata = {"name": name, "types": types, "stats": stats}
+        simplified_pokemon_data = {"name": pokemon_data["name"], "types": types, "stats": stats}
 
-        path = os.getcwd()  # Gets the relative path from main.py
-
-        # Decides if using \ for windows or / for mac and linux in the path
-        if os.name == "nt":
-            otherpath = path + "pokemonlib\\pokemon_data\\"
-            path += "pokemonlib\\pokemon_data\\pokemon_properties\\"
-        else:
-            otherpath = path + "pokemonlib/pokemon_data/"
-            path += "pokemonlib/pokemon_data/pokemon_properties/"
-
-        try:
-            # Save the pokedata variable as json
-            with open(path + "/pokemon_" + str(idn) + ".json", "w+") as f:
-                json.dump(pokedata, f)
-
-            print("Saved " + str(idn))
-
-        except FileNotFoundError:  # If directory doesn't exist
-            os.mkdir(otherpath)  # create the pokemon_data directory
-            os.mkdir(path)  # create the pokemon_properties sub-directory
-
-            with open(path + "/pokemon_" + str(idn) + ".json", "w+") as f:  # Now try again to save
-                json.dump(pokedata, f)
-
-            print("Saved " + str(idn))
+        # Save it as json
+        with open(pokemon_properties_path + "/pokemon_" + str(pokemon_data["id"]) + ".json", "w") as f:
+            json.dump(simplified_pokemon_data, f)
+            print(f"Saved {pokemon_data['name']}")

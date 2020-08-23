@@ -1,1 +1,1 @@
-{"name": "dewgong", "types": ["ice", "water"], "stats": {"speed": 70, "special-defense": 95, "special-attack": 70, "defense": 80, "attack": 70, "hp": 90}}
+{"name": "dewgong", "types": ["water", "ice"], "stats": {"hp": 90, "attack": 70, "defense": 80, "special-attack": 70, "special-defense": 95, "speed": 70}}

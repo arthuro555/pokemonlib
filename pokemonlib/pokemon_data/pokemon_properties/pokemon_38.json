@@ -1,1 +1,1 @@
-{"name": "ninetales", "types": ["fire"], "stats": {"speed": 100, "special-defense": 100, "special-attack": 81, "defense": 75, "attack": 76, "hp": 73}}
+{"name": "ninetales", "types": ["fire"], "stats": {"hp": 73, "attack": 76, "defense": 75, "special-attack": 81, "special-defense": 100, "speed": 100}}

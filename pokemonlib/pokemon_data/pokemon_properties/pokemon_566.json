@@ -1,1 +1,1 @@
-{"name": "archen", "types": ["flying", "rock"], "stats": {"speed": 70, "special-defense": 45, "special-attack": 74, "defense": 45, "attack": 112, "hp": 55}}
+{"name": "archen", "types": ["rock", "flying"], "stats": {"hp": 55, "attack": 112, "defense": 45, "special-attack": 74, "special-defense": 45, "speed": 70}}

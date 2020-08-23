@@ -1,1 +1,1 @@
-{"name": "chesnaught", "types": ["fighting", "grass"], "stats": {"speed": 64, "special-defense": 75, "special-attack": 74, "defense": 122, "attack": 107, "hp": 88}}
+{"name": "chesnaught", "types": ["grass", "fighting"], "stats": {"hp": 88, "attack": 107, "defense": 122, "special-attack": 74, "special-defense": 75, "speed": 64}}

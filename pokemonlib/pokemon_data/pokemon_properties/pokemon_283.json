@@ -1,1 +1,1 @@
-{"name": "surskit", "types": ["water", "bug"], "stats": {"speed": 65, "special-defense": 52, "special-attack": 50, "defense": 32, "attack": 30, "hp": 40}}
+{"name": "surskit", "types": ["bug", "water"], "stats": {"hp": 40, "attack": 30, "defense": 32, "special-attack": 50, "special-defense": 52, "speed": 65}}

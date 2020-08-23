@@ -1,1 +1,1 @@
-{"name": "luvdisc", "types": ["water"], "stats": {"speed": 97, "special-defense": 65, "special-attack": 40, "defense": 55, "attack": 30, "hp": 43}}
+{"name": "luvdisc", "types": ["water"], "stats": {"hp": 43, "attack": 30, "defense": 55, "special-attack": 40, "special-defense": 65, "speed": 97}}

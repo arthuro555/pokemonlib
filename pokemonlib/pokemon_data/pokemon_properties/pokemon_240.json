@@ -1,1 +1,1 @@
-{"name": "magby", "types": ["fire"], "stats": {"speed": 83, "special-defense": 55, "special-attack": 70, "defense": 37, "attack": 75, "hp": 45}}
+{"name": "magby", "types": ["fire"], "stats": {"hp": 45, "attack": 75, "defense": 37, "special-attack": 70, "special-defense": 55, "speed": 83}}

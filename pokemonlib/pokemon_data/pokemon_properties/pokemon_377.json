@@ -1,1 +1,1 @@
-{"name": "regirock", "types": ["rock"], "stats": {"speed": 50, "special-defense": 100, "special-attack": 50, "defense": 200, "attack": 100, "hp": 80}}
+{"name": "regirock", "types": ["rock"], "stats": {"hp": 80, "attack": 100, "defense": 200, "special-attack": 50, "special-defense": 100, "speed": 50}}

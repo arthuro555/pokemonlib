@@ -1,1 +1,1 @@
-{"name": "venomoth", "types": ["poison", "bug"], "stats": {"speed": 90, "special-defense": 75, "special-attack": 90, "defense": 60, "attack": 65, "hp": 70}}
+{"name": "venomoth", "types": ["bug", "poison"], "stats": {"hp": 70, "attack": 65, "defense": 60, "special-attack": 90, "special-defense": 75, "speed": 90}}

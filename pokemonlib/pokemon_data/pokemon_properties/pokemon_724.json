@@ -1,1 +1,1 @@
-{"name": "decidueye", "types": ["ghost", "grass"], "stats": {"speed": 70, "special-defense": 100, "special-attack": 100, "defense": 75, "attack": 107, "hp": 78}}
+{"name": "decidueye", "types": ["grass", "ghost"], "stats": {"hp": 78, "attack": 107, "defense": 75, "special-attack": 100, "special-defense": 100, "speed": 70}}

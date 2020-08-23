@@ -1,1 +1,1 @@
-{"name": "dragonair", "types": ["dragon"], "stats": {"speed": 70, "special-defense": 70, "special-attack": 70, "defense": 65, "attack": 84, "hp": 61}}
+{"name": "dragonair", "types": ["dragon"], "stats": {"hp": 61, "attack": 84, "defense": 65, "special-attack": 70, "special-defense": 70, "speed": 70}}

@@ -1,1 +1,1 @@
-{"name": "klang", "types": ["steel"], "stats": {"speed": 50, "special-defense": 85, "special-attack": 70, "defense": 95, "attack": 80, "hp": 60}}
+{"name": "klang", "types": ["steel"], "stats": {"hp": 60, "attack": 80, "defense": 95, "special-attack": 70, "special-defense": 85, "speed": 50}}

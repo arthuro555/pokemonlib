@@ -1,1 +1,1 @@
-{"name": "ferroseed", "types": ["steel", "grass"], "stats": {"speed": 10, "special-defense": 86, "special-attack": 24, "defense": 91, "attack": 50, "hp": 44}}
+{"name": "ferroseed", "types": ["grass", "steel"], "stats": {"hp": 44, "attack": 50, "defense": 91, "special-attack": 24, "special-defense": 86, "speed": 10}}

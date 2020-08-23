@@ -1,1 +1,1 @@
-{"name": "piloswine", "types": ["ground", "ice"], "stats": {"speed": 50, "special-defense": 60, "special-attack": 60, "defense": 80, "attack": 100, "hp": 100}}
+{"name": "piloswine", "types": ["ice", "ground"], "stats": {"hp": 100, "attack": 100, "defense": 80, "special-attack": 60, "special-defense": 60, "speed": 50}}

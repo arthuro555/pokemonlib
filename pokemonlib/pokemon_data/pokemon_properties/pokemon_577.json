@@ -1,1 +1,1 @@
-{"name": "solosis", "types": ["psychic"], "stats": {"speed": 20, "special-defense": 50, "special-attack": 105, "defense": 40, "attack": 30, "hp": 45}}
+{"name": "solosis", "types": ["psychic"], "stats": {"hp": 45, "attack": 30, "defense": 40, "special-attack": 105, "special-defense": 50, "speed": 20}}

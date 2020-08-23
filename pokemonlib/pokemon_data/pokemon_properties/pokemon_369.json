@@ -1,1 +1,1 @@
-{"name": "relicanth", "types": ["rock", "water"], "stats": {"speed": 55, "special-defense": 65, "special-attack": 45, "defense": 130, "attack": 90, "hp": 100}}
+{"name": "relicanth", "types": ["water", "rock"], "stats": {"hp": 100, "attack": 90, "defense": 130, "special-attack": 45, "special-defense": 65, "speed": 55}}

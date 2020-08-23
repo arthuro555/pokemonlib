@@ -1,1 +1,1 @@
-{"name": "hoppip", "types": ["flying", "grass"], "stats": {"speed": 50, "special-defense": 55, "special-attack": 35, "defense": 40, "attack": 35, "hp": 35}}
+{"name": "hoppip", "types": ["grass", "flying"], "stats": {"hp": 35, "attack": 35, "defense": 40, "special-attack": 35, "special-defense": 55, "speed": 50}}

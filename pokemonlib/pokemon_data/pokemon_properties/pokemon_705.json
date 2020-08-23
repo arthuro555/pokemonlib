@@ -1,1 +1,1 @@
-{"name": "sliggoo", "types": ["dragon"], "stats": {"speed": 60, "special-defense": 113, "special-attack": 83, "defense": 53, "attack": 75, "hp": 68}}
+{"name": "sliggoo", "types": ["dragon"], "stats": {"hp": 68, "attack": 75, "defense": 53, "special-attack": 83, "special-defense": 113, "speed": 60}}

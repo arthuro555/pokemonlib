@@ -1,1 +1,1 @@
-{"name": "pansear", "types": ["fire"], "stats": {"speed": 64, "special-defense": 48, "special-attack": 53, "defense": 48, "attack": 53, "hp": 50}}
+{"name": "pansear", "types": ["fire"], "stats": {"hp": 50, "attack": 53, "defense": 48, "special-attack": 53, "special-defense": 48, "speed": 64}}

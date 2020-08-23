@@ -1,1 +1,1 @@
-{"name": "drifblim", "types": ["flying", "ghost"], "stats": {"speed": 80, "special-defense": 54, "special-attack": 90, "defense": 44, "attack": 80, "hp": 150}}
+{"name": "drifblim", "types": ["ghost", "flying"], "stats": {"hp": 150, "attack": 80, "defense": 44, "special-attack": 90, "special-defense": 54, "speed": 80}}

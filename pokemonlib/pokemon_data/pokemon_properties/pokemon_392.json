@@ -1,1 +1,1 @@
-{"name": "infernape", "types": ["fighting", "fire"], "stats": {"speed": 108, "special-defense": 71, "special-attack": 104, "defense": 71, "attack": 104, "hp": 76}}
+{"name": "infernape", "types": ["fire", "fighting"], "stats": {"hp": 76, "attack": 104, "defense": 71, "special-attack": 104, "special-defense": 71, "speed": 108}}

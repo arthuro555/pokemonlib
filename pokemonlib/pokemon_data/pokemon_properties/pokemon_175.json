@@ -1,1 +1,1 @@
-{"name": "togepi", "types": ["fairy"], "stats": {"speed": 20, "special-defense": 65, "special-attack": 40, "defense": 65, "attack": 20, "hp": 35}}
+{"name": "togepi", "types": ["fairy"], "stats": {"hp": 35, "attack": 20, "defense": 65, "special-attack": 40, "special-defense": 65, "speed": 20}}

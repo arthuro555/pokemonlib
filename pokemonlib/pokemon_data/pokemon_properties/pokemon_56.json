@@ -1,1 +1,1 @@
-{"name": "mankey", "types": ["fighting"], "stats": {"speed": 70, "special-defense": 45, "special-attack": 35, "defense": 35, "attack": 80, "hp": 40}}
+{"name": "mankey", "types": ["fighting"], "stats": {"hp": 40, "attack": 80, "defense": 35, "special-attack": 35, "special-defense": 45, "speed": 70}}

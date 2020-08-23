@@ -1,1 +1,1 @@
-{"name": "glameow", "types": ["normal"], "stats": {"speed": 85, "special-defense": 37, "special-attack": 42, "defense": 42, "attack": 55, "hp": 49}}
+{"name": "glameow", "types": ["normal"], "stats": {"hp": 49, "attack": 55, "defense": 42, "special-attack": 42, "special-defense": 37, "speed": 85}}

@@ -1,1 +1,1 @@
-{"name": "illumise", "types": ["bug"], "stats": {"speed": 85, "special-defense": 85, "special-attack": 73, "defense": 75, "attack": 47, "hp": 65}}
+{"name": "illumise", "types": ["bug"], "stats": {"hp": 65, "attack": 47, "defense": 75, "special-attack": 73, "special-defense": 85, "speed": 85}}

@@ -1,1 +1,1 @@
-{"name": "slaking", "types": ["normal"], "stats": {"speed": 100, "special-defense": 65, "special-attack": 95, "defense": 100, "attack": 160, "hp": 150}}
+{"name": "slaking", "types": ["normal"], "stats": {"hp": 150, "attack": 160, "defense": 100, "special-attack": 95, "special-defense": 65, "speed": 100}}

@@ -1,1 +1,1 @@
-{"name": "dwebble", "types": ["rock", "bug"], "stats": {"speed": 55, "special-defense": 35, "special-attack": 35, "defense": 85, "attack": 65, "hp": 50}}
+{"name": "dwebble", "types": ["bug", "rock"], "stats": {"hp": 50, "attack": 65, "defense": 85, "special-attack": 35, "special-defense": 35, "speed": 55}}

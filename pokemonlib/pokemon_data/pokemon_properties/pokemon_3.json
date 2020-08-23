@@ -1,1 +1,1 @@
-{"name": "venusaur", "types": ["poison", "grass"], "stats": {"speed": 80, "special-defense": 100, "special-attack": 100, "defense": 83, "attack": 82, "hp": 80}}
+{"name": "venusaur", "types": ["grass", "poison"], "stats": {"hp": 80, "attack": 82, "defense": 83, "special-attack": 100, "special-defense": 100, "speed": 80}}

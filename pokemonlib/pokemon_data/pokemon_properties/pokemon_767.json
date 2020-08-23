@@ -1,1 +1,1 @@
-{"name": "wimpod", "types": ["water", "bug"], "stats": {"speed": 80, "special-defense": 30, "special-attack": 20, "defense": 40, "attack": 35, "hp": 25}}
+{"name": "wimpod", "types": ["bug", "water"], "stats": {"hp": 25, "attack": 35, "defense": 40, "special-attack": 20, "special-defense": 30, "speed": 80}}

@@ -1,1 +1,1 @@
-{"name": "ducklett", "types": ["flying", "water"], "stats": {"speed": 55, "special-defense": 50, "special-attack": 44, "defense": 50, "attack": 44, "hp": 62}}
+{"name": "ducklett", "types": ["water", "flying"], "stats": {"hp": 62, "attack": 44, "defense": 50, "special-attack": 44, "special-defense": 50, "speed": 55}}

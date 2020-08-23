@@ -1,1 +1,1 @@
-{"name": "slurpuff", "types": ["fairy"], "stats": {"speed": 72, "special-defense": 75, "special-attack": 85, "defense": 86, "attack": 80, "hp": 82}}
+{"name": "slurpuff", "types": ["fairy"], "stats": {"hp": 82, "attack": 80, "defense": 86, "special-attack": 85, "special-defense": 75, "speed": 72}}

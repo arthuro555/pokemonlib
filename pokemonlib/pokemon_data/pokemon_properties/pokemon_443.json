@@ -1,1 +1,1 @@
-{"name": "gible", "types": ["ground", "dragon"], "stats": {"speed": 42, "special-defense": 45, "special-attack": 40, "defense": 45, "attack": 70, "hp": 58}}
+{"name": "gible", "types": ["dragon", "ground"], "stats": {"hp": 58, "attack": 70, "defense": 45, "special-attack": 40, "special-defense": 45, "speed": 42}}

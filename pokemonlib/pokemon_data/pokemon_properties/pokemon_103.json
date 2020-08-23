@@ -1,1 +1,1 @@
-{"name": "exeggutor", "types": ["psychic", "grass"], "stats": {"speed": 55, "special-defense": 75, "special-attack": 125, "defense": 85, "attack": 95, "hp": 95}}
+{"name": "exeggutor", "types": ["grass", "psychic"], "stats": {"hp": 95, "attack": 95, "defense": 85, "special-attack": 125, "special-defense": 75, "speed": 55}}

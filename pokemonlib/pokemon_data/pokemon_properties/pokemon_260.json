@@ -1,1 +1,1 @@
-{"name": "swampert", "types": ["ground", "water"], "stats": {"speed": 60, "special-defense": 90, "special-attack": 85, "defense": 90, "attack": 110, "hp": 100}}
+{"name": "swampert", "types": ["water", "ground"], "stats": {"hp": 100, "attack": 110, "defense": 90, "special-attack": 85, "special-defense": 90, "speed": 60}}

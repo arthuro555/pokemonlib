@@ -1,1 +1,1 @@
-{"name": "azumarill", "types": ["fairy", "water"], "stats": {"speed": 50, "special-defense": 80, "special-attack": 60, "defense": 80, "attack": 50, "hp": 100}}
+{"name": "azumarill", "types": ["water", "fairy"], "stats": {"hp": 100, "attack": 50, "defense": 80, "special-attack": 60, "special-defense": 80, "speed": 50}}

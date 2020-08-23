@@ -1,1 +1,1 @@
-{"name": "crawdaunt", "types": ["dark", "water"], "stats": {"speed": 55, "special-defense": 55, "special-attack": 90, "defense": 85, "attack": 120, "hp": 63}}
+{"name": "crawdaunt", "types": ["water", "dark"], "stats": {"hp": 63, "attack": 120, "defense": 85, "special-attack": 90, "special-defense": 55, "speed": 55}}

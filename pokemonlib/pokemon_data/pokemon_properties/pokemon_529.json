@@ -1,1 +1,1 @@
-{"name": "drilbur", "types": ["ground"], "stats": {"speed": 68, "special-defense": 45, "special-attack": 30, "defense": 40, "attack": 85, "hp": 60}}
+{"name": "drilbur", "types": ["ground"], "stats": {"hp": 60, "attack": 85, "defense": 40, "special-attack": 30, "special-defense": 45, "speed": 68}}

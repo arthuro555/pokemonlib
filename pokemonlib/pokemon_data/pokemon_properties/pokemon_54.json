@@ -1,1 +1,1 @@
-{"name": "psyduck", "types": ["water"], "stats": {"speed": 55, "special-defense": 50, "special-attack": 65, "defense": 48, "attack": 52, "hp": 50}}
+{"name": "psyduck", "types": ["water"], "stats": {"hp": 50, "attack": 52, "defense": 48, "special-attack": 65, "special-defense": 50, "speed": 55}}

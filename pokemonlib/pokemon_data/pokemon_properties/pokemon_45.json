@@ -1,1 +1,1 @@
-{"name": "vileplume", "types": ["poison", "grass"], "stats": {"speed": 50, "special-defense": 90, "special-attack": 110, "defense": 85, "attack": 80, "hp": 75}}
+{"name": "vileplume", "types": ["grass", "poison"], "stats": {"hp": 75, "attack": 80, "defense": 85, "special-attack": 110, "special-defense": 90, "speed": 50}}

@@ -1,1 +1,1 @@
-{"name": "petilil", "types": ["grass"], "stats": {"speed": 30, "special-defense": 50, "special-attack": 70, "defense": 50, "attack": 35, "hp": 45}}
+{"name": "petilil", "types": ["grass"], "stats": {"hp": 45, "attack": 35, "defense": 50, "special-attack": 70, "special-defense": 50, "speed": 30}}

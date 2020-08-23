@@ -1,1 +1,1 @@
-{"name": "bellossom", "types": ["grass"], "stats": {"speed": 50, "special-defense": 100, "special-attack": 90, "defense": 95, "attack": 80, "hp": 75}}
+{"name": "bellossom", "types": ["grass"], "stats": {"hp": 75, "attack": 80, "defense": 95, "special-attack": 90, "special-defense": 100, "speed": 50}}

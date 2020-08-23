@@ -1,1 +1,1 @@
-{"name": "altaria", "types": ["flying", "dragon"], "stats": {"speed": 80, "special-defense": 105, "special-attack": 70, "defense": 90, "attack": 70, "hp": 75}}
+{"name": "altaria", "types": ["dragon", "flying"], "stats": {"hp": 75, "attack": 70, "defense": 90, "special-attack": 70, "special-defense": 105, "speed": 80}}

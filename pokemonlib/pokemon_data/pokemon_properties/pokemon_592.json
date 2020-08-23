@@ -1,1 +1,1 @@
-{"name": "frillish", "types": ["ghost", "water"], "stats": {"speed": 40, "special-defense": 85, "special-attack": 65, "defense": 50, "attack": 40, "hp": 55}}
+{"name": "frillish", "types": ["water", "ghost"], "stats": {"hp": 55, "attack": 40, "defense": 50, "special-attack": 65, "special-defense": 85, "speed": 40}}

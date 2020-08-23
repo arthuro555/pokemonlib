@@ -1,1 +1,1 @@
-{"name": "rattata", "types": ["normal"], "stats": {"speed": 72, "special-defense": 35, "special-attack": 25, "defense": 35, "attack": 56, "hp": 30}}
+{"name": "rattata", "types": ["normal"], "stats": {"hp": 30, "attack": 56, "defense": 35, "special-attack": 25, "special-defense": 35, "speed": 72}}

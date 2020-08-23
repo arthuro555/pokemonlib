@@ -1,1 +1,1 @@
-{"name": "rockruff", "types": ["rock"], "stats": {"speed": 60, "special-defense": 40, "special-attack": 30, "defense": 40, "attack": 65, "hp": 45}}
+{"name": "rockruff", "types": ["rock"], "stats": {"hp": 45, "attack": 65, "defense": 40, "special-attack": 30, "special-defense": 40, "speed": 60}}

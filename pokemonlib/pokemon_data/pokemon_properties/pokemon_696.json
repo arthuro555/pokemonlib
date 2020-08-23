@@ -1,1 +1,1 @@
-{"name": "tyrunt", "types": ["dragon", "rock"], "stats": {"speed": 48, "special-defense": 45, "special-attack": 45, "defense": 77, "attack": 89, "hp": 58}}
+{"name": "tyrunt", "types": ["rock", "dragon"], "stats": {"hp": 58, "attack": 89, "defense": 77, "special-attack": 45, "special-defense": 45, "speed": 48}}

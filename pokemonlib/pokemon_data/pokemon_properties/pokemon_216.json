@@ -1,1 +1,1 @@
-{"name": "teddiursa", "types": ["normal"], "stats": {"speed": 40, "special-defense": 50, "special-attack": 50, "defense": 50, "attack": 80, "hp": 60}}
+{"name": "teddiursa", "types": ["normal"], "stats": {"hp": 60, "attack": 80, "defense": 50, "special-attack": 50, "special-defense": 50, "speed": 40}}

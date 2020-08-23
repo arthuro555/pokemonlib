@@ -1,1 +1,1 @@
-{"name": "seismitoad", "types": ["ground", "water"], "stats": {"speed": 74, "special-defense": 75, "special-attack": 85, "defense": 75, "attack": 95, "hp": 105}}
+{"name": "seismitoad", "types": ["water", "ground"], "stats": {"hp": 105, "attack": 95, "defense": 75, "special-attack": 85, "special-defense": 75, "speed": 74}}

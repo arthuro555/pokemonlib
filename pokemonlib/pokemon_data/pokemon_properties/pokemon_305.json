@@ -1,1 +1,1 @@
-{"name": "lairon", "types": ["rock", "steel"], "stats": {"speed": 40, "special-defense": 50, "special-attack": 50, "defense": 140, "attack": 90, "hp": 60}}
+{"name": "lairon", "types": ["steel", "rock"], "stats": {"hp": 60, "attack": 90, "defense": 140, "special-attack": 50, "special-defense": 50, "speed": 40}}

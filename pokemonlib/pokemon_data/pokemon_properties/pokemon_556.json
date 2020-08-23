@@ -1,1 +1,1 @@
-{"name": "maractus", "types": ["grass"], "stats": {"speed": 60, "special-defense": 67, "special-attack": 106, "defense": 67, "attack": 86, "hp": 75}}
+{"name": "maractus", "types": ["grass"], "stats": {"hp": 75, "attack": 86, "defense": 67, "special-attack": 106, "special-defense": 67, "speed": 60}}

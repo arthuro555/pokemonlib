@@ -1,1 +1,1 @@
-{"name": "tranquill", "types": ["flying", "normal"], "stats": {"speed": 65, "special-defense": 42, "special-attack": 50, "defense": 62, "attack": 77, "hp": 62}}
+{"name": "tranquill", "types": ["normal", "flying"], "stats": {"hp": 62, "attack": 77, "defense": 62, "special-attack": 50, "special-defense": 42, "speed": 65}}

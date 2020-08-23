@@ -1,1 +1,1 @@
-{"name": "salandit", "types": ["fire", "poison"], "stats": {"speed": 77, "special-defense": 40, "special-attack": 71, "defense": 40, "attack": 44, "hp": 48}}
+{"name": "salandit", "types": ["poison", "fire"], "stats": {"hp": 48, "attack": 44, "defense": 40, "special-attack": 71, "special-defense": 40, "speed": 77}}

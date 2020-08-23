@@ -1,1 +1,1 @@
-{"name": "roserade", "types": ["poison", "grass"], "stats": {"speed": 90, "special-defense": 105, "special-attack": 125, "defense": 65, "attack": 70, "hp": 60}}
+{"name": "roserade", "types": ["grass", "poison"], "stats": {"hp": 60, "attack": 70, "defense": 65, "special-attack": 125, "special-defense": 105, "speed": 90}}

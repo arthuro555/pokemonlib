@@ -1,1 +1,1 @@
-{"name": "cryogonal", "types": ["ice"], "stats": {"speed": 105, "special-defense": 135, "special-attack": 95, "defense": 50, "attack": 50, "hp": 80}}
+{"name": "cryogonal", "types": ["ice"], "stats": {"hp": 80, "attack": 50, "defense": 50, "special-attack": 95, "special-defense": 135, "speed": 105}}

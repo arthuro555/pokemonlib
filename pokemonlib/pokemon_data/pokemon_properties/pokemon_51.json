@@ -1,1 +1,1 @@
-{"name": "dugtrio", "types": ["ground"], "stats": {"speed": 120, "special-defense": 70, "special-attack": 50, "defense": 50, "attack": 100, "hp": 35}}
+{"name": "dugtrio", "types": ["ground"], "stats": {"hp": 35, "attack": 100, "defense": 50, "special-attack": 50, "special-defense": 70, "speed": 120}}

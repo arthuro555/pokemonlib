@@ -1,1 +1,1 @@
-{"name": "aurorus", "types": ["ice", "rock"], "stats": {"speed": 58, "special-defense": 92, "special-attack": 99, "defense": 72, "attack": 77, "hp": 123}}
+{"name": "aurorus", "types": ["rock", "ice"], "stats": {"hp": 123, "attack": 77, "defense": 72, "special-attack": 99, "special-defense": 92, "speed": 58}}

@@ -1,1 +1,1 @@
-{"name": "doduo", "types": ["flying", "normal"], "stats": {"speed": 75, "special-defense": 35, "special-attack": 35, "defense": 45, "attack": 85, "hp": 35}}
+{"name": "doduo", "types": ["normal", "flying"], "stats": {"hp": 35, "attack": 85, "defense": 45, "special-attack": 35, "special-defense": 35, "speed": 75}}

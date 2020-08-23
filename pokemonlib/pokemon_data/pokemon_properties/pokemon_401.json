@@ -1,1 +1,1 @@
-{"name": "kricketot", "types": ["bug"], "stats": {"speed": 25, "special-defense": 41, "special-attack": 25, "defense": 41, "attack": 25, "hp": 37}}
+{"name": "kricketot", "types": ["bug"], "stats": {"hp": 37, "attack": 25, "defense": 41, "special-attack": 25, "special-defense": 41, "speed": 25}}

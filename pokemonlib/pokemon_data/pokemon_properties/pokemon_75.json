@@ -1,1 +1,1 @@
-{"name": "graveler", "types": ["ground", "rock"], "stats": {"speed": 35, "special-defense": 45, "special-attack": 45, "defense": 115, "attack": 95, "hp": 55}}
+{"name": "graveler", "types": ["rock", "ground"], "stats": {"hp": 55, "attack": 95, "defense": 115, "special-attack": 45, "special-defense": 45, "speed": 35}}

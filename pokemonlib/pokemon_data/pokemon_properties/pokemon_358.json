@@ -1,1 +1,1 @@
-{"name": "chimecho", "types": ["psychic"], "stats": {"speed": 65, "special-defense": 90, "special-attack": 95, "defense": 80, "attack": 50, "hp": 75}}
+{"name": "chimecho", "types": ["psychic"], "stats": {"hp": 75, "attack": 50, "defense": 80, "special-attack": 95, "special-defense": 90, "speed": 65}}

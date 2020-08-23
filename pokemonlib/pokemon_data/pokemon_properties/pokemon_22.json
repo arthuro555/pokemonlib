@@ -1,1 +1,1 @@
-{"name": "fearow", "types": ["flying", "normal"], "stats": {"speed": 100, "special-defense": 61, "special-attack": 61, "defense": 65, "attack": 90, "hp": 65}}
+{"name": "fearow", "types": ["normal", "flying"], "stats": {"hp": 65, "attack": 90, "defense": 65, "special-attack": 61, "special-defense": 61, "speed": 100}}

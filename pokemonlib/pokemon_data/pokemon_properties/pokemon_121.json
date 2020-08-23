@@ -1,1 +1,1 @@
-{"name": "starmie", "types": ["psychic", "water"], "stats": {"speed": 115, "special-defense": 85, "special-attack": 100, "defense": 85, "attack": 75, "hp": 60}}
+{"name": "starmie", "types": ["water", "psychic"], "stats": {"hp": 60, "attack": 75, "defense": 85, "special-attack": 100, "special-defense": 85, "speed": 115}}

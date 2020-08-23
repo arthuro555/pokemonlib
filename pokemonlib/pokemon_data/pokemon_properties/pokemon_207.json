@@ -1,1 +1,1 @@
-{"name": "gligar", "types": ["flying", "ground"], "stats": {"speed": 85, "special-defense": 65, "special-attack": 35, "defense": 105, "attack": 75, "hp": 65}}
+{"name": "gligar", "types": ["ground", "flying"], "stats": {"hp": 65, "attack": 75, "defense": 105, "special-attack": 35, "special-defense": 65, "speed": 85}}

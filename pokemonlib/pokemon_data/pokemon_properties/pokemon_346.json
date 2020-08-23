@@ -1,1 +1,1 @@
-{"name": "cradily", "types": ["grass", "rock"], "stats": {"speed": 43, "special-defense": 107, "special-attack": 81, "defense": 97, "attack": 81, "hp": 86}}
+{"name": "cradily", "types": ["rock", "grass"], "stats": {"hp": 86, "attack": 81, "defense": 97, "special-attack": 81, "special-defense": 107, "speed": 43}}

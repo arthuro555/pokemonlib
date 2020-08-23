@@ -1,1 +1,1 @@
-{"name": "wailord", "types": ["water"], "stats": {"speed": 60, "special-defense": 45, "special-attack": 90, "defense": 45, "attack": 90, "hp": 170}}
+{"name": "wailord", "types": ["water"], "stats": {"hp": 170, "attack": 90, "defense": 45, "special-attack": 90, "special-defense": 45, "speed": 60}}

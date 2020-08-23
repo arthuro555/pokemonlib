@@ -1,1 +1,1 @@
-{"name": "bergmite", "types": ["ice"], "stats": {"speed": 28, "special-defense": 35, "special-attack": 32, "defense": 85, "attack": 69, "hp": 55}}
+{"name": "bergmite", "types": ["ice"], "stats": {"hp": 55, "attack": 69, "defense": 85, "special-attack": 32, "special-defense": 35, "speed": 28}}

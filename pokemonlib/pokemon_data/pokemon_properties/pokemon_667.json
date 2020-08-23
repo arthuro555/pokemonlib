@@ -1,1 +1,1 @@
-{"name": "litleo", "types": ["normal", "fire"], "stats": {"speed": 72, "special-defense": 54, "special-attack": 73, "defense": 58, "attack": 50, "hp": 62}}
+{"name": "litleo", "types": ["fire", "normal"], "stats": {"hp": 62, "attack": 50, "defense": 58, "special-attack": 73, "special-defense": 54, "speed": 72}}

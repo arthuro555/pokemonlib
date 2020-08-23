@@ -1,1 +1,1 @@
-{"name": "krokorok", "types": ["dark", "ground"], "stats": {"speed": 74, "special-defense": 45, "special-attack": 45, "defense": 45, "attack": 82, "hp": 60}}
+{"name": "krokorok", "types": ["ground", "dark"], "stats": {"hp": 60, "attack": 82, "defense": 45, "special-attack": 45, "special-defense": 45, "speed": 74}}

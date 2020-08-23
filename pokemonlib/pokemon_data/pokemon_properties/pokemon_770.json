@@ -1,1 +1,1 @@
-{"name": "palossand", "types": ["ground", "ghost"], "stats": {"speed": 35, "special-defense": 75, "special-attack": 100, "defense": 110, "attack": 75, "hp": 85}}
+{"name": "palossand", "types": ["ghost", "ground"], "stats": {"hp": 85, "attack": 75, "defense": 110, "special-attack": 100, "special-defense": 75, "speed": 35}}

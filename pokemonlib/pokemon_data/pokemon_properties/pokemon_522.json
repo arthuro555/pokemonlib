@@ -1,1 +1,1 @@
-{"name": "blitzle", "types": ["electric"], "stats": {"speed": 76, "special-defense": 32, "special-attack": 50, "defense": 32, "attack": 60, "hp": 45}}
+{"name": "blitzle", "types": ["electric"], "stats": {"hp": 45, "attack": 60, "defense": 32, "special-attack": 50, "special-defense": 32, "speed": 76}}

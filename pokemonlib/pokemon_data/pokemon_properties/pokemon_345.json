@@ -1,1 +1,1 @@
-{"name": "lileep", "types": ["grass", "rock"], "stats": {"speed": 23, "special-defense": 87, "special-attack": 61, "defense": 77, "attack": 41, "hp": 66}}
+{"name": "lileep", "types": ["rock", "grass"], "stats": {"hp": 66, "attack": 41, "defense": 77, "special-attack": 61, "special-defense": 87, "speed": 23}}

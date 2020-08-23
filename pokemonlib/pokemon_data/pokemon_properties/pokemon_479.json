@@ -1,1 +1,1 @@
-{"name": "rotom", "types": ["ghost", "electric"], "stats": {"speed": 91, "special-defense": 77, "special-attack": 95, "defense": 77, "attack": 50, "hp": 50}}
+{"name": "rotom", "types": ["electric", "ghost"], "stats": {"hp": 50, "attack": 50, "defense": 77, "special-attack": 95, "special-defense": 77, "speed": 91}}

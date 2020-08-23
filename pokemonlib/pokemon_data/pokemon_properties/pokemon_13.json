@@ -1,1 +1,1 @@
-{"name": "weedle", "types": ["poison", "bug"], "stats": {"speed": 50, "special-defense": 20, "special-attack": 20, "defense": 30, "attack": 35, "hp": 40}}
+{"name": "weedle", "types": ["bug", "poison"], "stats": {"hp": 40, "attack": 35, "defense": 30, "special-attack": 20, "special-defense": 20, "speed": 50}}

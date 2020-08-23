@@ -1,1 +1,1 @@
-{"name": "stufful", "types": ["fighting", "normal"], "stats": {"speed": 50, "special-defense": 50, "special-attack": 45, "defense": 50, "attack": 75, "hp": 70}}
+{"name": "stufful", "types": ["normal", "fighting"], "stats": {"hp": 70, "attack": 75, "defense": 50, "special-attack": 45, "special-defense": 50, "speed": 50}}

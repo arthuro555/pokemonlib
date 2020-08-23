@@ -1,1 +1,1 @@
-{"name": "bunnelby", "types": ["normal"], "stats": {"speed": 57, "special-defense": 36, "special-attack": 32, "defense": 38, "attack": 36, "hp": 38}}
+{"name": "bunnelby", "types": ["normal"], "stats": {"hp": 38, "attack": 36, "defense": 38, "special-attack": 32, "special-defense": 36, "speed": 57}}

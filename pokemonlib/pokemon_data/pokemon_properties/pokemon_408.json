@@ -1,1 +1,1 @@
-{"name": "cranidos", "types": ["rock"], "stats": {"speed": 58, "special-defense": 30, "special-attack": 30, "defense": 40, "attack": 125, "hp": 67}}
+{"name": "cranidos", "types": ["rock"], "stats": {"hp": 67, "attack": 125, "defense": 40, "special-attack": 30, "special-defense": 30, "speed": 58}}

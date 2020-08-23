@@ -1,1 +1,1 @@
-{"name": "carracosta", "types": ["rock", "water"], "stats": {"speed": 32, "special-defense": 65, "special-attack": 83, "defense": 133, "attack": 108, "hp": 74}}
+{"name": "carracosta", "types": ["water", "rock"], "stats": {"hp": 74, "attack": 108, "defense": 133, "special-attack": 83, "special-defense": 65, "speed": 32}}

@@ -1,1 +1,1 @@
-{"name": "nidoking", "types": ["ground", "poison"], "stats": {"speed": 85, "special-defense": 75, "special-attack": 85, "defense": 77, "attack": 102, "hp": 81}}
+{"name": "nidoking", "types": ["poison", "ground"], "stats": {"hp": 81, "attack": 102, "defense": 77, "special-attack": 85, "special-defense": 75, "speed": 85}}

@@ -1,1 +1,1 @@
-{"name": "wigglytuff", "types": ["fairy", "normal"], "stats": {"speed": 45, "special-defense": 50, "special-attack": 85, "defense": 45, "attack": 70, "hp": 140}}
+{"name": "wigglytuff", "types": ["normal", "fairy"], "stats": {"hp": 140, "attack": 70, "defense": 45, "special-attack": 85, "special-defense": 50, "speed": 45}}

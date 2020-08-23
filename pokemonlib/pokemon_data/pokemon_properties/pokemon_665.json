@@ -1,1 +1,1 @@
-{"name": "spewpa", "types": ["bug"], "stats": {"speed": 29, "special-defense": 30, "special-attack": 27, "defense": 60, "attack": 22, "hp": 45}}
+{"name": "spewpa", "types": ["bug"], "stats": {"hp": 45, "attack": 22, "defense": 60, "special-attack": 27, "special-defense": 30, "speed": 29}}

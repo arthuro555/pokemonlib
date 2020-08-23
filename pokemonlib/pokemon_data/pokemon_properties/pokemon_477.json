@@ -1,1 +1,1 @@
-{"name": "dusknoir", "types": ["ghost"], "stats": {"speed": 45, "special-defense": 135, "special-attack": 65, "defense": 135, "attack": 100, "hp": 45}}
+{"name": "dusknoir", "types": ["ghost"], "stats": {"hp": 45, "attack": 100, "defense": 135, "special-attack": 65, "special-defense": 135, "speed": 45}}

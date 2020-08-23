@@ -1,1 +1,1 @@
-{"name": "wooper", "types": ["ground", "water"], "stats": {"speed": 15, "special-defense": 25, "special-attack": 25, "defense": 45, "attack": 45, "hp": 55}}
+{"name": "wooper", "types": ["water", "ground"], "stats": {"hp": 55, "attack": 45, "defense": 45, "special-attack": 25, "special-defense": 25, "speed": 15}}

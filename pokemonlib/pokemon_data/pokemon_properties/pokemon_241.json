@@ -1,1 +1,1 @@
-{"name": "miltank", "types": ["normal"], "stats": {"speed": 100, "special-defense": 70, "special-attack": 40, "defense": 105, "attack": 80, "hp": 95}}
+{"name": "miltank", "types": ["normal"], "stats": {"hp": 95, "attack": 80, "defense": 105, "special-attack": 40, "special-defense": 70, "speed": 100}}

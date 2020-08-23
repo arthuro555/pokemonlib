@@ -1,1 +1,1 @@
-{"name": "emboar", "types": ["fighting", "fire"], "stats": {"speed": 65, "special-defense": 65, "special-attack": 100, "defense": 65, "attack": 123, "hp": 110}}
+{"name": "emboar", "types": ["fire", "fighting"], "stats": {"hp": 110, "attack": 123, "defense": 65, "special-attack": 100, "special-defense": 65, "speed": 65}}

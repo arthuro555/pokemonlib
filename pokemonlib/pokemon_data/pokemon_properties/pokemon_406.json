@@ -1,1 +1,1 @@
-{"name": "budew", "types": ["poison", "grass"], "stats": {"speed": 55, "special-defense": 70, "special-attack": 50, "defense": 35, "attack": 30, "hp": 40}}
+{"name": "budew", "types": ["grass", "poison"], "stats": {"hp": 40, "attack": 30, "defense": 35, "special-attack": 50, "special-defense": 70, "speed": 55}}

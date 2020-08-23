@@ -1,1 +1,1 @@
-{"name": "whiscash", "types": ["ground", "water"], "stats": {"speed": 60, "special-defense": 71, "special-attack": 76, "defense": 73, "attack": 78, "hp": 110}}
+{"name": "whiscash", "types": ["water", "ground"], "stats": {"hp": 110, "attack": 78, "defense": 73, "special-attack": 76, "special-defense": 71, "speed": 60}}

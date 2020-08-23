@@ -1,1 +1,1 @@
-{"name": "celesteela", "types": ["flying", "steel"], "stats": {"speed": 61, "special-defense": 101, "special-attack": 107, "defense": 103, "attack": 101, "hp": 97}}
+{"name": "celesteela", "types": ["steel", "flying"], "stats": {"hp": 97, "attack": 101, "defense": 103, "special-attack": 107, "special-defense": 101, "speed": 61}}

@@ -1,1 +1,1 @@
-{"name": "golisopod", "types": ["water", "bug"], "stats": {"speed": 40, "special-defense": 90, "special-attack": 60, "defense": 140, "attack": 125, "hp": 75}}
+{"name": "golisopod", "types": ["bug", "water"], "stats": {"hp": 75, "attack": 125, "defense": 140, "special-attack": 60, "special-defense": 90, "speed": 40}}

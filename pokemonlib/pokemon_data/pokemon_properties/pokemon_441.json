@@ -1,1 +1,1 @@
-{"name": "chatot", "types": ["flying", "normal"], "stats": {"speed": 91, "special-defense": 42, "special-attack": 92, "defense": 45, "attack": 65, "hp": 76}}
+{"name": "chatot", "types": ["normal", "flying"], "stats": {"hp": 76, "attack": 65, "defense": 45, "special-attack": 92, "special-defense": 42, "speed": 91}}

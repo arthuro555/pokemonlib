@@ -1,1 +1,1 @@
-{"name": "abomasnow", "types": ["ice", "grass"], "stats": {"speed": 60, "special-defense": 85, "special-attack": 92, "defense": 75, "attack": 92, "hp": 90}}
+{"name": "abomasnow", "types": ["grass", "ice"], "stats": {"hp": 90, "attack": 92, "defense": 75, "special-attack": 92, "special-defense": 85, "speed": 60}}

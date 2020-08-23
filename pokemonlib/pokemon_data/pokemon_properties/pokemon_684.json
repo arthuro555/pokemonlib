@@ -1,1 +1,1 @@
-{"name": "swirlix", "types": ["fairy"], "stats": {"speed": 49, "special-defense": 57, "special-attack": 59, "defense": 66, "attack": 48, "hp": 62}}
+{"name": "swirlix", "types": ["fairy"], "stats": {"hp": 62, "attack": 48, "defense": 66, "special-attack": 59, "special-defense": 57, "speed": 49}}

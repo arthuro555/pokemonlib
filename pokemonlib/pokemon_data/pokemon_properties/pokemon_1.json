@@ -1,1 +1,1 @@
-{"name": "bulbasaur", "types": ["poison", "grass"], "stats": {"speed": 45, "special-defense": 65, "special-attack": 65, "defense": 49, "attack": 49, "hp": 45}}
+{"name": "bulbasaur", "types": ["grass", "poison"], "stats": {"hp": 45, "attack": 49, "defense": 49, "special-attack": 65, "special-defense": 65, "speed": 45}}

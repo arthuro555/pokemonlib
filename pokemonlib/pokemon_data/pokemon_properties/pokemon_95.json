@@ -1,1 +1,1 @@
-{"name": "onix", "types": ["ground", "rock"], "stats": {"speed": 70, "special-defense": 45, "special-attack": 30, "defense": 160, "attack": 45, "hp": 35}}
+{"name": "onix", "types": ["rock", "ground"], "stats": {"hp": 35, "attack": 45, "defense": 160, "special-attack": 30, "special-defense": 45, "speed": 70}}

@@ -1,1 +1,1 @@
-{"name": "gastrodon", "types": ["ground", "water"], "stats": {"speed": 39, "special-defense": 82, "special-attack": 92, "defense": 68, "attack": 83, "hp": 111}}
+{"name": "gastrodon", "types": ["water", "ground"], "stats": {"hp": 111, "attack": 83, "defense": 68, "special-attack": 92, "special-defense": 82, "speed": 39}}

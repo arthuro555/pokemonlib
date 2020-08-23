@@ -1,1 +1,1 @@
-{"name": "numel", "types": ["ground", "fire"], "stats": {"speed": 35, "special-defense": 45, "special-attack": 65, "defense": 40, "attack": 60, "hp": 60}}
+{"name": "numel", "types": ["fire", "ground"], "stats": {"hp": 60, "attack": 60, "defense": 40, "special-attack": 65, "special-defense": 45, "speed": 35}}

@@ -1,1 +1,1 @@
-{"name": "croconaw", "types": ["water"], "stats": {"speed": 58, "special-defense": 63, "special-attack": 59, "defense": 80, "attack": 80, "hp": 65}}
+{"name": "croconaw", "types": ["water"], "stats": {"hp": 65, "attack": 80, "defense": 80, "special-attack": 59, "special-defense": 63, "speed": 58}}

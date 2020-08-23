@@ -1,1 +1,1 @@
-{"name": "clauncher", "types": ["water"], "stats": {"speed": 44, "special-defense": 63, "special-attack": 58, "defense": 62, "attack": 53, "hp": 50}}
+{"name": "clauncher", "types": ["water"], "stats": {"hp": 50, "attack": 53, "defense": 62, "special-attack": 58, "special-defense": 63, "speed": 44}}

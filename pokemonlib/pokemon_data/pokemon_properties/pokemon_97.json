@@ -1,1 +1,1 @@
-{"name": "hypno", "types": ["psychic"], "stats": {"speed": 67, "special-defense": 115, "special-attack": 73, "defense": 70, "attack": 73, "hp": 85}}
+{"name": "hypno", "types": ["psychic"], "stats": {"hp": 85, "attack": 73, "defense": 70, "special-attack": 73, "special-defense": 115, "speed": 67}}

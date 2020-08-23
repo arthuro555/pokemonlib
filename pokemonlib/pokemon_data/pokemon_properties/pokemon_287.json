@@ -1,1 +1,1 @@
-{"name": "slakoth", "types": ["normal"], "stats": {"speed": 30, "special-defense": 35, "special-attack": 35, "defense": 60, "attack": 60, "hp": 60}}
+{"name": "slakoth", "types": ["normal"], "stats": {"hp": 60, "attack": 60, "defense": 60, "special-attack": 35, "special-defense": 35, "speed": 30}}

@@ -1,1 +1,1 @@
-{"name": "lurantis", "types": ["grass"], "stats": {"speed": 45, "special-defense": 90, "special-attack": 80, "defense": 90, "attack": 105, "hp": 70}}
+{"name": "lurantis", "types": ["grass"], "stats": {"hp": 70, "attack": 105, "defense": 90, "special-attack": 80, "special-defense": 90, "speed": 45}}

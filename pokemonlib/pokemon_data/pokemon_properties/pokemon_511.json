@@ -1,1 +1,1 @@
-{"name": "pansage", "types": ["grass"], "stats": {"speed": 64, "special-defense": 48, "special-attack": 53, "defense": 48, "attack": 53, "hp": 50}}
+{"name": "pansage", "types": ["grass"], "stats": {"hp": 50, "attack": 53, "defense": 48, "special-attack": 53, "special-defense": 48, "speed": 64}}

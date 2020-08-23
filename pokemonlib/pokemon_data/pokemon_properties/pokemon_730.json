@@ -1,1 +1,1 @@
-{"name": "primarina", "types": ["fairy", "water"], "stats": {"speed": 60, "special-defense": 116, "special-attack": 126, "defense": 74, "attack": 74, "hp": 80}}
+{"name": "primarina", "types": ["water", "fairy"], "stats": {"hp": 80, "attack": 74, "defense": 74, "special-attack": 126, "special-defense": 116, "speed": 60}}

@@ -1,1 +1,1 @@
-{"name": "cascoon", "types": ["bug"], "stats": {"speed": 15, "special-defense": 25, "special-attack": 25, "defense": 55, "attack": 35, "hp": 50}}
+{"name": "cascoon", "types": ["bug"], "stats": {"hp": 50, "attack": 35, "defense": 55, "special-attack": 25, "special-defense": 25, "speed": 15}}

@@ -1,1 +1,1 @@
-{"name": "empoleon", "types": ["steel", "water"], "stats": {"speed": 60, "special-defense": 101, "special-attack": 111, "defense": 88, "attack": 86, "hp": 84}}
+{"name": "empoleon", "types": ["water", "steel"], "stats": {"hp": 84, "attack": 86, "defense": 88, "special-attack": 111, "special-defense": 101, "speed": 60}}

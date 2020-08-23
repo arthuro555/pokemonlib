@@ -1,1 +1,1 @@
-{"name": "kirlia", "types": ["fairy", "psychic"], "stats": {"speed": 50, "special-defense": 55, "special-attack": 65, "defense": 35, "attack": 35, "hp": 38}}
+{"name": "kirlia", "types": ["psychic", "fairy"], "stats": {"hp": 38, "attack": 35, "defense": 35, "special-attack": 65, "special-defense": 55, "speed": 50}}

@@ -1,1 +1,1 @@
-{"name": "houndoom", "types": ["fire", "dark"], "stats": {"speed": 95, "special-defense": 80, "special-attack": 110, "defense": 50, "attack": 90, "hp": 75}}
+{"name": "houndoom", "types": ["dark", "fire"], "stats": {"hp": 75, "attack": 90, "defense": 50, "special-attack": 110, "special-defense": 80, "speed": 95}}

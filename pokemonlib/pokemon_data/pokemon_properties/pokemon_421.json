@@ -1,1 +1,1 @@
-{"name": "cherrim", "types": ["grass"], "stats": {"speed": 85, "special-defense": 78, "special-attack": 87, "defense": 70, "attack": 60, "hp": 70}}
+{"name": "cherrim", "types": ["grass"], "stats": {"hp": 70, "attack": 60, "defense": 70, "special-attack": 87, "special-defense": 78, "speed": 85}}

@@ -1,1 +1,1 @@
-{"name": "crabominable", "types": ["ice", "fighting"], "stats": {"speed": 43, "special-defense": 67, "special-attack": 62, "defense": 77, "attack": 132, "hp": 97}}
+{"name": "crabominable", "types": ["fighting", "ice"], "stats": {"hp": 97, "attack": 132, "defense": 77, "special-attack": 62, "special-defense": 67, "speed": 43}}

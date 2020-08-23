@@ -1,1 +1,1 @@
-{"name": "galvantula", "types": ["electric", "bug"], "stats": {"speed": 108, "special-defense": 60, "special-attack": 97, "defense": 60, "attack": 77, "hp": 70}}
+{"name": "galvantula", "types": ["bug", "electric"], "stats": {"hp": 70, "attack": 77, "defense": 60, "special-attack": 97, "special-defense": 60, "speed": 108}}

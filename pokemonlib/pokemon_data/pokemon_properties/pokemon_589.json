@@ -1,1 +1,1 @@
-{"name": "escavalier", "types": ["steel", "bug"], "stats": {"speed": 20, "special-defense": 105, "special-attack": 60, "defense": 105, "attack": 135, "hp": 70}}
+{"name": "escavalier", "types": ["bug", "steel"], "stats": {"hp": 70, "attack": 135, "defense": 105, "special-attack": 60, "special-defense": 105, "speed": 20}}

@@ -1,1 +1,1 @@
-{"name": "honchkrow", "types": ["flying", "dark"], "stats": {"speed": 71, "special-defense": 52, "special-attack": 105, "defense": 52, "attack": 125, "hp": 100}}
+{"name": "honchkrow", "types": ["dark", "flying"], "stats": {"hp": 100, "attack": 125, "defense": 52, "special-attack": 105, "special-defense": 52, "speed": 71}}

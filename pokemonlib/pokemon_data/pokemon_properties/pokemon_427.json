@@ -1,1 +1,1 @@
-{"name": "buneary", "types": ["normal"], "stats": {"speed": 85, "special-defense": 56, "special-attack": 44, "defense": 44, "attack": 66, "hp": 55}}
+{"name": "buneary", "types": ["normal"], "stats": {"hp": 55, "attack": 66, "defense": 44, "special-attack": 44, "special-defense": 56, "speed": 85}}

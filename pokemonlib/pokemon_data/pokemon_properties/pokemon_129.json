@@ -1,1 +1,1 @@
-{"name": "magikarp", "types": ["water"], "stats": {"speed": 80, "special-defense": 20, "special-attack": 15, "defense": 55, "attack": 10, "hp": 20}}
+{"name": "magikarp", "types": ["water"], "stats": {"hp": 20, "attack": 10, "defense": 55, "special-attack": 15, "special-defense": 20, "speed": 80}}

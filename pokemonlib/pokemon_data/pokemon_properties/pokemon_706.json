@@ -1,1 +1,1 @@
-{"name": "goodra", "types": ["dragon"], "stats": {"speed": 80, "special-defense": 150, "special-attack": 110, "defense": 70, "attack": 100, "hp": 90}}
+{"name": "goodra", "types": ["dragon"], "stats": {"hp": 90, "attack": 100, "defense": 70, "special-attack": 110, "special-defense": 150, "speed": 80}}

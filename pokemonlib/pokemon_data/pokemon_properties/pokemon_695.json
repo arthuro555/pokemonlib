@@ -1,1 +1,1 @@
-{"name": "heliolisk", "types": ["normal", "electric"], "stats": {"speed": 109, "special-defense": 94, "special-attack": 109, "defense": 52, "attack": 55, "hp": 62}}
+{"name": "heliolisk", "types": ["electric", "normal"], "stats": {"hp": 62, "attack": 55, "defense": 52, "special-attack": 109, "special-defense": 94, "speed": 109}}

@@ -1,1 +1,1 @@
-{"name": "arbok", "types": ["poison"], "stats": {"speed": 80, "special-defense": 79, "special-attack": 65, "defense": 69, "attack": 95, "hp": 60}}
+{"name": "arbok", "types": ["poison"], "stats": {"hp": 60, "attack": 95, "defense": 69, "special-attack": 65, "special-defense": 79, "speed": 80}}

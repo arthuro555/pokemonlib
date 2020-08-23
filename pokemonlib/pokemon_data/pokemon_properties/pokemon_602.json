@@ -1,1 +1,1 @@
-{"name": "tynamo", "types": ["electric"], "stats": {"speed": 60, "special-defense": 40, "special-attack": 45, "defense": 40, "attack": 55, "hp": 35}}
+{"name": "tynamo", "types": ["electric"], "stats": {"hp": 35, "attack": 55, "defense": 40, "special-attack": 45, "special-defense": 40, "speed": 60}}

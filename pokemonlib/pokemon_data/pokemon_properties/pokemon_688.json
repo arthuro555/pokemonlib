@@ -1,1 +1,1 @@
-{"name": "binacle", "types": ["water", "rock"], "stats": {"speed": 50, "special-defense": 56, "special-attack": 39, "defense": 67, "attack": 52, "hp": 42}}
+{"name": "binacle", "types": ["rock", "water"], "stats": {"hp": 42, "attack": 52, "defense": 67, "special-attack": 39, "special-defense": 56, "speed": 50}}

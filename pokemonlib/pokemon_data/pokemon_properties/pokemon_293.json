@@ -1,1 +1,1 @@
-{"name": "whismur", "types": ["normal"], "stats": {"speed": 28, "special-defense": 23, "special-attack": 51, "defense": 23, "attack": 51, "hp": 64}}
+{"name": "whismur", "types": ["normal"], "stats": {"hp": 64, "attack": 51, "defense": 23, "special-attack": 51, "special-defense": 23, "speed": 28}}

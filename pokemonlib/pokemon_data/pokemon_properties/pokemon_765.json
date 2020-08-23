@@ -1,1 +1,1 @@
-{"name": "oranguru", "types": ["psychic", "normal"], "stats": {"speed": 60, "special-defense": 110, "special-attack": 90, "defense": 80, "attack": 60, "hp": 90}}
+{"name": "oranguru", "types": ["normal", "psychic"], "stats": {"hp": 90, "attack": 60, "defense": 80, "special-attack": 90, "special-defense": 110, "speed": 60}}

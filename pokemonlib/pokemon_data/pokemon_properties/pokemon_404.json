@@ -1,1 +1,1 @@
-{"name": "luxio", "types": ["electric"], "stats": {"speed": 60, "special-defense": 49, "special-attack": 60, "defense": 49, "attack": 85, "hp": 60}}
+{"name": "luxio", "types": ["electric"], "stats": {"hp": 60, "attack": 85, "defense": 49, "special-attack": 60, "special-defense": 49, "speed": 60}}

@@ -1,1 +1,1 @@
-{"name": "steenee", "types": ["grass"], "stats": {"speed": 62, "special-defense": 48, "special-attack": 40, "defense": 48, "attack": 40, "hp": 52}}
+{"name": "steenee", "types": ["grass"], "stats": {"hp": 52, "attack": 40, "defense": 48, "special-attack": 40, "special-defense": 48, "speed": 62}}

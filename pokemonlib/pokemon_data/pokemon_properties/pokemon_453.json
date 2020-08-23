@@ -1,1 +1,1 @@
-{"name": "croagunk", "types": ["fighting", "poison"], "stats": {"speed": 50, "special-defense": 40, "special-attack": 61, "defense": 40, "attack": 61, "hp": 48}}
+{"name": "croagunk", "types": ["poison", "fighting"], "stats": {"hp": 48, "attack": 61, "defense": 40, "special-attack": 61, "special-defense": 40, "speed": 50}}

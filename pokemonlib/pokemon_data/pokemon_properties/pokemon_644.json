@@ -1,1 +1,1 @@
-{"name": "zekrom", "types": ["electric", "dragon"], "stats": {"speed": 90, "special-defense": 100, "special-attack": 120, "defense": 120, "attack": 150, "hp": 100}}
+{"name": "zekrom", "types": ["dragon", "electric"], "stats": {"hp": 100, "attack": 150, "defense": 120, "special-attack": 120, "special-defense": 100, "speed": 90}}

@@ -1,1 +1,1 @@
-{"name": "loudred", "types": ["normal"], "stats": {"speed": 48, "special-defense": 43, "special-attack": 71, "defense": 43, "attack": 71, "hp": 84}}
+{"name": "loudred", "types": ["normal"], "stats": {"hp": 84, "attack": 71, "defense": 43, "special-attack": 71, "special-defense": 43, "speed": 48}}

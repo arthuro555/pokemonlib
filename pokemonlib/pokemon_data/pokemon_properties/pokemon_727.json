@@ -1,1 +1,1 @@
-{"name": "incineroar", "types": ["dark", "fire"], "stats": {"speed": 60, "special-defense": 90, "special-attack": 80, "defense": 90, "attack": 115, "hp": 95}}
+{"name": "incineroar", "types": ["fire", "dark"], "stats": {"hp": 95, "attack": 115, "defense": 90, "special-attack": 80, "special-defense": 90, "speed": 60}}

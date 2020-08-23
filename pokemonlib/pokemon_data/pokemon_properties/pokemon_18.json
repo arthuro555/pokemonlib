@@ -1,1 +1,1 @@
-{"name": "pidgeot", "types": ["flying", "normal"], "stats": {"speed": 101, "special-defense": 70, "special-attack": 70, "defense": 75, "attack": 80, "hp": 83}}
+{"name": "pidgeot", "types": ["normal", "flying"], "stats": {"hp": 83, "attack": 80, "defense": 75, "special-attack": 70, "special-defense": 70, "speed": 101}}

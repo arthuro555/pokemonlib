@@ -1,1 +1,1 @@
-{"name": "delphox", "types": ["psychic", "fire"], "stats": {"speed": 104, "special-defense": 100, "special-attack": 114, "defense": 72, "attack": 69, "hp": 75}}
+{"name": "delphox", "types": ["fire", "psychic"], "stats": {"hp": 75, "attack": 69, "defense": 72, "special-attack": 114, "special-defense": 100, "speed": 104}}

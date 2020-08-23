@@ -1,1 +1,1 @@
-{"name": "hariyama", "types": ["fighting"], "stats": {"speed": 50, "special-defense": 60, "special-attack": 40, "defense": 60, "attack": 120, "hp": 144}}
+{"name": "hariyama", "types": ["fighting"], "stats": {"hp": 144, "attack": 120, "defense": 60, "special-attack": 40, "special-defense": 60, "speed": 50}}

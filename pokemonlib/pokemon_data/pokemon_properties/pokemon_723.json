@@ -1,1 +1,1 @@
-{"name": "dartrix", "types": ["flying", "grass"], "stats": {"speed": 52, "special-defense": 70, "special-attack": 70, "defense": 75, "attack": 75, "hp": 78}}
+{"name": "dartrix", "types": ["grass", "flying"], "stats": {"hp": 78, "attack": 75, "defense": 75, "special-attack": 70, "special-defense": 70, "speed": 52}}

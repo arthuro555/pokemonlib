@@ -1,1 +1,1 @@
-{"name": "dragonite", "types": ["flying", "dragon"], "stats": {"speed": 80, "special-defense": 100, "special-attack": 100, "defense": 95, "attack": 134, "hp": 91}}
+{"name": "dragonite", "types": ["dragon", "flying"], "stats": {"hp": 91, "attack": 134, "defense": 95, "special-attack": 100, "special-defense": 100, "speed": 80}}

@@ -1,1 +1,1 @@
-{"name": "flabebe", "types": ["fairy"], "stats": {"speed": 42, "special-defense": 79, "special-attack": 61, "defense": 39, "attack": 38, "hp": 44}}
+{"name": "flabebe", "types": ["fairy"], "stats": {"hp": 44, "attack": 38, "defense": 39, "special-attack": 61, "special-defense": 79, "speed": 42}}

@@ -1,1 +1,1 @@
-{"name": "noctowl", "types": ["flying", "normal"], "stats": {"speed": 70, "special-defense": 96, "special-attack": 86, "defense": 50, "attack": 50, "hp": 100}}
+{"name": "noctowl", "types": ["normal", "flying"], "stats": {"hp": 100, "attack": 50, "defense": 50, "special-attack": 86, "special-defense": 96, "speed": 70}}

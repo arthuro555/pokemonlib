@@ -1,1 +1,1 @@
-{"name": "ledyba", "types": ["flying", "bug"], "stats": {"speed": 55, "special-defense": 80, "special-attack": 40, "defense": 30, "attack": 20, "hp": 40}}
+{"name": "ledyba", "types": ["bug", "flying"], "stats": {"hp": 40, "attack": 20, "defense": 30, "special-attack": 40, "special-defense": 80, "speed": 55}}

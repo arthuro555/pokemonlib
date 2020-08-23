@@ -1,1 +1,1 @@
-{"name": "chikorita", "types": ["grass"], "stats": {"speed": 45, "special-defense": 65, "special-attack": 49, "defense": 65, "attack": 49, "hp": 45}}
+{"name": "chikorita", "types": ["grass"], "stats": {"hp": 45, "attack": 49, "defense": 65, "special-attack": 49, "special-defense": 65, "speed": 45}}

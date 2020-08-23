@@ -1,1 +1,1 @@
-{"name": "simisear", "types": ["fire"], "stats": {"speed": 101, "special-defense": 63, "special-attack": 98, "defense": 63, "attack": 98, "hp": 75}}
+{"name": "simisear", "types": ["fire"], "stats": {"hp": 75, "attack": 98, "defense": 63, "special-attack": 98, "special-defense": 63, "speed": 101}}
