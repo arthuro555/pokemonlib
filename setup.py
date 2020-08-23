@@ -29,7 +29,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/arthuro555/pokemonlib",
     packages=setuptools.find_packages(),
-    install_requires=['cryptography', 'pyglet', 'requests'],
+    install_requires=['requests'],
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
