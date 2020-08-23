@@ -52,27 +52,8 @@ as contributors of this repo. If someone contributes to the project by more than
 something really useful (like some english teacher who fixes all the typos) I will add them to a credit section
 and a file credits.txt.
 
-**WARNING** I have some conditions for contributions.
-
-1. Explain thoroughly what you changed/implemented, how and if it's not on my feature board on that file also why.
-2. Don't ask me questions on the code I don't have much free time and I prefer to use them to code myself.
-3. I probably won't document very much changes I do to the code and don't complain.
-4. Unless I make someone a contributor, This will stay **_my_** project and any code pushed by someone else will be
-considered as 'Donated' and will become mine. You accept by pushing anything here to give up on any copyright
-or rights that you own on the code you added/modified. I don't want my project to be steeled.
-5. I'm (With contributors if I add some) the one(s) that decide if someone should be added/removed from the credits.
-I am not obligated to let someone who contributed to the project on the list if I judge that wasn't enough because
-else the list could become too long and I don't want people's name that made real and good contributions to be
-hidden by hundreds of names of people that changed 2 characters.
-6. I'm the only one to decide if someone should be a contributor or not.
-7. DON'T COMPLAIN ON ANYTHING. IF YOU MAKE A CONTRIBUTION IT'S YOUR CHOICE AND AS THIS CONDITIONS WERE HERE
-SINCE THE FIRST COMMIT SO YOU KNEW THE CONDITIONS
-
 ### What this project is meant to become
 
 This project is for now pieces of code on which you can use to make a simple pokemon game.
-I want it to become a piece of software that you extend with your own script(s) and plugins.
-A bit like renpy. If it goes on so far that all the 'Core' stuff is done and also the 'Graphical' part I would
-want to make directly a 'Programming Language' for it (Just something to parse some pre defined syntax and connect it
-with the 'Core' API) or a visual editor (Like idk Geometry dash). Keep the goal in mind if you make contributions
-because if they are not compatible with my goals I will have to reject them.
+I want it to become a piece of software that you extend with your own script(s) and plugins, a bit like renpy. 
+If I manage to finish all the core and Engine part maybe a visual editor will be made. 
