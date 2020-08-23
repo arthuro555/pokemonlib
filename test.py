@@ -5,7 +5,7 @@ from pokemonlib.Core.Pokemon import Pokemon, Box, Team
 
 class TestPokemon(unittest.TestCase):
     def test_pokemon_init(self):
-        identifier = randint(0,800)
+        identifier = randint(1, 800)
         pokemon = Pokemon(identifier)
         self.assertEqual(pokemon._Pokemon__id, identifier)
 
@@ -25,15 +25,15 @@ class TestPokemon(unittest.TestCase):
 
 class TestTeam(unittest.TestCase):
     def test_team_one_pokemon(self):
-        identifier = randint(0, 800)
+        identifier = randint(1, 800)
         pokemon = Pokemon(identifier)
         team = Team(pokemon)
         self.assertEqual(team._Team__pokemonlist[0]._Pokemon__id, identifier)
 
     def test_team_many_pokemon(self):
-        identifier = randint(0, 800)
+        identifier = randint(1, 800)
         pokemon = Pokemon(identifier)
-        identifier2 = randint(0, 800)
+        identifier2 = randint(1, 800)
         pokemon2 = Pokemon(identifier2)
         team = Team(pokemon, pokemon2)
         self.assertEqual(team._Team__pokemonlist[0]._Pokemon__id, identifier)
@@ -42,15 +42,15 @@ class TestTeam(unittest.TestCase):
 
 class TestBox(unittest.TestCase):
     def test_box_init_one_pokemon(self):
-        identifier = randint(0, 800)
+        identifier = randint(1, 800)
         pokemon = Pokemon(identifier)
         box = Box(pokemon)
         self.assertEqual(box._Box__pokemonlist[0]._Pokemon__id, identifier)
 
     def test_box_init_many_pokemon(self):
-        identifier = randint(0, 800)
+        identifier = randint(1, 800)
         pokemon = Pokemon(identifier)
-        identifier2 = randint(0, 800)
+        identifier2 = randint(1, 800)
         pokemon2 = Pokemon(identifier2)
         box = Box(pokemon, pokemon2)
         self.assertEqual(box._Box__pokemonlist[0]._Pokemon__id, identifier)
@@ -59,9 +59,9 @@ class TestBox(unittest.TestCase):
 
 class PokemonClassDotPyTests(unittest.TestCase):
     def test_box_team_transfer(self):
-        pika = Pokemon(randint(0, 807))
-        chu = Pokemon(randint(0, 807))
-        ka = Pokemon(randint(0, 807))
+        pika = Pokemon(randint(1, 800))
+        chu = Pokemon(randint(1, 800))
+        ka = Pokemon(randint(1, 800))
         team = Team(pika)
         boxie = Box()
         Boxar = Box(chu)
